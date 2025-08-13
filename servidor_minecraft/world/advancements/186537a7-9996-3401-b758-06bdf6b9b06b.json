@@ -13135,7 +13135,8 @@
   },
   "croptopia:gather_food": {
     "criteria": {
-      "clam": "2025-08-12 22:30:22 +0000"
+      "clam": "2025-08-12 22:30:22 +0000",
+      "glowing_calamari": "2025-08-13 19:48:22 +0000"
     },
     "done": false
   },
@@ -15191,9 +15192,51 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/basalt_brick_wall_from_smooth_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.smooth_basalt": "2025-08-13 19:51:54 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/rolling_machine/cupronickel_heating_coil": {
+    "criteria": {
+      "has_nickel_ingot": "2025-08-13 19:44:24 +0000"
+    },
+    "done": true
+  },
+  "mythicupgrades:recipes/food/peridot_potion": {
+    "criteria": {
+      "has_peridot_crystal_shard": "2025-08-13 19:45:08 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/basalt_brick_from_smooth_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.smooth_basalt": "2025-08-13 19:51:54 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/cooked_calamari_from_glowing_calamari": {
+    "criteria": {
+      "has_glowing_calamari": "2025-08-13 19:48:22 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/misc/purple_dye_from_hyssop": {
     "criteria": {
       "has_hyssop": "2025-08-13 19:32:09 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/basalt_brick_stairs_from_smooth_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.smooth_basalt": "2025-08-13 19:51:54 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/basalt_blocks/smooth_basalt_brick_slab_from_smooth_basalt_stonecutting": {
+    "criteria": {
+      "has_item": "2025-08-13 19:51:54 +0000"
     },
     "done": true
   },
@@ -15203,15 +15246,75 @@
     },
     "done": true
   },
+  "twigs:recipes/basalt_blocks/smooth_basalt_brick_stairs_from_smooth_basalt_stonecutting": {
+    "criteria": {
+      "has_item": "2025-08-13 19:51:54 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/nickel_nugget": {
+    "criteria": {
+      "has_nickel_ingot": "2025-08-13 19:44:24 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/basalt_brick_slabs_from_smooth_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.smooth_basalt": "2025-08-13 19:51:54 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/nickel_storage_block": {
+    "criteria": {
+      "has_nickel_ingot": "2025-08-13 19:44:24 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/basalt_blocks/smooth_basalt_bricks_stonecutting": {
+    "criteria": {
+      "has_item": "2025-08-13 19:51:54 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/basalt_blocks/smooth_basalt_brick_wall_from_smooth_basalt_stonecutting": {
+    "criteria": {
+      "has_item": "2025-08-13 19:51:54 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/nickel_dust": {
+    "criteria": {
+      "has_tag_c_nickel_ingots": "2025-08-13 19:44:24 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/nickel_plate": {
+    "criteria": {
+      "has_tag_c_nickel_ingots": "2025-08-13 19:44:24 +0000"
+    },
+    "done": true
+  },
   "zenith:enchanting/enchanting_stats": {
     "criteria": {
       "enchanted_item": "2025-08-13 19:34:02 +0000"
     },
     "done": true
   },
+  "twigs:recipes/basalt_blocks/smooth_basalt_bricks": {
+    "criteria": {
+      "has_item": "2025-08-13 19:51:54 +0000"
+    },
+    "done": true
+  },
   "zenith:enchanting/30ench": {
     "criteria": {
       "enchanted_item": "2025-08-13 19:34:02 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/cooked_calamari_from_smoking_glowing_calamari": {
+    "criteria": {
+      "has_glowing_calamari": "2025-08-13 19:48:22 +0000"
     },
     "done": true
   },
