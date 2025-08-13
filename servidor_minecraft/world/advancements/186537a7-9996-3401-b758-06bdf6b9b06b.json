@@ -15202,6 +15202,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/basalt_brick_wall_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.basalt": "2025-08-13 21:07:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_crimsite_bricks_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-08-13 20:43:45 +0000"
@@ -15211,6 +15217,12 @@
   "betternether:recipes/building_blocks/basalt_brick_wall_from_smooth_stonecutting": {
     "criteria": {
       "has_block.minecraft.smooth_basalt": "2025-08-13 19:51:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-08-13 21:10:58 +0000"
     },
     "done": true
   },
@@ -15256,6 +15268,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/basalt_shingles_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-08-13 21:07:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_crimsite_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-08-13 20:43:45 +0000"
@@ -15292,6 +15310,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/basalt_pavers_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-08-13 21:07:51 +0000"
+    },
+    "done": true
+  },
   "mythicupgrades:recipes/food/peridot_potion": {
     "criteria": {
       "has_peridot_crystal_shard": "2025-08-13 19:45:08 +0000"
@@ -15313,6 +15337,48 @@
   "create:recipes/building_blocks/cut_limestone_bricks_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-08-13 20:43:49 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-08-13 21:07:51 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/basalt_tiles_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-08-13 21:07:51 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/basalt_bricks_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-08-13 21:07:51 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_basalt_slab_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-08-13 21:07:51 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_basalt_brick_stairs_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-08-13 21:07:51 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/basalt_slab_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.basalt": "2025-08-13 21:07:51 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/basalt_brick_wall_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-08-13 21:07:51 +0000"
     },
     "done": true
   },
@@ -15400,6 +15466,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_basalt_wall_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-08-13 21:07:51 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/basalt_brick_from_smooth_stonecutting": {
     "criteria": {
       "has_block.minecraft.smooth_basalt": "2025-08-13 19:51:54 +0000"
@@ -15466,9 +15538,27 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/basalt_brick_stairs_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.basalt": "2025-08-13 21:07:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-08-13 21:10:58 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/calcite_paver_wall_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-08-13 20:20:02 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/basalt_furnace": {
+    "criteria": {
+      "has_basalt": "2025-08-13 21:07:51 +0000"
     },
     "done": true
   },
@@ -15520,15 +15610,39 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/chiseled_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-08-13 21:07:51 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/basalt_blocks/smooth_basalt_brick_slab_from_smooth_basalt_stonecutting": {
     "criteria": {
       "has_item": "2025-08-13 19:51:54 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-08-13 21:10:58 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/calcite_tile_wall_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-08-13 20:20:02 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/basalt_paver_stairs_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-08-13 21:07:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-08-13 21:10:58 +0000"
     },
     "done": true
   },
@@ -15544,6 +15658,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/basalt_plate_stairs_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-08-13 21:07:51 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/polished_calcite_stairs_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-08-13 20:20:02 +0000"
@@ -15553,6 +15673,12 @@
   "twigs:recipes/calcite/polished_calcite": {
     "criteria": {
       "has_item": "2025-08-13 20:20:02 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/basalt_plate_slab_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-08-13 21:07:51 +0000"
     },
     "done": true
   },
@@ -15574,9 +15700,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-08-13 21:10:58 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/tool/peridot_sword": {
     "criteria": {
       "has_peridot_gem": "2025-08-13 20:06:33 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/basalt_plate_wall_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-08-13 21:07:51 +0000"
     },
     "done": true
   },
@@ -15601,6 +15739,12 @@
   "create:recipes/building_blocks/small_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-08-13 20:43:49 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_basalt_bricks_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-08-13 21:07:51 +0000"
     },
     "done": true
   },
@@ -15652,6 +15796,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-08-13 21:07:51 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/basalt_blocks/smooth_basalt_brick_stairs_from_smooth_basalt_stonecutting": {
     "criteria": {
       "has_item": "2025-08-13 19:51:54 +0000"
@@ -15688,6 +15838,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-08-13 21:10:58 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/tool/peridot_hoe": {
     "criteria": {
       "has_peridot_gem": "2025-08-13 20:06:33 +0000"
@@ -15703,6 +15859,18 @@
   "betternether:recipes/building_blocks/basalt_brick_slabs_from_smooth_stonecutting": {
     "criteria": {
       "has_block.minecraft.smooth_basalt": "2025-08-13 19:51:54 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_basalt_brick_slab_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-08-13 21:07:51 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/basalt_tile_wall_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-08-13 21:07:51 +0000"
     },
     "done": true
   },
@@ -15778,9 +15946,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/basalt_tile_stairs_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-08-13 21:07:51 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/calcite_brick_stairs_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-08-13 20:20:02 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/basalt_brick_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.basalt": "2025-08-13 21:07:51 +0000"
     },
     "done": true
   },
@@ -15844,6 +16024,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/basalt_brick_slabs_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.basalt": "2025-08-13 21:07:51 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/calcite_tile_slab_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-08-13 20:20:02 +0000"
@@ -15856,6 +16042,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/basalt_shingle_slab_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-08-13 21:07:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/limestone_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-08-13 20:43:49 +0000"
@@ -15865,6 +16057,12 @@
   "stoneworks:recipes/building_blocks/calcite_tiles_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-08-13 20:20:02 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/basalt_brick_stairs_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-08-13 21:07:51 +0000"
     },
     "done": true
   },
@@ -15886,6 +16084,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/basalt_shingle_wall_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-08-13 21:07:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_crimsite_brick_slab_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-08-13 20:43:45 +0000"
@@ -15895,6 +16099,12 @@
   "techreborn:recipes/grinder/peridot_dust": {
     "criteria": {
       "has_tag_c_peridot_gems": "2025-08-13 20:06:33 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/basalt_brick_slab_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-08-13 21:07:51 +0000"
     },
     "done": true
   },
@@ -15940,9 +16150,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_basalt_stairs_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-08-13 21:07:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_calcite_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-08-13 20:20:02 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_basalt_wall_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-08-13 21:07:51 +0000"
     },
     "done": true
   },
@@ -15958,9 +16180,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-08-13 21:10:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-08-13 20:43:49 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_basalt_tiles_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-08-13 21:07:51 +0000"
     },
     "done": true
   },
@@ -15976,6 +16210,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_basalt_brick_wall_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-08-13 21:07:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-08-13 20:20:02 +0000"
@@ -15985,6 +16225,12 @@
   "twigs:recipes/amethyst_blocks/cut_amethyst_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_item": "2025-08-13 20:20:05 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-08-13 21:07:51 +0000"
     },
     "done": true
   },
@@ -16018,9 +16264,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-08-13 21:10:58 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_calcite_stairs_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-08-13 20:20:02 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/basalt_shingle_stairs_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-08-13 21:07:51 +0000"
     },
     "done": true
   },
@@ -16042,9 +16300,21 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/basalt_basalt_slab": {
+    "criteria": {
+      "has_basalt": "2025-08-13 21:07:51 +0000"
+    },
+    "done": true
+  },
   "indrev:nikolite": {
     "criteria": {
       "checkInv": "2025-08-13 19:53:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-08-13 21:07:51 +0000"
     },
     "done": true
   },
@@ -16057,6 +16327,12 @@
   "soulsweapons:recipes/combat/skofnung_stone": {
     "criteria": {
       "has_item": "2025-08-13 20:19:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-08-13 21:10:58 +0000"
     },
     "done": true
   },
@@ -16084,9 +16360,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/basalt_tile_slab_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-08-13 21:07:51 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/calcite/calcite_slab_stonecutting": {
     "criteria": {
       "has_item": "2025-08-13 20:20:02 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_basalt_slab_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-08-13 21:07:51 +0000"
     },
     "done": true
   },
@@ -16096,9 +16384,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/basalt_paver_slab_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-08-13 21:07:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_crimsite_brick_stairs_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-08-13 20:43:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-08-13 21:07:51 +0000"
     },
     "done": true
   },
@@ -16123,6 +16423,12 @@
   "croptopia:recipes/food/cooked_calamari_from_smoking_glowing_calamari": {
     "criteria": {
       "has_glowing_calamari": "2025-08-13 19:48:22 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_basalt_bricks_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-08-13 21:07:51 +0000"
     },
     "done": true
   },
@@ -16168,15 +16474,33 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/basalt_plates_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-08-13 21:07:51 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_calcite_brick_stairs_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-08-13 20:20:02 +0000"
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/basalt_paver_wall_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-08-13 21:07:51 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cracked_calcite_bricks_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-08-13 20:20:02 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_basalt_stairs_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-08-13 21:07:51 +0000"
     },
     "done": true
   },
