@@ -15234,6 +15234,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-08-13 20:02:01 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/basalt_blocks/smooth_basalt_brick_slab_from_smooth_basalt_stonecutting": {
     "criteria": {
       "has_item": "2025-08-13 19:51:54 +0000"
@@ -15282,6 +15288,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-08-13 20:02:01 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/grinder/nickel_dust": {
     "criteria": {
       "has_tag_c_nickel_ingots": "2025-08-13 19:44:24 +0000"
@@ -15294,9 +15306,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-08-13 20:02:01 +0000"
+    },
+    "done": true
+  },
   "zenith:enchanting/enchanting_stats": {
     "criteria": {
       "enchanted_item": "2025-08-13 19:34:02 +0000"
+    },
+    "done": true
+  },
+  "indrev:nikolite": {
+    "criteria": {
+      "checkInv": "2025-08-13 19:53:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-08-13 20:02:01 +0000"
     },
     "done": true
   },
