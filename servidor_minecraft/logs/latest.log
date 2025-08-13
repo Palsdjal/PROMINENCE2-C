@@ -2154,3 +2154,41 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [20:02:43] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
 [20:03:03] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
 [20:03:04] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
+[20:19:00] [Server thread/INFO]: Taza_free has made the advancement [False Water]
+[20:20:06] [Server thread/INFO]: Taza_free has reached the goal [Postmortal]
+[20:20:07] [Server thread/INFO]: Taza_free was slain by Amethyst Golem
+[20:20:07] [Server thread/INFO]: Created new backpack backup file for Taza_free with unique ID travelersbackpack.iron_13.08.2025-20.20.07.dat
+[20:20:12] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[20:21:14] [Server thread/INFO]: Incorrect argument for command
+[20:21:14] [Server thread/INFO]: ...Taza_free 1833, 18, 1556<--[HERE]
+[20:21:32] [Server thread/INFO]: Teleported Taza_free to 1833.500000, 18.000000, 1556.500000
+[20:21:33] [Server thread/INFO]: Taza_free claimed a grave belonging to Taza_free at 1833, 18, 1556, minecraft:overworld
+[20:21:36] [Server thread/INFO]: Taza_free was slain by Amethyst Golem
+[20:21:36] [Server thread/INFO]: Created new backpack backup file for Taza_free with unique ID travelersbackpack.iron_13.08.2025-20.21.36.dat
+[20:21:37] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[20:21:47] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=1167, y=-8, z=1971}
+[20:21:47] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=1167, y=-8, z=1970}
+[20:22:08] [Server thread/INFO]: Teleported Taza_free to 1833.500000, 18.000000, 1556.500000
+[20:22:13] [Server thread/INFO]: Taza_free was slain by Amethyst Golem
+[20:22:15] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[20:22:34] [Server thread/INFO]: An entity is required to run this command here
+[20:22:59] [Server thread/INFO]: Teleported Taza_free to 1829.500000, 19.000000, 1550.500000
+[20:23:00] [Server thread/INFO]: Taza_free claimed a grave belonging to Taza_free at 1829, 17, 1551, minecraft:overworld
+[20:23:15] [Server thread/INFO]: Taza_free was slain by Amethyst Golem
+[20:23:15] [Server thread/INFO]: Created new backpack backup file for Taza_free with unique ID travelersbackpack.iron_13.08.2025-20.23.15.dat
+[20:23:17] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[20:23:40] [Server thread/INFO]: Teleported Taza_free to 1829.500000, 18.000000, 1550.500000
+[20:23:50] [Server thread/INFO]: Taza_free was slain by Amethyst Golem
+[20:23:50] [Server thread/INFO]: Did not backup data (grave data empty)
+[20:23:51] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[20:24:06] [Server thread/INFO]: Teleported Taza_free to 1830.500000, 18.000000, 1550.500000
+[20:24:08] [Server thread/INFO]: Taza_free claimed a grave belonging to Taza_free at 1833, 19, 1557, minecraft:overworld
+[20:24:11] [Server thread/INFO]: Taza_free claimed a grave belonging to Taza_free at 1837, 17, 1556, minecraft:overworld
+[20:26:31] [Server thread/INFO]: Taza_free was slain by Acolyte
+[20:26:31] [Server thread/INFO]: Created new backpack backup file for Taza_free with unique ID travelersbackpack.iron_13.08.2025-20.26.31.dat
+[20:26:31] [Netty Epoll Server IO #3/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[20:26:31] [Netty Epoll Server IO #3/ERROR]: Combo count: 3 is dual wielding: false
+[20:26:31] [Netty Epoll Server IO #3/ERROR]: Main-hand stack: 0 air
+[20:26:31] [Netty Epoll Server IO #3/ERROR]: Off-hand stack: 0 air
+[20:26:31] [Netty Epoll Server IO #3/ERROR]: Selected slot server: 5 | client: 5
+[20:26:33] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
