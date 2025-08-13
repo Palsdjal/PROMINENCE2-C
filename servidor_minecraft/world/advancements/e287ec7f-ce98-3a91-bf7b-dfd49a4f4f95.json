@@ -14262,9 +14262,33 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_helmet_with_mercury": {
+    "criteria": {
+      "has_diamond_helmet": "2025-08-13 06:13:06 +0000"
+    },
+    "done": true
+  },
+  "zenith:enchanting/enchanter": {
+    "criteria": {
+      "enchanting_table": "2025-08-13 06:07:27 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/globe_sepia": {
     "criteria": {
       "has_globe": "2025-08-13 06:03:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-08-13 06:10:33 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_helmet_with_water": {
+    "criteria": {
+      "has_diamond_helmet": "2025-08-13 06:13:06 +0000"
     },
     "done": true
   },

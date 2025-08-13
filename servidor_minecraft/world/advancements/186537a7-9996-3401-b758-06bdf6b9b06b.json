@@ -690,6 +690,7 @@
       "minecraft:phantom": "2025-08-11 18:54:37 +0000",
       "minecraft:witch": "2025-08-12 21:53:50 +0000",
       "minecraft:silverfish": "2025-08-12 02:04:27 +0000",
+      "minecraft:enderman": "2025-08-13 06:13:44 +0000",
       "minecraft:vex": "2025-08-12 22:04:47 +0000",
       "minecraft:zombie": "2025-08-10 20:55:51 +0000"
     },
@@ -15010,6 +15011,12 @@
     },
     "done": true
   },
+  "zenith:enchanting/enchanter": {
+    "criteria": {
+      "enchanting_table": "2025-08-13 06:06:30 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/schist/schist_stairs": {
     "criteria": {
       "has_item": "2025-08-13 06:02:10 +0000"
@@ -15139,6 +15146,12 @@
   "techreborn:recipes/misc/crafting_table/storage_block/sapphire_storage_block": {
     "criteria": {
       "has_sapphire_gem": "2025-08-13 05:59:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-08-13 06:08:53 +0000"
     },
     "done": true
   },
