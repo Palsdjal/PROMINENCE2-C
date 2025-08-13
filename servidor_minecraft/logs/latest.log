@@ -2211,3 +2211,5 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [20:37:23] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
 [20:46:20] [Server thread/INFO]: Villager class_1646['Lesa'/21282, l='ServerLevel[world]', x=2003.84, y=29.00, z=1444.70] died, message: 'Lesa was slain by Zombie'
 [20:46:20] [Server thread/INFO]: Named entity class_1646['Lesa'/21282, l='ServerLevel[world]', x=2003.84, y=29.00, z=1444.70] died: Lesa was slain by Zombie
+[21:26:15] [Server thread/INFO]: Set Taza_free's game mode to Spectator Mode
+[21:26:28] [Server thread/INFO]: Set Taza_free's game mode to Survival Mode
