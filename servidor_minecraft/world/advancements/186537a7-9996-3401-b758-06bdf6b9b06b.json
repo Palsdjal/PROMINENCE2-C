@@ -15193,6 +15193,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/ghast": {
+    "criteria": {
+      "has_ghast_tear": "2025-08-13 20:30:27 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/basalt_brick_wall_from_smooth_stonecutting": {
     "criteria": {
       "has_block.minecraft.smooth_basalt": "2025-08-13 19:51:54 +0000"
@@ -15202,6 +15208,12 @@
   "stoneworks:recipes/building_blocks/polished_calcite_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-08-13 20:20:02 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/blood_pendant": {
+    "criteria": {
+      "has_item": "2025-08-13 20:30:27 +0000"
     },
     "done": true
   },
@@ -15229,6 +15241,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/incense_stick": {
+    "criteria": {
+      "has_item": "2025-08-13 20:30:27 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/calcite/calcite_slab": {
     "criteria": {
       "has_item": "2025-08-13 20:20:02 +0000"
@@ -15250,6 +15268,12 @@
   "mythicupgrades:recipes/food/peridot_potion": {
     "criteria": {
       "has_peridot_crystal_shard": "2025-08-13 19:45:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-08-13 20:33:44 +0000"
     },
     "done": true
   },
@@ -15394,6 +15418,12 @@
   "create:recipes/building_blocks/cut_calcite_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-08-13 20:20:02 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_ghast_tear": "2025-08-13 20:30:27 +0000"
     },
     "done": true
   },
@@ -15697,6 +15727,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-08-13 20:33:44 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/grinder/nickel_dust": {
     "criteria": {
       "has_tag_c_nickel_ingots": "2025-08-13 19:44:24 +0000"
@@ -15856,6 +15892,12 @@
   "zenith:enchanting/30ench": {
     "criteria": {
       "enchanted_item": "2025-08-13 19:34:02 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/vanilla_piles/wither_rose": {
+    "criteria": {
+      "has_flower": "2025-08-13 20:33:44 +0000"
     },
     "done": true
   },
