@@ -2213,3 +2213,4 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [20:46:20] [Server thread/INFO]: Named entity class_1646['Lesa'/21282, l='ServerLevel[world]', x=2003.84, y=29.00, z=1444.70] died: Lesa was slain by Zombie
 [21:26:15] [Server thread/INFO]: Set Taza_free's game mode to Spectator Mode
 [21:26:28] [Server thread/INFO]: Set Taza_free's game mode to Survival Mode
+[21:35:22] [Server thread/INFO]: Taza_free has made the advancement [The Cutest Predator]
