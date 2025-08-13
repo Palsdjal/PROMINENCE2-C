@@ -14897,9 +14897,9 @@
     },
     "done": true
   },
-  "techreborn:recipes/compressor/zinc_plate": {
+  "techreborn:recipes/crafting_table/battery/lapotron_crystal": {
     "criteria": {
-      "has_tag_c_zinc_ingots": "2025-08-13 05:50:03 +0000"
+      "has_industrial_circuit": "2025-08-13 05:43:59 +0000"
     },
     "done": true
   },
@@ -14909,33 +14909,45 @@
     },
     "done": true
   },
-  "twigs:recipes/rhyolite/rhyolite_stairs_stonecutting": {
+  "techreborn:recipes/compressor/tin_plate": {
     "criteria": {
-      "has_item": "2025-08-13 05:52:12 +0000"
+      "has_tag_c_tin_ingots": "2025-08-13 05:49:25 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/ocelot_smithing": {
+  "techreborn:recipes/misc/crafting_table/nugget/tin_nugget": {
     "criteria": {
-      "has_ocelot": "2025-08-13 06:00:58 +0000"
+      "has_tin_ingot": "2025-08-13 05:49:25 +0000"
     },
     "done": true
   },
-  "twigs:recipes/schist/polished_schist": {
+  "techreborn:recipes/crafting_table/cable/tin_cable": {
     "criteria": {
-      "has_item": "2025-08-13 06:02:10 +0000"
+      "has_tin_ingot": "2025-08-13 05:49:25 +0000"
     },
     "done": true
   },
-  "twigs:recipes/rhyolite/rhyolite_slab": {
+  "techreborn:recipes/wire_mill/tin_cable": {
     "criteria": {
-      "has_item": "2025-08-13 05:52:12 +0000"
+      "has_tin_ingot": "2025-08-13 05:49:25 +0000"
     },
     "done": true
   },
-  "twigs:recipes/rhyolite/polished_rhyolite_bricks_from_rhyolite_stonecutting": {
+  "techreborn:recipes/misc/crafting_table/storage_block/tin_storage_block": {
     "criteria": {
-      "has_item": "2025-08-13 05:52:12 +0000"
+      "has_tin_ingot": "2025-08-13 05:49:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cell": {
+    "criteria": {
+      "has_tin_ingot": "2025-08-13 05:49:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/zinc_plate": {
+    "criteria": {
+      "has_tag_c_zinc_ingots": "2025-08-13 05:50:03 +0000"
     },
     "done": true
   },
@@ -14951,39 +14963,9 @@
     },
     "done": true
   },
-  "techreborn:recipes/misc/crafting_table/tool/sapphire_axe": {
-    "criteria": {
-      "has_sapphire_gem": "2025-08-13 05:59:30 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/armor/sapphire_helmet": {
-    "criteria": {
-      "has_sapphire_gem": "2025-08-13 05:59:30 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/compressor/tin_plate": {
-    "criteria": {
-      "has_tag_c_tin_ingots": "2025-08-13 05:49:25 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/rhyolite/polished_rhyolite_stonecutting": {
-    "criteria": {
-      "has_item": "2025-08-13 05:52:12 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/copycat_panel_from_zinc_ingots_stonecutting": {
     "criteria": {
       "has_zinc_ingots": "2025-08-13 05:50:03 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/tool/sapphire_pickaxe": {
-    "criteria": {
-      "has_sapphire_gem": "2025-08-13 05:59:30 +0000"
     },
     "done": true
   },
@@ -14993,63 +14975,57 @@
     },
     "done": true
   },
-  "techreborn:recipes/grinder/sapphire_dust": {
+  "create:recipes/misc/crafting/materials/andesite_alloy_from_zinc": {
     "criteria": {
-      "has_tag_c_sapphires": "2025-08-13 05:59:30 +0000"
+      "has_item": "2025-08-13 05:50:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/zinc_block_from_compacting": {
+    "criteria": {
+      "has_item": "2025-08-13 05:50:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copycat_step_from_zinc_ingots_stonecutting": {
+    "criteria": {
+      "has_zinc_ingots": "2025-08-13 05:50:03 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/bauxite_dust_from_bauxite_ore_with_water": {
+    "criteria": {
+      "has_tag_c_bauxite_ores": "2025-08-13 05:50:40 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_stairs_stonecutting": {
+    "criteria": {
+      "has_item": "2025-08-13 05:52:12 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_slab": {
+    "criteria": {
+      "has_item": "2025-08-13 05:52:12 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/polished_rhyolite_bricks_from_rhyolite_stonecutting": {
+    "criteria": {
+      "has_item": "2025-08-13 05:52:12 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/polished_rhyolite_stonecutting": {
+    "criteria": {
+      "has_item": "2025-08-13 05:52:12 +0000"
     },
     "done": true
   },
   "twigs:recipes/rhyolite/rhyolite_wall": {
     "criteria": {
       "has_item": "2025-08-13 05:52:12 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/nugget/tin_nugget": {
-    "criteria": {
-      "has_tin_ingot": "2025-08-13 05:49:25 +0000"
-    },
-    "done": true
-  },
-  "zenith:enchanting/enchanter": {
-    "criteria": {
-      "enchanting_table": "2025-08-13 06:06:30 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/schist/schist_stairs": {
-    "criteria": {
-      "has_item": "2025-08-13 06:02:10 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/schist/schist_slab_stonecutting": {
-    "criteria": {
-      "has_item": "2025-08-13 06:02:10 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/tool/sapphire_sword": {
-    "criteria": {
-      "has_sapphire_gem": "2025-08-13 05:59:30 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/schist/schist_wall": {
-    "criteria": {
-      "has_item": "2025-08-13 06:02:10 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/schist/polished_schist_stonecutting": {
-    "criteria": {
-      "has_item": "2025-08-13 06:02:10 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/tool/sapphire_hoe": {
-    "criteria": {
-      "has_sapphire_gem": "2025-08-13 05:59:30 +0000"
     },
     "done": true
   },
@@ -15071,9 +15047,45 @@
     },
     "done": true
   },
-  "techreborn:recipes/crafting_table/cable/tin_cable": {
+  "twigs:recipes/rhyolite/rhyolite_slab_stonecutting": {
     "criteria": {
-      "has_tin_ingot": "2025-08-13 05:49:25 +0000"
+      "has_item": "2025-08-13 05:52:12 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/sapphire_axe": {
+    "criteria": {
+      "has_sapphire_gem": "2025-08-13 05:59:30 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/sapphire_helmet": {
+    "criteria": {
+      "has_sapphire_gem": "2025-08-13 05:59:30 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/sapphire_pickaxe": {
+    "criteria": {
+      "has_sapphire_gem": "2025-08-13 05:59:30 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/sapphire_dust": {
+    "criteria": {
+      "has_tag_c_sapphires": "2025-08-13 05:59:30 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/sapphire_sword": {
+    "criteria": {
+      "has_sapphire_gem": "2025-08-13 05:59:30 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/sapphire_hoe": {
+    "criteria": {
+      "has_sapphire_gem": "2025-08-13 05:59:30 +0000"
     },
     "done": true
   },
@@ -15089,57 +15101,9 @@
     },
     "done": true
   },
-  "techreborn:recipes/crafting_table/battery/lapotron_crystal": {
-    "criteria": {
-      "has_industrial_circuit": "2025-08-13 05:43:59 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/andesite_alloy_from_zinc": {
-    "criteria": {
-      "has_item": "2025-08-13 05:50:03 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/wire_mill/tin_cable": {
-    "criteria": {
-      "has_tin_ingot": "2025-08-13 05:49:25 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/schist/schist_wall_stonecutting": {
-    "criteria": {
-      "has_item": "2025-08-13 06:02:10 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/rhyolite/rhyolite_slab_stonecutting": {
-    "criteria": {
-      "has_item": "2025-08-13 05:52:12 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/schist/schist_slab": {
-    "criteria": {
-      "has_item": "2025-08-13 06:02:10 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/storage_block/tin_storage_block": {
-    "criteria": {
-      "has_tin_ingot": "2025-08-13 05:49:25 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/misc/crafting_table/armor/sapphire_boots": {
     "criteria": {
       "has_sapphire_gem": "2025-08-13 05:59:30 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/schist/schist_stairs_stonecutting": {
-    "criteria": {
-      "has_item": "2025-08-13 06:02:10 +0000"
     },
     "done": true
   },
@@ -15149,27 +15113,63 @@
     },
     "done": true
   },
-  "minecraft:story/enchant_item": {
+  "techreborn:recipes/misc/crafting_table/armor/sapphire_leggings": {
     "criteria": {
-      "enchanted_item": "2025-08-13 06:08:53 +0000"
+      "has_sapphire_gem": "2025-08-13 05:59:30 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/crafting_table/cell": {
+  "travelersbackpack:recipes/misc/ocelot_smithing": {
     "criteria": {
-      "has_tin_ingot": "2025-08-13 05:49:25 +0000"
+      "has_ocelot": "2025-08-13 06:00:58 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/materials/zinc_block_from_compacting": {
+  "twigs:recipes/schist/polished_schist": {
     "criteria": {
-      "has_item": "2025-08-13 05:50:03 +0000"
+      "has_item": "2025-08-13 06:02:10 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/industrial_grinder/bauxite_dust_from_bauxite_ore_with_water": {
+  "twigs:recipes/schist/schist_stairs": {
     "criteria": {
-      "has_tag_c_bauxite_ores": "2025-08-13 05:50:40 +0000"
+      "has_item": "2025-08-13 06:02:10 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/schist/schist_slab_stonecutting": {
+    "criteria": {
+      "has_item": "2025-08-13 06:02:10 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/schist/schist_wall": {
+    "criteria": {
+      "has_item": "2025-08-13 06:02:10 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/schist/polished_schist_stonecutting": {
+    "criteria": {
+      "has_item": "2025-08-13 06:02:10 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/schist/schist_wall_stonecutting": {
+    "criteria": {
+      "has_item": "2025-08-13 06:02:10 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/schist/schist_slab": {
+    "criteria": {
+      "has_item": "2025-08-13 06:02:10 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/schist/schist_stairs_stonecutting": {
+    "criteria": {
+      "has_item": "2025-08-13 06:02:10 +0000"
     },
     "done": true
   },
@@ -15179,15 +15179,21 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/copycat_step_from_zinc_ingots_stonecutting": {
+  "zenith:enchanting/enchanter": {
     "criteria": {
-      "has_zinc_ingots": "2025-08-13 05:50:03 +0000"
+      "enchanting_table": "2025-08-13 06:06:30 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/misc/crafting_table/armor/sapphire_leggings": {
+  "minecraft:story/enchant_item": {
     "criteria": {
-      "has_sapphire_gem": "2025-08-13 05:59:30 +0000"
+      "enchanted_item": "2025-08-13 06:08:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/globe_sepia": {
+    "criteria": {
+      "has_globe": "2025-08-13 19:19:27 +0000"
     },
     "done": true
   },
