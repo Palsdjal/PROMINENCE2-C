@@ -2187,3 +2187,22 @@ BCLib - Nether BiomeSource (629b4502)
 [05:41:33] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player Taza_free. Claiming: GRAVE / Robbing: INVENTORY
 [05:41:38] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
 [05:44:51] [Server thread/INFO]: [STDOUT]: Finalizing energy item registration
+[06:03:49] [Server thread/INFO]: <Taza_free> tp
+[06:03:54] [Server thread/INFO]: <Taza_free> kbron
+[06:03:59] [Server thread/INFO]: <Taza_free> rápido
+[06:03:59] [Server thread/INFO]: [VadniesHael: Set own game mode to Survival Mode]
+[06:04:02] [Server thread/INFO]: <Taza_free> mua
+[06:04:05] [Server thread/INFO]: [VadniesHael: Teleported Taza_free to VadniesHael]
+[06:05:23] [Server thread/WARN]: VadniesHael moved wrongly!
+[06:05:26] [Server thread/WARN]: VadniesHael moved wrongly!
+[06:05:28] [Server thread/WARN]: VadniesHael moved wrongly!
+[06:05:28] [Server thread/WARN]: VadniesHael moved wrongly!
+[06:05:30] [Server thread/WARN]: VadniesHael moved wrongly!
+[06:05:32] [Server thread/WARN]: VadniesHael moved wrongly!
+[06:05:33] [Server thread/WARN]: VadniesHael moved wrongly!
+[06:05:34] [Server thread/WARN]: VadniesHael moved wrongly!
+[06:05:34] [Server thread/WARN]: VadniesHael moved wrongly!
+[06:05:36] [Server thread/WARN]: VadniesHael moved wrongly!
+[06:05:37] [Server thread/WARN]: VadniesHael moved wrongly!
+[06:06:30] [Server thread/INFO]: Taza_free has made the advancement [The Secrets of Enchanting]
+[06:07:27] [Server thread/INFO]: VadniesHael has made the advancement [The Secrets of Enchanting]
