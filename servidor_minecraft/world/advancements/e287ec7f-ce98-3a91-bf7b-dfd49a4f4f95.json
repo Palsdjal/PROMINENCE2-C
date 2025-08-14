@@ -14808,6 +14808,12 @@
     },
     "done": true
   },
+  "soulsweapons:trickweapon": {
+    "criteria": {
+      "condition_0": "2025-08-14 05:51:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2025-08-14 04:27:33 +0000"
@@ -15116,7 +15122,8 @@
   },
   "soulsweapons:all_weapons": {
     "criteria": {
-      "bluemoon_greatsword": "2025-08-14 04:13:29 +0000"
+      "bluemoon_greatsword": "2025-08-14 04:13:29 +0000",
+      "simons_bowblade": "2025-08-14 05:51:20 +0000"
     },
     "done": false
   },
