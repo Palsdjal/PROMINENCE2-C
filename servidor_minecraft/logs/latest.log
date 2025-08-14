@@ -2205,3 +2205,21 @@ BCLib - Nether BiomeSource (574992a5)
 [04:09:23] [Server thread/WARN]: Taza_free moved wrongly!
 [04:12:49] [Server thread/INFO]: Taza_free has made the advancement [A... Fake?]
 [04:13:29] [Server thread/INFO]: VadniesHael has made the advancement [A... Fake?]
+[04:26:08] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[04:27:06] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to 1543.500000, 60.500000, 1639.500000]
+[04:27:41] [Worker-Main-1/WARN]: Tried to access a block entity before it was created. class_2338{x=1023, y=-39, z=1956}
+[04:28:52] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[04:29:38] [Server thread/INFO]: VadniesHael was slain by Mimic
+[04:29:38] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.redstone_14.08.2025-04.29.38.dat
+[04:29:40] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[04:29:59] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to 1184.500000, 28.500000, 1886.500000]
+[04:30:00] [Server thread/INFO]: VadniesHael claimed a grave belonging to VadniesHael at 1184, 29, 1885, minecraft:overworld
+[04:30:06] [Server thread/INFO]: VadniesHael has made the advancement [Chest Slayer]
+[04:31:09] [Server thread/INFO]: VadniesHael was blown up by Skeleton Creeper
+[04:31:09] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.redstone_14.08.2025-04.31.09.dat
+[04:31:11] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[04:31:18] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to 1179.500000, 12.500000, 1903.500000]
+[04:31:21] [Server thread/INFO]: VadniesHael claimed a grave belonging to VadniesHael at 1179, 12, 1903, minecraft:overworld
+[04:31:31] [Server thread/INFO]: Taza_free has made the advancement [Disturbing the Dead I]
+[04:33:21] [Server thread/INFO]: Taza_free has made the advancement [Spooky Scary Skeleton]
+[04:34:09] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=1073, y=-21, z=2167}

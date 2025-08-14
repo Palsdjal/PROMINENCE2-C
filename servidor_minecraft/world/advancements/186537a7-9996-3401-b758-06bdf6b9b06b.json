@@ -16537,11 +16537,23 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/redstone_from_smelting_redstone_bulb": {
+    "criteria": {
+      "has_redstone_bulb": "2025-08-14 04:27:45 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:all_moonlight_weapons": {
     "criteria": {
       "bluemoon_greatsword": "2025-08-14 04:12:49 +0000"
     },
     "done": false
+  },
+  "regions_unexplored:recipes/redstone/redstone_from_blasting_redstone_bulb": {
+    "criteria": {
+      "has_redstone_bulb": "2025-08-14 04:27:45 +0000"
+    },
+    "done": true
   },
   "soulsweapons:all_weapons": {
     "criteria": {
