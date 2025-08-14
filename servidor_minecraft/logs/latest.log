@@ -2679,3 +2679,81 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 [21:55:40] [Server thread/INFO]: Created new backpack backup file for Taza_free with unique ID travelersbackpack.ocelot_14.08.2025-21.55.40.dat
 [21:55:42] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
 [21:55:44] [Server thread/INFO]: Taza_free claimed a grave belonging to Taza_free at -6257, 67, 93, minecraft:overworld
+[21:56:18] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[21:56:22] [Server thread/INFO]: <VadniesHael> XD
+[21:56:26] [Server thread/INFO]: <Taza_free> XD
+[21:56:55] [Server thread/INFO]: Taza_free was shot by Mutant Skeleton
+[21:56:55] [Server thread/INFO]: Created new backpack backup file for Taza_free with unique ID travelersbackpack.ocelot_14.08.2025-21.56.55.dat
+[21:56:57] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[21:57:01] [Server thread/INFO]: VadniesHael was shot by Mutant Skeleton
+[21:57:03] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[21:57:20] [Server thread/INFO]: Taza_free claimed a grave belonging to Taza_free at -6270, 64, 62, minecraft:overworld
+[21:57:40] [Server thread/INFO]: Taza_free was shot by Mutant Skeleton
+[21:57:40] [Server thread/INFO]: Created new backpack backup file for Taza_free with unique ID travelersbackpack.ocelot_14.08.2025-21.57.40.dat
+[21:57:44] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[21:57:54] [Server thread/INFO]: [VadniesHael: Teleported Taza_free to VadniesHael]
+[21:58:07] [Server thread/INFO]: VadniesHael claimed a grave belonging to VadniesHael at -6298, 80, 56, minecraft:overworld
+[21:58:10] [Server thread/INFO]: Taza_free was shot by Pillager
+[21:58:10] [Server thread/INFO]: Created new backpack backup file for Taza_free with unique ID travelersbackpack.ocelot_14.08.2025-21.58.10.dat
+[21:58:12] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[21:58:58] [Server thread/INFO]: Taza_free claimed a grave belonging to Taza_free at -6293, 76, 56, minecraft:overworld
+[21:59:34] [Server thread/INFO]: VadniesHael was slain by Vex
+[21:59:34] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.redstone_14.08.2025-21.59.34.dat
+[21:59:35] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[21:59:41] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[21:59:42] [Server thread/INFO]: Taza_free was slain by Vex
+[21:59:42] [Server thread/INFO]: Created new backpack backup file for Taza_free with unique ID travelersbackpack.ocelot_14.08.2025-21.59.42.dat
+[21:59:44] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[22:00:24] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[22:00:25] [Server thread/INFO]: VadniesHael claimed a grave belonging to VadniesHael at -6301, 68, 74, minecraft:overworld
+[22:00:47] [Server thread/INFO]: Taza_free claimed a grave belonging to Taza_free at -6283, 82, 58, minecraft:overworld
+[22:01:20] [Server thread/INFO]: Taza_free has made the advancement [A Realistical Logical Ideologist]
+[22:03:44] [Netty Epoll Server IO #2/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.network.LegacyQueryHandler.channelRead(LegacyQueryHandler.java:95) ~[server-intermediary.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.network.NetworkState$PacketHandler.createPacket(NetworkState.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.network.NetworkState.getPacketHandler(NetworkState.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.network.DecoderHandler.redirect$cog000$connectivity$checkDecodingError(DecoderHandler.java:570) ~[server-intermediary.jar:?]
+	at net.minecraft.network.DecoderHandler.decode(DecoderHandler.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 29 more
+[22:04:27] [Server thread/INFO]: Taza_free was blown up by Spruce Creeper
+[22:04:27] [Server thread/INFO]: Created new backpack backup file for Taza_free with unique ID travelersbackpack.ocelot_14.08.2025-22.04.27.dat
+[22:04:29] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[22:04:59] [Server thread/INFO]: Taza_free claimed a grave belonging to Taza_free at -6290, 68, 81, minecraft:overworld

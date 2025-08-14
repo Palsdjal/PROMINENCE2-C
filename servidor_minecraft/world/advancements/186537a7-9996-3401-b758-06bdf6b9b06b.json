@@ -18417,6 +18417,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_glazed_terracotta": {
+    "criteria": {
+      "has_purple_terracotta": "2025-08-14 21:53:27 +0000"
+    },
+    "done": true
+  },
   "beachparty:recipes/palm_pressure_plate": {
     "criteria": {
       "has_palm_planks": "2025-08-14 21:47:57 +0000"
@@ -18549,6 +18555,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_glazed_terracotta": {
+    "criteria": {
+      "has_magenta_terracotta": "2025-08-14 21:53:21 +0000"
+    },
+    "done": true
+  },
   "beachparty:recipes/beach_chair": {
     "criteria": {
       "has_palm_planks": "2025-08-14 21:47:57 +0000"
@@ -18600,6 +18612,12 @@
   "beachparty:recipes/palm_wood": {
     "criteria": {
       "has_palm_wood": "2025-08-14 21:47:52 +0000"
+    },
+    "done": true
+  },
+  "botania:main/lexicon_use": {
+    "criteria": {
+      "use_lexicon": "2025-08-14 22:01:20 +0000"
     },
     "done": true
   },
