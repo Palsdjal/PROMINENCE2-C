@@ -18336,6 +18336,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/spruce_sapling_from_spruce_shrub": {
+    "criteria": {
+      "has_spruce_shrub": "2025-08-14 19:16:43 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/gray_dye_from_dead_fire_coral": {
     "criteria": {
       "has_dead_fire_coral": "2025-08-14 18:49:08 +0000"
