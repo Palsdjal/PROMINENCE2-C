@@ -3294,6 +3294,7 @@
       "frozen_pine_taiga": "2025-08-12 05:40:30 +0000",
       "joshua_desert": "2025-08-10 22:54:59 +0000",
       "mountains": "2025-08-11 07:12:07 +0000",
+      "sparse_redwoods": "2025-08-14 05:59:26 +0000",
       "deciduous_forest": "2025-08-10 17:48:05 +0000",
       "boreal_forest": "2025-08-13 00:59:59 +0000",
       "chalk_cliffs": "2025-08-10 17:49:10 +0000",
@@ -3330,6 +3331,7 @@
       "frozen_pine_taiga": "2025-08-12 05:40:30 +0000",
       "joshua_desert": "2025-08-10 22:54:59 +0000",
       "mountains": "2025-08-11 07:12:07 +0000",
+      "sparse_redwoods": "2025-08-14 05:59:26 +0000",
       "deciduous_forest": "2025-08-10 17:48:05 +0000",
       "boreal_forest": "2025-08-13 00:59:59 +0000",
       "chalk_cliffs": "2025-08-10 17:49:10 +0000",
@@ -14418,6 +14420,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/dark_oak_beam": {
+    "criteria": {
+      "has_stripped_log": "2025-08-14 05:57:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_limestone_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-08-14 04:04:23 +0000"
@@ -14448,6 +14456,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_boots_with_mercury": {
+    "criteria": {
+      "has_diamond_boots": "2025-08-14 05:57:37 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-14 04:27:33 +0000"
@@ -14457,6 +14471,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2025-08-14 04:27:33 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_boots_with_water": {
+    "criteria": {
+      "has_diamond_boots": "2025-08-14 05:57:37 +0000"
     },
     "done": true
   },
@@ -14517,6 +14537,12 @@
   "stoneworks:recipes/building_blocks/cracked_granite_tiles_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-14 04:27:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-08-14 05:57:02 +0000"
     },
     "done": true
   },
@@ -15075,6 +15101,12 @@
   "stoneworks:recipes/building_blocks/granite_plate_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-14 04:27:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-08-14 05:57:02 +0000"
     },
     "done": true
   },
