@@ -13152,10 +13152,14 @@
   "croptopia:gather_food": {
     "criteria": {
       "cooked_shrimp": "2025-08-14 07:09:05 +0000",
+      "anchovy": "2025-08-14 17:18:03 +0000",
       "clam": "2025-08-12 22:30:22 +0000",
+      "cooked_tuna": "2025-08-14 17:20:36 +0000",
       "calamari": "2025-08-14 06:34:56 +0000",
+      "tuna": "2025-08-14 17:20:36 +0000",
       "glowing_calamari": "2025-08-13 19:48:22 +0000",
-      "oyster": "2025-08-14 07:09:05 +0000"
+      "oyster": "2025-08-14 07:09:05 +0000",
+      "crab": "2025-08-14 17:12:44 +0000"
     },
     "done": false
   },
@@ -18151,15 +18155,135 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/cooked_tuna_from_smoking_tuna": {
+    "criteria": {
+      "has_tuna": "2025-08-14 17:20:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-08-14 17:19:56 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/steamed_crab": {
+    "criteria": {
+      "has_crab": "2025-08-14 17:12:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/insulated_hv_cable_shapeless": {
+    "criteria": {
+      "has_rubber": "2025-08-14 17:19:56 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/cooked_anchovy_from_anchovy": {
+    "criteria": {
+      "has_anchovy": "2025-08-14 17:18:03 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/redstone/trapped_elder_chest": {
+    "criteria": {
+      "has_item": "2025-08-14 17:19:56 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/tuna_roll": {
+    "criteria": {
+      "has_tuna": "2025-08-14 17:20:36 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_small_dust_from_treetap": {
+    "criteria": {
+      "has_treetap": "2025-08-14 17:19:56 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/deep_fried_shrimp": {
     "criteria": {
       "has_shrimp": "2025-08-14 17:11:31 +0000"
     },
     "done": true
   },
+  "croptopia:recipes/misc/crab_legs": {
+    "criteria": {
+      "has_crab": "2025-08-14 17:12:44 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/anchovy_pizza": {
+    "criteria": {
+      "has_anchovies": "2025-08-14 17:18:03 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/scrap_box": {
+    "criteria": {
+      "has_scrap": "2025-08-14 17:19:56 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/redstone/trapped_juniper_chest": {
+    "criteria": {
+      "has_item": "2025-08-14 17:19:56 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/insulated_copper_cable_shapeless": {
+    "criteria": {
+      "has_rubber": "2025-08-14 17:19:56 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/cooked_anchovy_from_smoking_anchovy": {
+    "criteria": {
+      "has_anchovy": "2025-08-14 17:18:03 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/food/cooked_shrimp_from_smoking_shrimp": {
     "criteria": {
       "has_shrimp": "2025-08-14 17:11:31 +0000"
+    },
+    "done": true
+  },
+  "techreborn:rubber": {
+    "criteria": {
+      "crit_0": "2025-08-14 17:19:56 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/redstone/trapped_cypress_chest": {
+    "criteria": {
+      "has_item": "2025-08-14 17:19:56 +0000"
+    },
+    "done": true
+  },
+  "techreborn:treetap": {
+    "criteria": {
+      "crit_0": "2025-08-14 17:19:56 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/cooked_tuna_from_tuna": {
+    "criteria": {
+      "has_tuna": "2025-08-14 17:20:36 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/insulated_gold_cable_shapeless": {
+    "criteria": {
+      "has_rubber": "2025-08-14 17:19:56 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/redstone/trapped_dragons_blood_chest": {
+    "criteria": {
+      "has_item": "2025-08-14 17:19:56 +0000"
     },
     "done": true
   },

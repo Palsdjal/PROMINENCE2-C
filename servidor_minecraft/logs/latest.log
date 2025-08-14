@@ -2162,3 +2162,5 @@ BCLib - Nether BiomeSource (73024c08)
 [17:09:40] [Netty Epoll Server IO #4/INFO]: Channel update: Taza_free -> default
 [17:09:40] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player Taza_free. Claiming: GRAVE / Robbing: INVENTORY
 [17:09:44] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[17:19:56] [Server thread/INFO]: Taza_free has made the advancement [Tapping Time]
+[17:19:56] [Server thread/INFO]: Taza_free has made the advancement [Not So Sticky]
