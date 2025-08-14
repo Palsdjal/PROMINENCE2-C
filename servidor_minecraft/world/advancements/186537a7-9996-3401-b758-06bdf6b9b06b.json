@@ -18574,6 +18574,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/fel_pumpkin": {
+    "criteria": {
+      "has_item": "2025-08-14 22:32:49 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/mushroom_stew": {
     "criteria": {
       "has_any_ingredient": "2025-08-14 22:20:10 +0000"
@@ -18598,6 +18604,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2025-08-14 22:32:49 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/redwood_button": {
     "criteria": {
       "has_redwood_planks": "2025-08-14 21:24:47 +0000"
@@ -18607,6 +18619,12 @@
   "beachparty:recipes/hooded_beach_chair": {
     "criteria": {
       "has_palm_planks": "2025-08-14 21:47:57 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:emberlash": {
+    "criteria": {
+      "requirement": "2025-08-14 22:28:18 +0000"
     },
     "done": true
   },
@@ -18625,6 +18643,18 @@
   "beachparty:recipes/palm_sign": {
     "criteria": {
       "has_palm_planks": "2025-08-14 21:47:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-08-14 22:32:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-14 22:32:49 +0000"
     },
     "done": true
   },
@@ -18691,6 +18721,18 @@
   "botania:recipes/tools/dodge_ring": {
     "criteria": {
       "has_item": "2025-08-14 22:07:48 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/pumpkin_soup": {
+    "criteria": {
+      "has_pumpkin": "2025-08-14 22:32:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-08-14 22:32:49 +0000"
     },
     "done": true
   },
@@ -18796,6 +18838,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2025-08-14 22:32:49 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/redwood_planks": {
     "criteria": {
       "has_logs": "2025-08-14 21:19:18 +0000"
@@ -18817,6 +18865,12 @@
   "botania:recipes/tools/monocle": {
     "criteria": {
       "has_item": "2025-08-14 22:07:48 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/pumpkin_bars": {
+    "criteria": {
+      "has_pumpkin": "2025-08-14 22:32:49 +0000"
     },
     "done": true
   },
@@ -18865,6 +18919,12 @@
   "botania:recipes/combat/manasteel_helmet": {
     "criteria": {
       "has_item": "2025-08-14 22:07:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2025-08-14 22:32:49 +0000"
     },
     "done": true
   },

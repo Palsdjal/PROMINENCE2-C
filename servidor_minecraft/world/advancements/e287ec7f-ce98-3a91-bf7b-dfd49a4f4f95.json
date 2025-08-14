@@ -16451,6 +16451,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/grinder": {
+    "criteria": {
+      "has_basic_machine_frame": "2025-08-14 22:24:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2025-08-14 21:18:43 +0000"
@@ -16469,9 +16475,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine_block/basic_machine_casing_alt": {
+    "criteria": {
+      "has_basic_machine_frame": "2025-08-14 22:24:07 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/jungle_dining_bench": {
     "criteria": {
       "has_jungle_dining_bench": "2025-08-14 21:07:11 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_blaze": {
+    "criteria": {
+      "has_item": "2025-08-14 22:27:04 +0000"
     },
     "done": true
   },
@@ -16571,6 +16589,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-08-14 22:26:12 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/conversions/manasteel_block_deconstruct": {
     "criteria": {
       "has_item": "2025-08-14 21:43:14 +0000"
@@ -16589,9 +16613,21 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/nether_quartz_axe": {
+    "criteria": {
+      "has_nether_quartz": "2025-08-14 22:27:04 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/ice_pendant": {
     "criteria": {
       "has_item": "2025-08-14 21:43:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-08-14 22:27:04 +0000"
     },
     "done": true
   },
@@ -16631,6 +16667,18 @@
     },
     "done": true
   },
+  "quartzelv:recipes/building_blocks/quartz_elevator": {
+    "criteria": {
+      "has_quartz": "2025-08-14 22:27:04 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/compressor": {
+    "criteria": {
+      "has_basic_machine_frame": "2025-08-14 22:24:07 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/steel_ingot_from_refined_iron_and_carbon": {
     "criteria": {
       "has_refined_iron": "2025-08-14 21:04:46 +0000"
@@ -16667,6 +16715,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-08-14 22:27:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-08-14 22:27:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2025-08-14 22:20:25 +0000"
@@ -16679,9 +16739,21 @@
     },
     "done": true
   },
+  "simplyswords:emberlash": {
+    "criteria": {
+      "requirement": "2025-08-14 22:29:26 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/jungle_nightstand": {
     "criteria": {
       "has_jungle_nightstand": "2025-08-14 21:07:11 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_pickaxe": {
+    "criteria": {
+      "has_nether_quartz": "2025-08-14 22:27:04 +0000"
     },
     "done": true
   },
@@ -16715,6 +16787,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/canning_machine": {
+    "criteria": {
+      "has_basic_machine_frame": "2025-08-14 22:24:07 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/andesite_pedestal": {
     "criteria": {
       "has_polished_andesite": "2025-08-14 21:18:43 +0000"
@@ -16724,6 +16802,12 @@
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2025-08-14 21:07:11 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_chestplate": {
+    "criteria": {
+      "has_golden_chestplate": "2025-08-14 22:38:36 +0000"
     },
     "done": true
   },
@@ -16775,6 +16859,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/nether_quartz_wrench": {
+    "criteria": {
+      "has_nether_quartz": "2025-08-14 22:27:04 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/manasteel_shovel": {
     "criteria": {
       "has_item": "2025-08-14 21:43:14 +0000"
@@ -16823,6 +16913,12 @@
     },
     "done": true
   },
+  "twigs:recipes/bloodstone/bloodstone": {
+    "criteria": {
+      "has_item": "2025-08-14 22:27:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2025-08-14 21:07:02 +0000"
@@ -16850,6 +16946,18 @@
   "handcrafted:recipes/misc/jungle_side_table": {
     "criteria": {
       "has_jungle_side_table": "2025-08-14 21:07:11 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/gemstone_white": {
+    "criteria": {
+      "has_quartz": "2025-08-14 22:27:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-08-14 22:27:04 +0000"
     },
     "done": true
   },
@@ -16895,9 +17003,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/extractor": {
+    "criteria": {
+      "has_basic_machine_frame": "2025-08-14 22:24:07 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/jungle_drawer": {
     "criteria": {
       "has_jungle_drawer": "2025-08-14 21:07:11 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine_block/basic_machine_casing": {
+    "criteria": {
+      "has_basic_machine_frame": "2025-08-14 22:24:07 +0000"
     },
     "done": true
   },
@@ -16973,9 +17093,21 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/nether_quartz_cutting_knife": {
+    "criteria": {
+      "has_nether_quartz": "2025-08-14 22:27:04 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/sign_post_jungle": {
     "criteria": {
       "has_item": "2025-08-14 21:07:11 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_spade": {
+    "criteria": {
+      "has_nether_quartz": "2025-08-14 22:27:04 +0000"
     },
     "done": true
   },
@@ -17015,6 +17147,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/quartz_glass_smelting": {
+    "criteria": {
+      "has_item.minecraft.quartz": "2025-08-14 22:27:04 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/sextant": {
     "criteria": {
       "has_item": "2025-08-14 21:43:14 +0000"
@@ -17033,9 +17171,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/shelter_pottery_sherd": {
+    "criteria": {
+      "has_iron_door": "2025-08-14 22:38:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2025-08-14 21:07:11 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine_block/advanced_machine_frame": {
+    "criteria": {
+      "has_basic_machine_frame": "2025-08-14 22:24:07 +0000"
     },
     "done": true
   },
@@ -17057,9 +17207,21 @@
     },
     "done": true
   },
+  "botania:recipes/misc/quartz_lavender": {
+    "criteria": {
+      "has_item": "2025-08-14 22:27:04 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/glass_pickaxe": {
     "criteria": {
       "has_item": "2025-08-14 21:43:14 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/solar_panel/advanced_solar_panel_alt": {
+    "criteria": {
+      "has_basic_machine_frame": "2025-08-14 22:24:07 +0000"
     },
     "done": true
   },
@@ -17069,9 +17231,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-08-14 22:27:04 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/swap_ring": {
     "criteria": {
       "has_item": "2025-08-14 21:43:14 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/quartz": {
+    "criteria": {
+      "has_quartz": "2025-08-14 22:27:04 +0000"
     },
     "done": true
   },
@@ -17135,15 +17309,45 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/nether_quartz_hoe": {
+    "criteria": {
+      "has_nether_quartz": "2025-08-14 22:27:04 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/nugget/refined_iron_nugget": {
     "criteria": {
       "has_refined_iron_ingot": "2025-08-14 21:04:46 +0000"
     },
     "done": true
   },
+  "botania:recipes/misc/quartz_dark": {
+    "criteria": {
+      "has_item": "2025-08-14 22:27:04 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_red": {
+    "criteria": {
+      "has_item": "2025-08-14 22:27:04 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_sunny": {
+    "criteria": {
+      "has_item": "2025-08-14 22:27:04 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/mining_ring": {
     "criteria": {
       "has_item": "2025-08-14 21:43:14 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_sword": {
+    "criteria": {
+      "has_nether_quartz": "2025-08-14 22:27:04 +0000"
     },
     "done": true
   },
@@ -17159,9 +17363,27 @@
     },
     "done": true
   },
+  "twigs:recipes/schist/schist": {
+    "criteria": {
+      "has_item": "2025-08-14 22:27:04 +0000"
+    },
+    "done": true
+  },
+  "techreborn:machineblock": {
+    "criteria": {
+      "crit_0": "2025-08-14 22:24:07 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/combat/manasteel_boots": {
     "criteria": {
       "has_item": "2025-08-14 21:43:14 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite": {
+    "criteria": {
+      "has_item": "2025-08-14 22:27:04 +0000"
     },
     "done": true
   },
@@ -17198,6 +17420,12 @@
   "techreborn:recipes/compressor/refined_iron_plate": {
     "criteria": {
       "has_tag_c_refined_iron_ingots": "2025-08-14 21:04:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-08-14 22:27:04 +0000"
     },
     "done": true
   },
