@@ -15369,15 +15369,525 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/polished_calcite_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-14 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_shingle_stairs_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-14 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_calcite_bricks_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-14 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/polished_calcite_stonecutting": {
+    "criteria": {
+      "has_item": "2025-08-14 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/calcite_slab": {
+    "criteria": {
+      "has_item": "2025-08-14 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_calcite_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-14 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/calcite_wall_stonecutting": {
+    "criteria": {
+      "has_item": "2025-08-14 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_hive": {
+    "criteria": {
+      "has_core_specification_item": "2025-08-14 17:58:05 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_calcite_stairs_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-14 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_brick_wall_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-14 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_paver_slab_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-14 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_pillar_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-14 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_bricks_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-08-14 18:00:07 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/tomato": {
     "criteria": {
       "has_tomato_crate": "2025-08-14 17:44:10 +0000"
     },
     "done": true
   },
+  "twigs:recipes/calcite/polished_calcite_bricks_from_calcite_stonecutting": {
+    "criteria": {
+      "has_item": "2025-08-14 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-08-14 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/beenest_armor_boots": {
+    "criteria": {
+      "has_bee_nest": "2025-08-14 17:58:05 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_plate_stairs_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-14 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_paver_stairs_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-14 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_paver_wall_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-14 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/spruce_palisade": {
+    "criteria": {
+      "has_log": "2025-08-14 18:00:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-08-14 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/birch_beam": {
+    "criteria": {
+      "has_stripped_log": "2025-08-14 18:02:26 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/spruce_branch_from_spruce_log": {
+    "criteria": {
+      "has_log": "2025-08-14 18:00:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-08-14 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_tile_wall_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-14 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-08-14 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_bricks_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-14 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_calcite_stairs_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-14 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/polished_calcite": {
+    "criteria": {
+      "has_item": "2025-08-14 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/calcite_stairs": {
+    "criteria": {
+      "has_item": "2025-08-14 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_calcite_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-14 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_calcite_wall_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-14 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-08-14 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-08-14 18:00:01 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_shingles_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-14 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/beenest_armor_chestplate": {
+    "criteria": {
+      "has_bee_nest": "2025-08-14 17:58:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-08-14 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-08-14 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_calcite_brick_slab_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-14 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_brick_slab_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-14 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/beenest_armor_leggings": {
+    "criteria": {
+      "has_bee_nest": "2025-08-14 17:58:05 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_calcite_slab_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-14 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_calcite_wall_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-14 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_shingle_slab_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-14 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/calcite_pillar_trim": {
+    "criteria": {
+      "has_calcite_pillar_trim": "2025-08-14 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-08-14 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_shingle_wall_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-14 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-08-14 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_brick_stairs_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-14 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_plates_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-14 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/calcite_pillar_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-08-14 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/birch_cabinet": {
+    "criteria": {
+      "has_birch_trapdoor": "2025-08-14 18:00:01 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_calcite_wall_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-14 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/plantball_from_grass_variants": {
+    "criteria": {
+      "has_grass_variant": "2025-08-14 18:03:10 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_tile_slab_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-14 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_tiles_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-14 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_calcite_slab_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-14 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-08-14 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-08-14 18:00:01 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_pavers_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-14 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_plate_slab_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-14 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-08-14 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-08-14 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-08-14 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-08-14 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_tile_stairs_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-14 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/beenest_armor_helmet": {
+    "criteria": {
+      "has_bee_nest": "2025-08-14 17:58:05 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_calcite_stairs_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-14 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-08-14 18:02:26 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/birch_slab_from_stairs": {
+    "criteria": {
+      "has_birch_stairs": "2025-08-14 18:00:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_bricks_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-08-14 18:00:07 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/sponge_piece_from_pufferfish": {
     "criteria": {
       "has_pufferfish": "2025-08-14 17:37:31 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/calcite_wall": {
+    "criteria": {
+      "has_item": "2025-08-14 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/chiseled_calcite_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-14 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_calcite_brick_wall_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-14 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_calcite_tiles_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-14 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_plate_wall_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-14 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/calcite_slab_stonecutting": {
+    "criteria": {
+      "has_item": "2025-08-14 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_calcite_slab_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-14 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-08-14 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_birch_wood": {
+    "criteria": {
+      "has_log": "2025-08-14 18:02:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-08-14 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/calcite_corner_trim": {
+    "criteria": {
+      "has_calcite_corner_trim": "2025-08-14 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_calcite_brick_stairs_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-14 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_calcite_bricks_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-14 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/calcite_stairs_stonecutting": {
+    "criteria": {
+      "has_item": "2025-08-14 18:00:07 +0000"
     },
     "done": true
   },
