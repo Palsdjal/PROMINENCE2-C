@@ -15369,5 +15369,17 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/tomato": {
+    "criteria": {
+      "has_tomato_crate": "2025-08-14 17:44:10 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/sponge_piece_from_pufferfish": {
+    "criteria": {
+      "has_pufferfish": "2025-08-14 17:37:31 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -2164,3 +2164,82 @@ BCLib - Nether BiomeSource (73024c08)
 [17:09:44] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
 [17:19:56] [Server thread/INFO]: Taza_free has made the advancement [Tapping Time]
 [17:19:56] [Server thread/INFO]: Taza_free has made the advancement [Not So Sticky]
+[17:31:00] [Server thread/INFO]: [STDOUT]: Finalizing energy item registration
+[17:36:28] [Server thread/INFO]: Taza_free lost connection: Disconnected
+[17:36:28] [Server thread/INFO]: Taza_free left the game
+[17:36:28] [Server thread/INFO]: remove player wand
+[17:36:28] [Server thread/INFO]: Updating all forceload tickets for 186537a7-9996-3401-b758-06bdf6b9b06b
+[17:36:39] [Server thread/INFO]: [Handshake] Sending channel query
+[17:36:40] [Netty Epoll Server IO #5/INFO]: [Handshake] Receiving client channels
+[17:36:40] [Netty Epoll Server IO #5/INFO]: [Handshake] Handshake completed successfully
+[17:36:40] [Server thread/INFO]: Taza_free[/127.137.233.5:45279] logged in with entity id 8446 at (735.3786883658241, 63.0, 100.81178937533495)
+[17:36:40] [Server thread/INFO]: Sending server config values to client
+[17:36:40] [Server thread/INFO]: Syncing config to Taza_free (186537a7-9996-3401-b758-06bdf6b9b06b)
+[17:36:40] [Server thread/INFO]: Loading config from file...
+[17:36:40] [Server thread/INFO]: [STDOUT]: Splitting recipes into 10 packets
+[17:36:40] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[17:36:40] [Server thread/INFO]: Taza_free joined the game
+[17:36:40] [Server thread/INFO]: Loading Configs for Sortilege
+[17:36:40] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[17:36:40] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[17:36:40] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[17:36:40] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[17:36:40] [Server thread/INFO]: Updating all forceload tickets for 186537a7-9996-3401-b758-06bdf6b9b06b
+[17:36:40] [Server thread/INFO]: PLAYER_JOIN
+[17:36:40] [Server thread/INFO]: add_player wand
+[17:36:40] [Server thread/INFO]: config sent
+[17:36:42] [Netty Epoll Server IO #5/INFO]: Receiving client config
+[17:36:42] [Netty Epoll Server IO #5/INFO]: Channel update: Taza_free -> default
+[17:36:42] [Netty Epoll Server IO #5/INFO]: Priority overwritten for player Taza_free. Claiming: GRAVE / Robbing: INVENTORY
+[17:36:46] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[17:37:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[17:38:54] [Server thread/WARN]: Żar-ptak (vehicle of Taza_free) moved wrongly! 0.3689326596497722
+[17:38:54] [Server thread/WARN]: Żar-ptak (vehicle of Taza_free) moved wrongly! 0.3793412838792847
+[17:40:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[17:41:03] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
+[17:41:25] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
+[17:42:14] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
+[17:43:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
+[17:43:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2901ms or 58 ticks behind
+[17:45:37] [Server thread/INFO]: Taza_free lost connection: Disconnected
+[17:45:37] [Server thread/INFO]: Taza_free left the game
+[17:45:37] [Server thread/INFO]: remove player wand
+[17:45:37] [Server thread/INFO]: Updating all forceload tickets for 186537a7-9996-3401-b758-06bdf6b9b06b
+[17:49:48] [Server thread/INFO]: [Handshake] Sending channel query
+[17:49:48] [Netty Epoll Server IO #1/INFO]: [Handshake] Receiving client channels
+[17:49:48] [Netty Epoll Server IO #1/INFO]: [Handshake] Handshake completed successfully
+[17:49:48] [Server thread/INFO]: Taza_free[/127.137.233.5:35459] logged in with entity id 15782 at (1778.2284391084768, 102.5, 1912.8947938384338)
+[17:49:48] [Server thread/INFO]: Sending server config values to client
+[17:49:48] [Server thread/INFO]: Syncing config to Taza_free (186537a7-9996-3401-b758-06bdf6b9b06b)
+[17:49:48] [Server thread/INFO]: Loading config from file...
+[17:49:48] [Server thread/INFO]: [STDOUT]: Splitting recipes into 10 packets
+[17:49:48] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[17:49:48] [Server thread/INFO]: Taza_free joined the game
+[17:49:48] [Server thread/INFO]: Loading Configs for Sortilege
+[17:49:48] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[17:49:48] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[17:49:48] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[17:49:48] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[17:49:48] [Server thread/INFO]: Updating all forceload tickets for 186537a7-9996-3401-b758-06bdf6b9b06b
+[17:49:48] [Server thread/INFO]: PLAYER_JOIN
+[17:49:48] [Server thread/INFO]: add_player wand
+[17:49:48] [Server thread/INFO]: config sent
+[17:49:51] [Netty Epoll Server IO #1/INFO]: Receiving client config
+[17:49:56] [Netty Epoll Server IO #1/INFO]: Channel update: Taza_free -> default
+[17:49:56] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player Taza_free. Claiming: GRAVE / Robbing: INVENTORY
+[17:50:01] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[17:51:53] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=2573, y=-33, z=1271}
+[17:51:54] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=2666, y=-17, z=1273}
+[17:51:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[17:52:49] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
+[17:54:08] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
+[17:54:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2068ms or 41 ticks behind
+[17:55:07] [Worker-Main-3/WARN]: Non-existent template pool reference: ctov:village/waystone/normal
+[17:55:07] [Worker-Main-3/WARN]: Non-existent template pool reference: ctov:village/vampirism/totem
+[17:55:07] [Worker-Main-3/WARN]: Non-existent template pool reference: ctov:village/bounty/plains
+[17:55:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2116ms or 42 ticks behind
+[17:55:48] [Server thread/INFO]: Villager class_1646['Marshall'/552, l='ServerLevel[world]', x=1649.50, y=139.00, z=1786.30] died, message: 'Marshall froze to death'
+[17:55:48] [Server thread/INFO]: Named entity class_1646['Marshall'/552, l='ServerLevel[world]', x=1649.50, y=139.00, z=1786.30] died: Marshall froze to death
+[17:56:02] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[17:56:02] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[17:56:27] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
