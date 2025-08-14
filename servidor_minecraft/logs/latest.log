@@ -2443,3 +2443,14 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 [06:27:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2305ms or 46 ticks behind
 [06:27:11] [Server thread/INFO]: [VadniesHael: Set own game mode to Survival Mode]
 [06:27:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3213ms or 64 ticks behind
+[06:29:39] [Server thread/WARN]: Żar-ptak (vehicle of VadniesHael) moved wrongly! 0.7262902196650884
+[06:30:11] [Server thread/WARN]: Taza_free moved wrongly!
+[06:30:55] [Server thread/WARN]: Taza_free moved wrongly!
+[06:30:57] [Server thread/WARN]: Taza_free moved wrongly!
+[06:30:59] [Server thread/WARN]: Taza_free moved wrongly!
+[06:31:02] [Server thread/WARN]: VadniesHael moved wrongly!
+[06:31:03] [Server thread/WARN]: VadniesHael moved wrongly!
+[06:31:25] [Server thread/INFO]: <VadniesHael> XD
+[06:33:02] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[06:33:02] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=1291, y=2, z=-240}
+[06:33:53] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=1525, y=-15, z=282}

@@ -541,6 +541,7 @@
       "minecraft:cold_ocean": "2025-08-12 05:42:45 +0000",
       "minecraft:forest": "2025-08-12 03:10:22 +0000",
       "minecraft:lush_caves": "2025-08-13 21:34:19 +0000",
+      "minecraft:deep_cold_ocean": "2025-08-14 06:26:40 +0000",
       "minecraft:frozen_ocean": "2025-08-12 04:45:44 +0000",
       "minecraft:desert": "2025-08-10 20:54:38 +0000",
       "minecraft:jungle": "2025-08-10 22:38:27 +0000",
@@ -634,7 +635,8 @@
       "gravel_beach": "2025-08-12 03:09:19 +0000",
       "redwoods": "2025-08-10 21:00:59 +0000",
       "golden_boreal_taiga": "2025-08-10 22:54:45 +0000",
-      "hyacinth_deeps": "2025-08-12 04:51:20 +0000"
+      "hyacinth_deeps": "2025-08-12 04:51:20 +0000",
+      "lupine_plains": "2025-08-14 06:27:11 +0000"
     },
     "done": false
   },
@@ -669,7 +671,8 @@
       "gravel_beach": "2025-08-12 03:09:19 +0000",
       "redwoods": "2025-08-10 21:00:59 +0000",
       "golden_boreal_taiga": "2025-08-10 22:54:45 +0000",
-      "hyacinth_deeps": "2025-08-12 04:51:20 +0000"
+      "hyacinth_deeps": "2025-08-12 04:51:20 +0000",
+      "lupine_plains": "2025-08-14 06:27:11 +0000"
     },
     "done": false
   },
@@ -690,6 +693,7 @@
       "minecraft:pillager": "2025-08-11 06:59:49 +0000",
       "minecraft:skeleton": "2025-08-10 22:59:06 +0000",
       "minecraft:ravager": "2025-08-12 05:46:47 +0000",
+      "minecraft:guardian": "2025-08-14 06:34:41 +0000",
       "minecraft:vindicator": "2025-08-12 05:44:46 +0000",
       "minecraft:spider": "2025-08-12 01:31:10 +0000",
       "minecraft:piglin_brute": "2025-08-13 01:07:57 +0000",
@@ -13148,6 +13152,7 @@
   "croptopia:gather_food": {
     "criteria": {
       "clam": "2025-08-12 22:30:22 +0000",
+      "calamari": "2025-08-14 06:34:56 +0000",
       "glowing_calamari": "2025-08-13 19:48:22 +0000"
     },
     "done": false
@@ -16566,6 +16571,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/black_dye_from_ink_sac": {
+    "criteria": {
+      "has_ink_sac": "2025-08-14 06:35:14 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/brazier": {
     "criteria": {
       "has_bar": "2025-08-14 06:11:46 +0000"
@@ -16644,9 +16655,21 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/glass_black": {
+    "criteria": {
+      "has_dyes/black": "2025-08-14 06:35:14 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/drain": {
     "criteria": {
       "has_iron_bars": "2025-08-14 06:11:46 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/prismarine": {
+    "criteria": {
+      "has_item": "2025-08-14 06:34:41 +0000"
     },
     "done": true
   },
@@ -16686,6 +16709,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/prism": {
+    "criteria": {
+      "has_item": "2025-08-14 06:34:41 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/prismarine_plate_slab_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-08-14 06:10:54 +0000"
@@ -16716,6 +16745,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/squid_armor_helmet": {
+    "criteria": {
+      "has_ink_sac": "2025-08-14 06:35:14 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/polished_dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-08-14 05:58:47 +0000"
@@ -16725,6 +16760,12 @@
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-08-14 05:42:57 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/squid": {
+    "criteria": {
+      "has_ink_sac": "2025-08-14 06:35:14 +0000"
     },
     "done": true
   },
@@ -16815,6 +16856,12 @@
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2025-08-14 06:01:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-08-14 06:34:41 +0000"
     },
     "done": true
   },
@@ -16992,6 +17039,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/dense_covered_black": {
+    "criteria": {
+      "has_dyes/black": "2025-08-14 06:35:14 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/dark_prismarine_tile_wall_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-08-14 05:58:47 +0000"
@@ -17070,6 +17123,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/dense_smart_black": {
+    "criteria": {
+      "has_dyes/black": "2025-08-14 06:35:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_quartz_block": {
     "criteria": {
       "has_quartz_pillar": "2025-08-14 06:07:04 +0000"
@@ -17094,6 +17153,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/squid_armor_boots": {
+    "criteria": {
+      "has_ink_sac": "2025-08-14 06:35:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_stairs": {
     "criteria": {
       "has_prismarine": "2025-08-14 06:10:54 +0000"
@@ -17109,6 +17174,12 @@
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-14 05:42:57 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_black": {
+    "criteria": {
+      "has_dyes/black": "2025-08-14 06:35:14 +0000"
     },
     "done": true
   },
@@ -17129,6 +17200,12 @@
       "bluemoon_greatsword": "2025-08-14 04:12:49 +0000"
     },
     "done": false
+  },
+  "croptopia:recipes/misc/fried_calamari": {
+    "criteria": {
+      "has_calamari": "2025-08-14 06:34:56 +0000"
+    },
+    "done": true
   },
   "regions_unexplored:recipes/building_blocks/prismaglass": {
     "criteria": {
@@ -17187,6 +17264,12 @@
   "stoneworks:recipes/building_blocks/prismarine_paver_wall_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-08-14 06:10:54 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/cooked_calamari_from_calamari": {
+    "criteria": {
+      "has_calamari": "2025-08-14 06:34:56 +0000"
     },
     "done": true
   },
@@ -17316,6 +17399,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-08-14 06:34:41 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/raw_dark_prismarine_slab_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-08-14 05:58:47 +0000"
@@ -17388,9 +17477,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-08-14 06:34:41 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/dark_prismarine_plate_wall_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-08-14 05:58:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/prismarine_shard": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-08-14 06:34:41 +0000"
     },
     "done": true
   },
@@ -17448,6 +17549,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/squid_armor_chestplate": {
+    "criteria": {
+      "has_ink_sac": "2025-08-14 06:35:14 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_prismarine_slab_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-08-14 06:10:54 +0000"
@@ -17484,6 +17591,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-14 06:35:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-08-14 06:10:54 +0000"
@@ -17517,6 +17630,18 @@
   "twigs:recipes/silt/silt_from_sand": {
     "criteria": {
       "has_item": "2025-08-14 05:40:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-08-14 06:35:14 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/squid_armor_leggings": {
+    "criteria": {
+      "has_ink_sac": "2025-08-14 06:35:14 +0000"
     },
     "done": true
   },
@@ -17571,6 +17696,12 @@
   "bewitchment:recipes/decorations/elder_poppet_shelf": {
     "criteria": {
       "has_item": "2025-08-14 05:25:05 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/cooked_calamari_from_smoking_calamari": {
+    "criteria": {
+      "has_calamari": "2025-08-14 06:34:56 +0000"
     },
     "done": true
   },
@@ -17694,6 +17825,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-08-14 06:34:41 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cracked_dark_prismarine_bricks_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-08-14 05:58:47 +0000"
@@ -17763,6 +17900,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blazefish": "2025-08-14 06:09:32 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/cyan_dye_from_prismarine_shard": {
+    "criteria": {
+      "has_prismarine_shard": "2025-08-14 06:34:41 +0000"
     },
     "done": true
   },
