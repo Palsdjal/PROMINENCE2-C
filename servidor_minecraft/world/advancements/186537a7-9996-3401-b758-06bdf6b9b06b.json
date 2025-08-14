@@ -18460,6 +18460,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/blackwood_shrub": {
+    "criteria": {
+      "has_blackwood_sapling": "2025-08-14 22:53:10 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/misc_block/computer_cube": {
     "criteria": {
       "has_energy_flow_chip": "2025-08-14 22:43:45 +0000"

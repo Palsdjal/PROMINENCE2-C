@@ -3287,6 +3287,7 @@
       "autumnal_maple_forest": "2025-08-12 02:44:28 +0000",
       "muddy_river": "2025-08-12 04:16:24 +0000",
       "prismachasm": "2025-08-12 01:21:32 +0000",
+      "ancient_delta": "2025-08-14 22:53:34 +0000",
       "frozen_tundra": "2025-08-12 04:23:59 +0000",
       "redstone_caves": "2025-08-14 04:29:18 +0000",
       "poppy_fields": "2025-08-12 02:44:43 +0000",
@@ -3314,6 +3315,7 @@
       "gravel_beach": "2025-08-12 05:41:24 +0000",
       "redwoods": "2025-08-10 20:36:31 +0000",
       "golden_boreal_taiga": "2025-08-13 01:09:27 +0000",
+      "bioshroom_caves": "2025-08-14 22:53:33 +0000",
       "lupine_plains": "2025-08-14 06:27:27 +0000"
     },
     "done": false
@@ -9312,7 +9314,9 @@
   "regions_unexplored:spelunker": {
     "criteria": {
       "redstone_caves": "2025-08-14 04:29:18 +0000",
-      "prismachasm": "2025-08-12 01:21:32 +0000"
+      "prismachasm": "2025-08-12 01:21:32 +0000",
+      "bioshroom_caves": "2025-08-14 22:53:33 +0000",
+      "ancient_delta": "2025-08-14 22:53:34 +0000"
     },
     "done": false
   },
