@@ -18460,6 +18460,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/misc_block/computer_cube": {
+    "criteria": {
+      "has_energy_flow_chip": "2025-08-14 22:43:45 +0000"
+    },
+    "done": true
+  },
   "beachparty:recipes/palm_trapdoor": {
     "criteria": {
       "has_palm_planks": "2025-08-14 21:47:57 +0000"
@@ -18475,6 +18481,12 @@
   "regions_unexplored:recipes/decorations/jungle_branch_from_jungle_log": {
     "criteria": {
       "has_log": "2025-08-14 21:08:02 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/tool/industrial_chainsaw": {
+    "criteria": {
+      "has_energy_flow_chip": "2025-08-14 22:43:45 +0000"
     },
     "done": true
   },
@@ -18646,6 +18658,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/tool/industrial_jackhammer": {
+    "criteria": {
+      "has_energy_flow_chip": "2025-08-14 22:43:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
       "has_pumpkin": "2025-08-14 22:32:49 +0000"
@@ -18673,6 +18691,12 @@
   "beachparty:recipes/palm_fence_gate": {
     "criteria": {
       "has_palm_planks": "2025-08-14 21:47:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
+    "criteria": {
+      "has_vex_armor_trim_smithing_template": "2025-08-14 22:50:23 +0000"
     },
     "done": true
   },
@@ -18712,6 +18736,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/parts/superconductor": {
+    "criteria": {
+      "has_energy_flow_chip": "2025-08-14 22:43:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2025-08-14 21:08:02 +0000"
@@ -18724,9 +18754,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/charge_o_mat": {
+    "criteria": {
+      "has_energy_flow_chip": "2025-08-14 22:43:45 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/pumpkin_soup": {
     "criteria": {
       "has_pumpkin": "2025-08-14 22:32:49 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/lightning_rod": {
+    "criteria": {
+      "has_energy_flow_chip": "2025-08-14 22:43:45 +0000"
     },
     "done": true
   },
@@ -18928,6 +18970,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/tool/industrial_drill": {
+    "criteria": {
+      "has_energy_flow_chip": "2025-08-14 22:43:45 +0000"
+    },
+    "done": true
+  },
   "beachparty:recipes/palm_stairs": {
     "criteria": {
       "has_palm_planks": "2025-08-14 21:47:57 +0000"
@@ -18949,6 +18997,12 @@
   "regions_unexplored:recipes/redstone/redwood_door": {
     "criteria": {
       "has_redwood_planks": "2025-08-14 21:24:47 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:livyatan": {
+    "criteria": {
+      "requirement": "2025-08-14 22:51:09 +0000"
     },
     "done": true
   },
@@ -19048,6 +19102,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-08-14 22:50:23 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/combat/manasteel_boots": {
     "criteria": {
       "has_item": "2025-08-14 22:07:48 +0000"
@@ -19069,6 +19129,12 @@
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2025-08-14 21:08:02 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/superconductor_cable": {
+    "criteria": {
+      "has_energy_flow_chip": "2025-08-14 22:43:45 +0000"
     },
     "done": true
   },
