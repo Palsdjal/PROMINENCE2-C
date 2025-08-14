@@ -18417,9 +18417,21 @@
     },
     "done": true
   },
+  "beachparty:recipes/palm_pressure_plate": {
+    "criteria": {
+      "has_palm_planks": "2025-08-14 21:47:57 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/redwood_fence": {
     "criteria": {
       "has_redwood_planks": "2025-08-14 21:24:47 +0000"
+    },
+    "done": true
+  },
+  "beachparty:recipes/palm_trapdoor": {
+    "criteria": {
+      "has_palm_planks": "2025-08-14 21:47:57 +0000"
     },
     "done": true
   },
@@ -18429,15 +18441,33 @@
     },
     "done": true
   },
+  "beachparty:recipes/palm_planks": {
+    "criteria": {
+      "has_palm_log": "2025-08-14 21:47:52 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/redwood_fence_gate": {
     "criteria": {
       "has_redwood_planks": "2025-08-14 21:24:47 +0000"
     },
     "done": true
   },
+  "beachparty:recipes/palm_floorboard": {
+    "criteria": {
+      "has_palm_log": "2025-08-14 21:47:52 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/redwood_sign": {
     "criteria": {
       "has_redwood_planks": "2025-08-14 21:24:47 +0000"
+    },
+    "done": true
+  },
+  "beachparty:recipes/palm_table": {
+    "criteria": {
+      "has_palm_planks": "2025-08-14 21:47:57 +0000"
     },
     "done": true
   },
@@ -18453,15 +18483,45 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/beachparty/sign_post_palm": {
+    "criteria": {
+      "has_item": "2025-08-14 21:47:57 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/regions_unexplored/sign_post_redwood": {
     "criteria": {
       "has_item": "2025-08-14 21:24:47 +0000"
     },
     "done": true
   },
+  "beachparty:recipes/palm_slab": {
+    "criteria": {
+      "has_palm_planks": "2025-08-14 21:47:57 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/redwood_button": {
     "criteria": {
       "has_redwood_planks": "2025-08-14 21:24:47 +0000"
+    },
+    "done": true
+  },
+  "beachparty:recipes/hooded_beach_chair": {
+    "criteria": {
+      "has_palm_planks": "2025-08-14 21:47:57 +0000"
+    },
+    "done": true
+  },
+  "beachparty:recipes/palm_sign": {
+    "criteria": {
+      "has_palm_planks": "2025-08-14 21:47:57 +0000"
+    },
+    "done": true
+  },
+  "beachparty:recipes/palm_fence_gate": {
+    "criteria": {
+      "has_palm_planks": "2025-08-14 21:47:57 +0000"
     },
     "done": true
   },
@@ -18483,9 +18543,39 @@
     },
     "done": true
   },
+  "beachparty:recipes/palm_button": {
+    "criteria": {
+      "has_palm_planks": "2025-08-14 21:47:57 +0000"
+    },
+    "done": true
+  },
+  "beachparty:recipes/beach_chair": {
+    "criteria": {
+      "has_palm_planks": "2025-08-14 21:47:57 +0000"
+    },
+    "done": true
+  },
+  "beachparty:recipes/palm_glass": {
+    "criteria": {
+      "has_palm_planks": "2025-08-14 21:47:57 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/elytra": {
+    "criteria": {
+      "has_end_rod": "2025-08-14 21:51:53 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/diamond_dust_from_horse_armor_with_water": {
     "criteria": {
       "has_diamond_horse_armor": "2025-08-14 21:38:02 +0000"
+    },
+    "done": true
+  },
+  "beachparty:recipes/palm_fence": {
+    "criteria": {
+      "has_palm_planks": "2025-08-14 21:47:57 +0000"
     },
     "done": true
   },
@@ -18495,9 +18585,33 @@
     },
     "done": true
   },
+  "beachparty:recipes/palm_boat": {
+    "criteria": {
+      "has_palm_planks": "2025-08-14 21:47:57 +0000"
+    },
+    "done": true
+  },
+  "beachparty:recipes/palm_cabinet": {
+    "criteria": {
+      "has_palm_planks": "2025-08-14 21:47:57 +0000"
+    },
+    "done": true
+  },
+  "beachparty:recipes/palm_wood": {
+    "criteria": {
+      "has_palm_wood": "2025-08-14 21:47:52 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/unique_armors/verdant_robe_leggings": {
     "criteria": {
       "has_evocation_robe_leggings": "2025-08-14 21:34:41 +0000"
+    },
+    "done": true
+  },
+  "beachparty:recipes/palm_stairs": {
+    "criteria": {
+      "has_palm_planks": "2025-08-14 21:47:57 +0000"
     },
     "done": true
   },
@@ -18531,6 +18645,12 @@
     },
     "done": true
   },
+  "beachparty:recipes/palm_door": {
+    "criteria": {
+      "has_palm_planks": "2025-08-14 21:47:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2025-08-14 21:08:02 +0000"
@@ -18540,6 +18660,12 @@
   "decorative_blocks:recipes/decorative_blocks.general/jungle_palisade": {
     "criteria": {
       "has_log": "2025-08-14 21:08:02 +0000"
+    },
+    "done": true
+  },
+  "beachparty:recipes/palm_chair": {
+    "criteria": {
+      "has_palm_planks": "2025-08-14 21:47:57 +0000"
     },
     "done": true
   },

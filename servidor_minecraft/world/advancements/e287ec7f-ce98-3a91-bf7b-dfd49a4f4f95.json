@@ -16436,6 +16436,12 @@
     },
     "done": true
   },
+  "botania:recipes/combat/manasteel_sword": {
+    "criteria": {
+      "has_item": "2025-08-14 21:43:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
       "has_planks": "2025-08-14 21:07:11 +0000"
@@ -16466,6 +16472,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/obedience_stick": {
+    "criteria": {
+      "has_item": "2025-08-14 21:43:14 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/jungle_branch_from_jungle_log": {
     "criteria": {
       "has_log": "2025-08-14 21:07:02 +0000"
@@ -16487,6 +16499,12 @@
   "techreborn:recipes/crafting_table/machine/alarm": {
     "criteria": {
       "has_refined_iron_ingot": "2025-08-14 21:04:46 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mana_fluxfield": {
+    "criteria": {
+      "has_alt_item": "2025-08-14 21:43:14 +0000"
     },
     "done": true
   },
@@ -16514,9 +16532,33 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/pump": {
+    "criteria": {
+      "has_item": "2025-08-14 21:43:14 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/manasteel_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-08-14 21:43:14 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/jungle_wine_rack_big": {
     "criteria": {
       "has_jungle_planks": "2025-08-14 21:07:11 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/ice_pendant": {
+    "criteria": {
+      "has_item": "2025-08-14 21:43:14 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/bauble_box": {
+    "criteria": {
+      "has_item": "2025-08-14 21:43:14 +0000"
     },
     "done": true
   },
@@ -16544,6 +16586,24 @@
     },
     "done": true
   },
+  "botania:recipes/tools/manasteel_hoe": {
+    "criteria": {
+      "has_item": "2025-08-14 21:43:14 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/knockback_belt": {
+    "criteria": {
+      "has_item": "2025-08-14 21:43:14 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/lead_nugget": {
+    "criteria": {
+      "has_lead_ingot": "2025-08-14 21:45:36 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/wire_mill/hv_cable": {
     "criteria": {
       "has_refined_iron_ingot": "2025-08-14 21:04:46 +0000"
@@ -16556,9 +16616,21 @@
     },
     "done": true
   },
+  "botania:recipes/tools/magnet_ring": {
+    "criteria": {
+      "has_item": "2025-08-14 21:43:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2025-08-14 21:07:11 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/lead_storage_block": {
+    "criteria": {
+      "has_lead_ingot": "2025-08-14 21:45:36 +0000"
     },
     "done": true
   },
@@ -16592,15 +16664,33 @@
     },
     "done": true
   },
+  "botania:recipes/combat/manasteel_leggings": {
+    "criteria": {
+      "has_item": "2025-08-14 21:43:14 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/misc_block/refined_iron_fence": {
     "criteria": {
       "has_refined_iron": "2025-08-14 21:04:46 +0000"
     },
     "done": true
   },
+  "botania:recipes/tools/manasteel_shovel": {
+    "criteria": {
+      "has_item": "2025-08-14 21:43:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2025-08-14 21:07:11 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/manasteel_block": {
+    "criteria": {
+      "has_item": "2025-08-14 21:43:14 +0000"
     },
     "done": true
   },
@@ -16616,9 +16706,21 @@
     },
     "done": true
   },
+  "botania:recipes/tools/manasteel_axe": {
+    "criteria": {
+      "has_item": "2025-08-14 21:43:14 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/redwood_wood": {
     "criteria": {
       "has_log": "2025-08-14 21:19:33 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/forest_eye": {
+    "criteria": {
+      "has_item": "2025-08-14 21:43:14 +0000"
     },
     "done": true
   },
@@ -16634,9 +16736,27 @@
     },
     "done": true
   },
+  "techreborn:recipes/compressor/lead_plate": {
+    "criteria": {
+      "has_tag_c_lead_ingots": "2025-08-14 21:45:36 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/dodge_ring": {
+    "criteria": {
+      "has_item": "2025-08-14 21:43:14 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/jungle_side_table": {
     "criteria": {
       "has_jungle_side_table": "2025-08-14 21:07:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+    "criteria": {
+      "has_cyan_terracotta": "2025-08-14 21:46:06 +0000"
     },
     "done": true
   },
@@ -16655,6 +16775,12 @@
   "minecraft:recipes/decorations/jungle_fence": {
     "criteria": {
       "has_planks": "2025-08-14 21:07:11 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/manasteel_chestplate": {
+    "criteria": {
+      "has_item": "2025-08-14 21:43:14 +0000"
     },
     "done": true
   },
@@ -16688,6 +16814,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/manasteel_shears": {
+    "criteria": {
+      "has_item": "2025-08-14 21:43:14 +0000"
+    },
+    "done": true
+  },
   "techreborn:refinediron": {
     "criteria": {
       "crit_0": "2025-08-14 21:04:46 +0000"
@@ -16697,6 +16829,12 @@
   "techreborn:recipes/crafting_table/machine_block/basic_machine_frame": {
     "criteria": {
       "has_refined_iron_ingot": "2025-08-14 21:04:46 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mana_distributor": {
+    "criteria": {
+      "has_item": "2025-08-14 21:43:14 +0000"
     },
     "done": true
   },
@@ -16712,9 +16850,33 @@
     },
     "done": true
   },
+  "botania:recipes/tools/travel_belt": {
+    "criteria": {
+      "has_item": "2025-08-14 21:43:14 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/monocle": {
+    "criteria": {
+      "has_item": "2025-08-14 21:43:14 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/smelting/lead_ingot_from_c_lead_ores": {
     "criteria": {
       "has_tag_c_lead_ores": "2025-08-14 21:15:19 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/lava_pendant": {
+    "criteria": {
+      "has_item": "2025-08-14 21:43:14 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/sextant": {
+    "criteria": {
+      "has_item": "2025-08-14 21:43:14 +0000"
     },
     "done": true
   },
@@ -16724,9 +16886,21 @@
     },
     "done": true
   },
+  "botania:recipes/tools/manasteel_pick": {
+    "criteria": {
+      "has_item": "2025-08-14 21:43:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2025-08-14 21:07:11 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/manasteel_helmet": {
+    "criteria": {
+      "has_item": "2025-08-14 21:43:14 +0000"
     },
     "done": true
   },
@@ -16742,15 +16916,33 @@
     },
     "done": true
   },
+  "botania:recipes/tools/glass_pickaxe": {
+    "criteria": {
+      "has_item": "2025-08-14 21:43:14 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/redwood_shrub": {
     "criteria": {
       "has_redwood_sapling": "2025-08-14 21:19:58 +0000"
     },
     "done": true
   },
+  "botania:recipes/tools/swap_ring": {
+    "criteria": {
+      "has_item": "2025-08-14 21:43:14 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/nugget/refined_iron_nugget": {
     "criteria": {
       "has_refined_iron_ingot": "2025-08-14 21:04:46 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/mining_ring": {
+    "criteria": {
+      "has_item": "2025-08-14 21:43:14 +0000"
     },
     "done": true
   },
@@ -16766,9 +16958,21 @@
     },
     "done": true
   },
+  "botania:recipes/combat/manasteel_boots": {
+    "criteria": {
+      "has_item": "2025-08-14 21:43:14 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/jungle_chair": {
     "criteria": {
       "has_jungle_chair": "2025-08-14 21:07:11 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/lens_normal": {
+    "criteria": {
+      "has_item": "2025-08-14 21:43:14 +0000"
     },
     "done": true
   },
@@ -16796,6 +17000,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/battery/red_cell_battery": {
+    "criteria": {
+      "has_lead_ingot": "2025-08-14 21:45:36 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/jungle_palisade": {
     "criteria": {
       "has_log": "2025-08-14 21:07:02 +0000"
@@ -16811,6 +17021,12 @@
   "handcrafted:recipes/misc/jungle_fancy_bed": {
     "criteria": {
       "has_jungle_fancy_bed": "2025-08-14 21:07:11 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/light_gray_concrete_powder_from_concrete": {
+    "criteria": {
+      "has_light_gray_concrete": "2025-08-14 21:46:10 +0000"
     },
     "done": true
   },
