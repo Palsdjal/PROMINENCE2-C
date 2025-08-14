@@ -16649,6 +16649,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/angler_pottery_sherd": {
+    "criteria": {
+      "has_fishing_rod": "2025-08-14 06:56:13 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/dark_prismarine_bricks_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-08-14 05:58:47 +0000"
