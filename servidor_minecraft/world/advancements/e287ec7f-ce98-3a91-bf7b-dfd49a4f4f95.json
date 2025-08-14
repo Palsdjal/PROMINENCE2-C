@@ -578,6 +578,7 @@
     "criteria": {
       "minecraft:pillager": "2025-08-11 06:50:28 +0000",
       "minecraft:skeleton": "2025-08-10 22:24:44 +0000",
+      "minecraft:guardian": "2025-08-14 06:37:11 +0000",
       "minecraft:vindicator": "2025-08-12 21:50:13 +0000",
       "minecraft:spider": "2025-08-10 17:49:55 +0000",
       "minecraft:piglin_brute": "2025-08-13 01:07:39 +0000",
@@ -14066,6 +14067,7 @@
   },
   "croptopia:gather_food": {
     "criteria": {
+      "calamari": "2025-08-14 06:37:06 +0000",
       "glowing_calamari": "2025-08-13 00:43:53 +0000"
     },
     "done": false
@@ -14412,6 +14414,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/prismarine": {
+    "criteria": {
+      "has_item": "2025-08-14 06:36:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_helmet": "2025-08-14 05:23:43 +0000"
@@ -14532,6 +14540,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-08-14 06:36:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-08-14 04:04:23 +0000"
@@ -14601,6 +14615,12 @@
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-14 04:27:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2025-08-14 06:46:20 +0000"
     },
     "done": true
   },
@@ -14784,6 +14804,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/bee_smithing": {
+    "criteria": {
+      "has_bee": "2025-08-14 06:43:04 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/granite_pillar_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-14 04:27:33 +0000"
@@ -14811,6 +14837,18 @@
   "minecraft:recipes/building_blocks/deepslate_bricks": {
     "criteria": {
       "has_polished_deepslate": "2025-08-14 05:14:29 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/fried_calamari": {
+    "criteria": {
+      "has_calamari": "2025-08-14 06:37:06 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location1": "2025-08-14 06:47:09 +0000"
     },
     "done": true
   },
@@ -14865,6 +14903,12 @@
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2025-08-14 04:27:33 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/cooked_calamari_from_calamari": {
+    "criteria": {
+      "has_calamari": "2025-08-14 06:37:06 +0000"
     },
     "done": true
   },
@@ -14952,6 +14996,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2025-08-14 06:46:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-08-14 06:36:59 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/granite_tile_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-14 04:27:33 +0000"
@@ -15021,6 +15077,12 @@
   "stoneworks:recipes/building_blocks/granite_brick_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-14 04:27:33 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/tide_armor_trim_smithing_template": {
+    "criteria": {
+      "has_prismarine_bricks": "2025-08-14 06:46:20 +0000"
     },
     "done": true
   },
@@ -15156,6 +15218,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
+    "criteria": {
+      "has_prismarine_bricks": "2025-08-14 06:46:20 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/diamond_impact_hammer": {
     "criteria": {
       "has_material": "2025-08-14 05:18:07 +0000"
@@ -15165,6 +15233,12 @@
   "stoneworks:recipes/building_blocks/mossy_cobbled_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-14 04:27:33 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/cooked_calamari_from_smoking_calamari": {
+    "criteria": {
+      "has_calamari": "2025-08-14 06:37:06 +0000"
     },
     "done": true
   },
@@ -15205,9 +15279,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
+    "criteria": {
+      "has_prismarine_bricks": "2025-08-14 06:46:20 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_granite_brick_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-08-14 04:27:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-08-14 06:36:59 +0000"
     },
     "done": true
   },
@@ -15256,6 +15342,12 @@
   "handcrafted:recipes/misc/golden_wide_pot": {
     "criteria": {
       "has_golden_wide_pot": "2025-08-14 04:56:11 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/cyan_dye_from_prismarine_shard": {
+    "criteria": {
+      "has_prismarine_shard": "2025-08-14 06:36:59 +0000"
     },
     "done": true
   },

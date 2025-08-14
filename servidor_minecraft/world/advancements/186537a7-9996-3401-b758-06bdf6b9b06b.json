@@ -16595,6 +16595,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-08-14 06:53:44 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-08-14 06:10:54 +0000"
@@ -16682,6 +16688,12 @@
   "vinery:recipes/wine_bottle": {
     "criteria": {
       "has_glass_bottle": "2025-08-14 05:15:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper": {
+    "criteria": {
+      "has_oxidized_copper": "2025-08-14 06:49:38 +0000"
     },
     "done": true
   },
@@ -16805,6 +16817,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-08-14 06:53:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2025-08-14 06:01:19 +0000"
@@ -16877,6 +16895,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2025-08-14 06:49:38 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/raw_dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-08-14 05:58:47 +0000"
@@ -16925,6 +16949,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2025-08-14 06:49:38 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/chiseled_dark_prismarine_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-08-14 05:58:47 +0000"
@@ -16934,6 +16964,12 @@
   "netherdepthsupgrade:recipes/netherdepthsupgrade/lava_glass": {
     "criteria": {
       "has_glass": "2025-08-14 05:42:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-08-14 06:53:15 +0000"
     },
     "done": true
   },
@@ -16979,6 +17015,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/andesite_pedestal": {
+    "criteria": {
+      "has_polished_andesite": "2025-08-14 06:53:44 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/misc_block/reinforced_glass_alt": {
     "criteria": {
       "has_glass": "2025-08-14 05:42:57 +0000"
@@ -17018,6 +17060,12 @@
   "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-08-14 06:10:54 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/copper_pillar/oxidized_copper_pillar_stonecutting": {
+    "criteria": {
+      "has_cut_copper_slab": "2025-08-14 06:49:38 +0000"
     },
     "done": true
   },
@@ -17150,6 +17198,18 @@
   "stoneworks:recipes/building_blocks/mossy_dark_prismarine_brick_stairs_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-08-14 05:58:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_copper": "2025-08-14 06:49:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-08-14 06:53:44 +0000"
     },
     "done": true
   },
@@ -17327,6 +17387,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/kelp": {
+    "criteria": {
+      "has_kelp": "2025-08-14 06:53:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-08-14 06:53:44 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_prismarine_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-08-14 06:10:54 +0000"
@@ -17339,9 +17411,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-08-14 06:53:15 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cracked_prismarine_bricks_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-08-14 06:10:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-08-14 06:53:15 +0000"
     },
     "done": true
   },
@@ -17585,6 +17669,12 @@
     },
     "done": true
   },
+  "oxidized:recipes/vertical_oxidized_cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-08-14 06:49:38 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_dark_prismarine_bricks_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-08-14 05:58:47 +0000"
@@ -17618,6 +17708,12 @@
   "bewitchment:recipes/decorations/crimson_poppet_shelf": {
     "criteria": {
       "has_item": "2025-08-14 05:25:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2025-08-14 06:49:38 +0000"
     },
     "done": true
   },
@@ -17690,6 +17786,12 @@
   "stoneworks:recipes/building_blocks/polished_prismarine_wall_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-08-14 06:10:54 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/plantball_from_kelp": {
+    "criteria": {
+      "has_kelp": "2025-08-14 06:53:15 +0000"
     },
     "done": true
   },
