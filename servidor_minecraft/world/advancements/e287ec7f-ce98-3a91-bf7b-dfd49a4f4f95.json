@@ -290,6 +290,7 @@
       "minecraft:savanna_plateau": "2025-08-10 17:45:41 +0000",
       "minecraft:beach": "2025-08-14 06:13:42 +0000",
       "minecraft:dark_forest": "2025-08-10 22:40:22 +0000",
+      "minecraft:sparse_jungle": "2025-08-14 19:38:43 +0000",
       "minecraft:river": "2025-08-10 17:53:37 +0000",
       "minecraft:lukewarm_ocean": "2025-08-10 20:37:20 +0000",
       "minecraft:stony_shore": "2025-08-10 17:43:56 +0000",
@@ -15369,15 +15370,87 @@
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/polished_calcite_from_calcite_stonecutting": {
+  "techreborn:recipes/extractor/sponge_piece_from_pufferfish": {
     "criteria": {
-      "has_calcite": "2025-08-14 18:00:07 +0000"
+      "has_pufferfish": "2025-08-14 17:37:31 +0000"
     },
     "done": true
   },
-  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_from_moss": {
+  "farmersdelight:recipes/food/tomato": {
     "criteria": {
-      "has_item": "2025-08-14 18:33:36 +0000"
+      "has_tomato_crate": "2025-08-14 17:44:10 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_hive": {
+    "criteria": {
+      "has_core_specification_item": "2025-08-14 17:58:05 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/beenest_armor_boots": {
+    "criteria": {
+      "has_bee_nest": "2025-08-14 17:58:05 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/beenest_armor_chestplate": {
+    "criteria": {
+      "has_bee_nest": "2025-08-14 17:58:05 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/beenest_armor_leggings": {
+    "criteria": {
+      "has_bee_nest": "2025-08-14 17:58:05 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/beenest_armor_helmet": {
+    "criteria": {
+      "has_bee_nest": "2025-08-14 17:58:05 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/spruce_palisade": {
+    "criteria": {
+      "has_log": "2025-08-14 18:00:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/spruce_branch_from_spruce_log": {
+    "criteria": {
+      "has_log": "2025-08-14 18:00:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-08-14 18:00:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/birch_cabinet": {
+    "criteria": {
+      "has_birch_trapdoor": "2025-08-14 18:00:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-08-14 18:00:01 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/birch_slab_from_stairs": {
+    "criteria": {
+      "has_birch_stairs": "2025-08-14 18:00:01 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_calcite_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-14 18:00:07 +0000"
     },
     "done": true
   },
@@ -15417,18 +15490,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/onion": {
-    "criteria": {
-      "has_onion_crate": "2025-08-14 18:39:57 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/upgrade_cores/upgrade_core_hive": {
-    "criteria": {
-      "has_core_specification_item": "2025-08-14 17:58:05 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_calcite_stairs_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-08-14 18:00:07 +0000"
@@ -15459,18 +15520,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/tomato": {
-    "criteria": {
-      "has_tomato_crate": "2025-08-14 17:44:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-08-14 18:33:36 +0000"
-    },
-    "done": true
-  },
   "twigs:recipes/calcite/polished_calcite_bricks_from_calcite_stonecutting": {
     "criteria": {
       "has_item": "2025-08-14 18:00:07 +0000"
@@ -15480,12 +15529,6 @@
   "create:recipes/building_blocks/small_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-08-14 18:00:07 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/beenest_armor_boots": {
-    "criteria": {
-      "has_bee_nest": "2025-08-14 17:58:05 +0000"
     },
     "done": true
   },
@@ -15501,39 +15544,15 @@
     },
     "done": true
   },
-  "techreborn:recipes/industrial_sawmill/birch_pressure_plate_from_slab": {
-    "criteria": {
-      "has_birch_slab": "2025-08-14 18:19:24 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/calcite_paver_wall_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-08-14 18:00:07 +0000"
     },
     "done": true
   },
-  "decorative_blocks:recipes/decorative_blocks.general/spruce_palisade": {
-    "criteria": {
-      "has_log": "2025-08-14 18:00:01 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/layered_calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-08-14 18:00:07 +0000"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/decorative_blocks.general/birch_beam": {
-    "criteria": {
-      "has_stripped_log": "2025-08-14 18:02:26 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/spruce_branch_from_spruce_log": {
-    "criteria": {
-      "has_log": "2025-08-14 18:00:01 +0000"
     },
     "done": true
   },
@@ -15558,12 +15577,6 @@
   "stoneworks:recipes/building_blocks/calcite_bricks_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-08-14 18:00:07 +0000"
-    },
-    "done": true
-  },
-  "quartzelv:recipes/building_blocks/smooth_quartz_elevator": {
-    "criteria": {
-      "has_quartz_elevator": "2025-08-14 19:07:53 +0000"
     },
     "done": true
   },
@@ -15603,27 +15616,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-08-14 18:33:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_planks": {
-    "criteria": {
-      "has_logs": "2025-08-14 18:00:01 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/calcite_shingles_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-08-14 18:00:07 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/beenest_armor_chestplate": {
-    "criteria": {
-      "has_bee_nest": "2025-08-14 17:58:05 +0000"
     },
     "done": true
   },
@@ -15645,27 +15640,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/moss_carpet": {
-    "criteria": {
-      "has_moss_block": "2025-08-14 18:33:36 +0000"
-    },
-    "done": true
-  },
-  "bewitchment:recipes/decorations/black_coffin": {
-    "criteria": {
-      "has_item": "2025-08-14 18:52:38 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/calcite_brick_slab_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-08-14 18:00:07 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/beenest_armor_leggings": {
-    "criteria": {
-      "has_bee_nest": "2025-08-14 17:58:05 +0000"
     },
     "done": true
   },
@@ -15705,12 +15682,6 @@
     },
     "done": true
   },
-  "betterend:recipes/misc/end_stone_brick_weathered_from_moss": {
-    "criteria": {
-      "has_moss_block": "2025-08-14 18:33:36 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-08-14 18:00:07 +0000"
@@ -15720,12 +15691,6 @@
   "stoneworks:recipes/building_blocks/calcite_brick_stairs_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-08-14 18:00:07 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/spruce_cabinet": {
-    "criteria": {
-      "has_spruce_trapdoor": "2025-08-14 18:38:18 +0000"
     },
     "done": true
   },
@@ -15741,27 +15706,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/birch_cabinet": {
-    "criteria": {
-      "has_birch_trapdoor": "2025-08-14 18:00:01 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_calcite_wall_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-08-14 18:00:07 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/parts/plantball_from_grass_variants": {
-    "criteria": {
-      "has_grass_variant": "2025-08-14 18:03:10 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/bricks/mossy_bricks_from_moss_block": {
-    "criteria": {
-      "has_item": "2025-08-14 18:33:36 +0000"
     },
     "done": true
   },
@@ -15786,12 +15733,6 @@
   "create:recipes/building_blocks/cut_calcite_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-08-14 18:00:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_wood": {
-    "criteria": {
-      "has_log": "2025-08-14 18:00:01 +0000"
     },
     "done": true
   },
@@ -15837,39 +15778,15 @@
     },
     "done": true
   },
-  "mcda:recipes/base_armors/beenest_armor_helmet": {
-    "criteria": {
-      "has_bee_nest": "2025-08-14 17:58:05 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/cobbled_calcite_stairs_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-08-14 18:00:07 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/birch_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-08-14 18:02:26 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_sawmill/birch_slab_from_stairs": {
-    "criteria": {
-      "has_birch_stairs": "2025-08-14 18:00:01 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_calcite_bricks_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-08-14 18:00:07 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/extractor/sponge_piece_from_pufferfish": {
-    "criteria": {
-      "has_pufferfish": "2025-08-14 17:37:31 +0000"
     },
     "done": true
   },
@@ -15921,21 +15838,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stripped_birch_wood": {
-    "criteria": {
-      "has_log": "2025-08-14 18:02:26 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/polished_cut_calcite_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-08-14 18:00:07 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/tables/birch_table_slab": {
-    "criteria": {
-      "has_bamboo": "2025-08-14 18:19:24 +0000"
     },
     "done": true
   },
@@ -15960,6 +15865,414 @@
   "twigs:recipes/calcite/calcite_stairs_stonecutting": {
     "criteria": {
       "has_item": "2025-08-14 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/birch_beam": {
+    "criteria": {
+      "has_stripped_log": "2025-08-14 18:02:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-08-14 18:02:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_birch_wood": {
+    "criteria": {
+      "has_log": "2025-08-14 18:02:26 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/plantball_from_grass_variants": {
+    "criteria": {
+      "has_grass_variant": "2025-08-14 18:03:10 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/birch_pressure_plate_from_slab": {
+    "criteria": {
+      "has_birch_slab": "2025-08-14 18:19:24 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/birch_table_slab": {
+    "criteria": {
+      "has_bamboo": "2025-08-14 18:19:24 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_from_moss": {
+    "criteria": {
+      "has_item": "2025-08-14 18:33:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-08-14 18:33:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-08-14 18:33:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-08-14 18:33:36 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/end_stone_brick_weathered_from_moss": {
+    "criteria": {
+      "has_moss_block": "2025-08-14 18:33:36 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bricks/mossy_bricks_from_moss_block": {
+    "criteria": {
+      "has_item": "2025-08-14 18:33:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-08-14 18:38:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/onion": {
+    "criteria": {
+      "has_onion_crate": "2025-08-14 18:39:57 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/black_coffin": {
+    "criteria": {
+      "has_item": "2025-08-14 18:52:38 +0000"
+    },
+    "done": true
+  },
+  "quartzelv:recipes/building_blocks/smooth_quartz_elevator": {
+    "criteria": {
+      "has_quartz_elevator": "2025-08-14 19:07:53 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/silver_helmet": {
+    "criteria": {
+      "has_silver_ingot": "2025-08-14 19:19:57 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/silver_boots": {
+    "criteria": {
+      "has_silver_ingot": "2025-08-14 19:19:57 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2025-08-14 19:19:57 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/silver_chestplate": {
+    "criteria": {
+      "has_silver_ingot": "2025-08-14 19:19:57 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/combat/athame": {
+    "criteria": {
+      "has_item": "2025-08-14 19:19:57 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/silver_plate": {
+    "criteria": {
+      "has_tag_c_silver_ingots": "2025-08-14 19:19:57 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/combat/silver_arrow": {
+    "criteria": {
+      "has_item": "2025-08-14 19:19:57 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/silver_leggings": {
+    "criteria": {
+      "has_silver_ingot": "2025-08-14 19:19:57 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/brazier": {
+    "criteria": {
+      "has_item": "2025-08-14 19:19:57 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/silver_storage_block": {
+    "criteria": {
+      "has_silver_ingot": "2025-08-14 19:19:57 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/silver_candelabra": {
+    "criteria": {
+      "has_item": "2025-08-14 19:19:57 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/obsidian_witch_altar": {
+    "criteria": {
+      "has_item": "2025-08-14 19:20:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_bricks_stairs_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-08-14 19:20:03 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/obsidian_plate_from_block": {
+    "criteria": {
+      "has_obsidian": "2025-08-14 19:20:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile_small_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-08-14 19:20:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile_slab_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-08-14 19:20:03 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_obsidian_claymore": {
+    "criteria": {
+      "has_obsidian": "2025-08-14 19:20:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-08-14 19:20:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile_stairs_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-08-14 19:20:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_rod_tiles_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-08-14 19:20:03 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_sinister": {
+    "criteria": {
+      "has_obsidian": "2025-08-14 19:20:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-08-14 19:20:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-08-14 19:20:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_glass_smelting": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-08-14 19:20:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_bricks_slab_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-08-14 19:20:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_bricks_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-08-14 19:20:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile": {
+    "criteria": {
+      "has_obsidian": "2025-08-14 19:20:03 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_fort": {
+    "criteria": {
+      "location0": "2025-08-14 19:34:37 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/electric_furnace": {
+    "criteria": {
+      "has_electronic_circuit": "2025-08-14 19:38:55 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/basic_display": {
+    "criteria": {
+      "has_electronic_circuit": "2025-08-14 19:38:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-08-14 19:35:22 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bricks/chiseled_bricks": {
+    "criteria": {
+      "has_item": "2025-08-14 19:35:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-08-14 19:35:22 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_infested_temple_map": {
+    "criteria": {
+      "find_map": "2025-08-14 19:33:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-08-14 19:39:26 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bricks/mixed_bricks_stonecutting": {
+    "criteria": {
+      "has_item": "2025-08-14 19:35:22 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bricks/chiseled_bricks_stonecutting": {
+    "criteria": {
+      "has_item": "2025-08-14 19:35:22 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bricks_pillar_trim": {
+    "criteria": {
+      "has_bricks_pillar_trim": "2025-08-14 19:35:22 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_monasteries": {
+    "criteria": {
+      "location0": "2025-08-14 19:32:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2025-08-14 19:35:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-08-14 19:35:22 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bricks/mixed_bricks": {
+    "criteria": {
+      "has_item": "2025-08-14 19:35:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2025-08-14 19:35:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/upgrade/muffler_upgrade": {
+    "criteria": {
+      "has_electronic_circuit": "2025-08-14 19:38:55 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bricks/cracked_bricks": {
+    "criteria": {
+      "has_item": "2025-08-14 19:35:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2025-08-14 19:35:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/advanced_circuit": {
+    "criteria": {
+      "has_electronic_circuit": "2025-08-14 19:38:55 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/lsu_storage": {
+    "criteria": {
+      "has_electronic_circuit": "2025-08-14 19:38:55 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/animated_torch": {
+    "criteria": {
+      "has_item": "2025-08-14 19:39:26 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bricks_corner_trim": {
+    "criteria": {
+      "has_bricks_corner_trim": "2025-08-14 19:35:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/frequency_transmitter": {
+    "criteria": {
+      "has_circuit": "2025-08-14 19:38:55 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/data_storage_core": {
+    "criteria": {
+      "has_electronic_circuit": "2025-08-14 19:38:55 +0000"
     },
     "done": true
   },
