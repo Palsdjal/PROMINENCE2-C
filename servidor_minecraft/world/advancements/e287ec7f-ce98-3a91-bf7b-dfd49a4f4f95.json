@@ -302,6 +302,7 @@
       "minecraft:frozen_ocean": "2025-08-12 04:55:48 +0000",
       "minecraft:desert": "2025-08-10 17:34:33 +0000",
       "minecraft:ocean": "2025-08-10 22:39:25 +0000",
+      "minecraft:jungle": "2025-08-14 21:02:21 +0000",
       "minecraft:snowy_beach": "2025-08-12 05:41:32 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-08-14 06:13:08 +0000",
       "minecraft:old_growth_birch_forest": "2025-08-13 01:05:46 +0000",
@@ -3302,6 +3303,7 @@
       "deciduous_forest": "2025-08-10 17:48:05 +0000",
       "boreal_forest": "2025-08-13 00:59:59 +0000",
       "chalk_cliffs": "2025-08-10 17:49:10 +0000",
+      "bamboo_forest": "2025-08-14 21:22:21 +0000",
       "temperate_grove": "2025-08-10 22:50:52 +0000",
       "cold_river": "2025-08-12 04:02:26 +0000",
       "pumpkin_fields": "2025-08-12 02:44:42 +0000",
@@ -3340,6 +3342,7 @@
       "deciduous_forest": "2025-08-10 17:48:05 +0000",
       "boreal_forest": "2025-08-13 00:59:59 +0000",
       "chalk_cliffs": "2025-08-10 17:49:10 +0000",
+      "bamboo_forest": "2025-08-14 21:22:21 +0000",
       "temperate_grove": "2025-08-10 22:50:52 +0000",
       "cold_river": "2025-08-12 04:02:26 +0000",
       "pumpkin_fields": "2025-08-12 02:44:42 +0000",
@@ -4125,6 +4128,7 @@
   "regions_unexplored:got_wood": {
     "criteria": {
       "silver_birch_log": "2025-08-12 01:13:20 +0000",
+      "redwood_log": "2025-08-14 21:19:33 +0000",
       "socotra_log": "2025-08-10 20:35:30 +0000"
     },
     "done": false
@@ -16408,9 +16412,399 @@
     },
     "done": true
   },
+  "mcda:recipes/unique_armors/verdant_robe_helmet": {
+    "criteria": {
+      "has_evocation_robe_helmet": "2025-08-14 21:12:46 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/redwood_branch_from_redwood_log": {
+    "criteria": {
+      "has_log": "2025-08-14 21:19:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_glazed_terracotta": {
     "criteria": {
       "has_purple_terracotta": "2025-08-14 20:59:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-08-14 21:18:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-14 21:07:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_dining_bench": {
+    "criteria": {
+      "has_jungle_dining_bench": "2025-08-14 21:07:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-14 21:07:11 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/jungle_seat": {
+    "criteria": {
+      "has_plank": "2025-08-14 21:07:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-08-14 21:07:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/jungle_branch_from_jungle_log": {
+    "criteria": {
+      "has_log": "2025-08-14 21:07:02 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/ember_robe_helmet": {
+    "criteria": {
+      "has_evocation_robe_helmet": "2025-08-14 21:12:46 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/jungle_table": {
+    "criteria": {
+      "has_jungle": "2025-08-14 21:07:11 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/alarm": {
+    "criteria": {
+      "has_refined_iron_ingot": "2025-08-14 21:04:46 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/jungle_wine_rack_small": {
+    "criteria": {
+      "has_jungle_planks": "2025-08-14 21:07:11 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/raw_lead_from_lead_ore_with_water": {
+    "criteria": {
+      "has_tag_c_lead_ores": "2025-08-14 21:15:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/jungle_shrub": {
+    "criteria": {
+      "has_jungle_sapling": "2025-08-14 21:07:03 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_table": {
+    "criteria": {
+      "has_jungle_table": "2025-08-14 21:07:11 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/jungle_wine_rack_big": {
+    "criteria": {
+      "has_jungle_planks": "2025-08-14 21:07:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-08-14 21:18:43 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_counter": {
+    "criteria": {
+      "has_jungle_counter": "2025-08-14 21:07:11 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/steel_ingot_from_refined_iron_and_carbon": {
+    "criteria": {
+      "has_refined_iron": "2025-08-14 21:04:46 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/steel_ingot_from_refined_iron": {
+    "criteria": {
+      "has_refined_iron": "2025-08-14 21:04:46 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/wire_mill/hv_cable": {
+    "criteria": {
+      "has_refined_iron_ingot": "2025-08-14 21:04:46 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_nightstand": {
+    "criteria": {
+      "has_jungle_nightstand": "2025-08-14 21:07:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-08-14 21:07:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_cupboard": {
+    "criteria": {
+      "has_jungle_cupboard": "2025-08-14 21:07:11 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/andesite_pedestal": {
+    "criteria": {
+      "has_polished_andesite": "2025-08-14 21:18:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-08-14 21:07:11 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/electronic_circuit": {
+    "criteria": {
+      "has_refined_iron_ingot": "2025-08-14 21:04:46 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/blasting/lead_ingot_from_c_lead_ores": {
+    "criteria": {
+      "has_tag_c_lead_ores": "2025-08-14 21:15:19 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/misc_block/refined_iron_fence": {
+    "criteria": {
+      "has_refined_iron": "2025-08-14 21:04:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-14 21:07:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_bench": {
+    "criteria": {
+      "has_jungle_bench": "2025-08-14 21:07:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-08-14 21:18:43 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/redwood_wood": {
+    "criteria": {
+      "has_log": "2025-08-14 21:19:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-08-14 21:07:02 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/refined_iron_storage_block": {
+    "criteria": {
+      "has_refined_iron_ingot": "2025-08-14 21:04:46 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_side_table": {
+    "criteria": {
+      "has_jungle_side_table": "2025-08-14 21:07:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_drawer": {
+    "criteria": {
+      "has_jungle_drawer": "2025-08-14 21:07:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-08-14 21:18:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-08-14 21:07:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_corner_trim": {
+    "criteria": {
+      "has_jungle_corner_trim": "2025-08-14 21:07:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_shelf": {
+    "criteria": {
+      "has_jungle_shelf": "2025-08-14 21:07:11 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/raw_lead": {
+    "criteria": {
+      "has_tag_c_lead_ores": "2025-08-14 21:15:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/jungle_window": {
+    "criteria": {
+      "has_ingredient": "2025-08-14 21:07:11 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/jungle_support": {
+    "criteria": {
+      "has_plank": "2025-08-14 21:07:11 +0000"
+    },
+    "done": true
+  },
+  "techreborn:refinediron": {
+    "criteria": {
+      "crit_0": "2025-08-14 21:04:46 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine_block/basic_machine_frame": {
+    "criteria": {
+      "has_refined_iron_ingot": "2025-08-14 21:04:46 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_jungle": {
+    "criteria": {
+      "has_item": "2025-08-14 21:07:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/redwood_planks": {
+    "criteria": {
+      "has_logs": "2025-08-14 21:19:33 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/smelting/lead_ingot_from_c_lead_ores": {
+    "criteria": {
+      "has_tag_c_lead_ores": "2025-08-14 21:15:19 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/packed_snow_block": {
+    "criteria": {
+      "has_snow_block": "2025-08-14 21:27:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-14 21:07:11 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/hv_cable": {
+    "criteria": {
+      "has_refined_iron_ingot": "2025-08-14 21:04:46 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_pillar_trim": {
+    "criteria": {
+      "has_jungle_pillar_trim": "2025-08-14 21:07:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/redwood_shrub": {
+    "criteria": {
+      "has_redwood_sapling": "2025-08-14 21:19:58 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/refined_iron_nugget": {
+    "criteria": {
+      "has_refined_iron_ingot": "2025-08-14 21:04:46 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/insulated_hv_cable": {
+    "criteria": {
+      "has_refined_iron": "2025-08-14 21:04:46 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_chair": {
+    "criteria": {
+      "has_jungle_chair": "2025-08-14 21:07:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_desk": {
+    "criteria": {
+      "has_jungle_desk": "2025-08-14 21:07:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-08-14 21:07:11 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/refined_iron_plate": {
+    "criteria": {
+      "has_tag_c_refined_iron_ingots": "2025-08-14 21:04:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-08-14 21:07:02 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/jungle_palisade": {
+    "criteria": {
+      "has_log": "2025-08-14 21:07:02 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_couch": {
+    "criteria": {
+      "has_jungle_couch": "2025-08-14 21:07:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_fancy_bed": {
+    "criteria": {
+      "has_jungle_fancy_bed": "2025-08-14 21:07:11 +0000"
     },
     "done": true
   },
