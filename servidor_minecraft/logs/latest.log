@@ -2279,3 +2279,31 @@ BCLib - Nether BiomeSource (574992a5)
 [05:06:01] [Server thread/INFO]: VadniesHael was shot by Stray
 [05:06:01] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.redstone_14.08.2025-05.06.01.dat
 [05:06:02] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[05:06:14] [Server thread/INFO]: VadniesHael was shot by Skeleton
+[05:06:14] [Server thread/INFO]: Did not backup data (grave data empty)
+[05:06:15] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[05:06:19] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[05:06:25] [Server thread/INFO]: VadniesHael claimed a grave belonging to VadniesHael at 1203, -34, 1974, minecraft:overworld
+[05:06:59] [Server thread/WARN]: Taza_free moved wrongly!
+[05:07:17] [Server thread/INFO]: VadniesHael was shot by Stray
+[05:07:17] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.redstone_14.08.2025-05.07.17.dat
+[05:07:19] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[05:07:24] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[05:07:27] [Server thread/INFO]: VadniesHael was shot by Stray
+[05:07:27] [Server thread/INFO]: Did not backup data (grave data empty)
+[05:07:29] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[05:07:33] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[05:07:35] [Server thread/INFO]: VadniesHael claimed a grave belonging to VadniesHael at 1214, -34, 1966, minecraft:overworld
+[05:07:56] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
+[05:07:56] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
+[05:09:40] [Server thread/INFO]: Taza_free was shot by Stray
+[05:09:40] [Server thread/INFO]: Created new backpack backup file for Taza_free with unique ID travelersbackpack.iron_14.08.2025-05.09.40.dat
+[05:09:42] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[05:09:49] [Server thread/INFO]: [VadniesHael: Teleported Taza_free to VadniesHael]
+[05:10:04] [Server thread/INFO]: Taza_free claimed a grave belonging to Taza_free at 1207, -40, 1986, minecraft:overworld
+[05:10:23] [Server thread/WARN]: Taza_free moved wrongly!
+[05:11:30] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[05:12:01] [Server thread/INFO]: Taza_free has made the advancement [The Great Sage, Heaven's Equal]
+[05:12:02] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[05:13:40] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[05:14:44] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
