@@ -288,6 +288,7 @@
       "minecraft:wooded_badlands": "2025-08-10 22:54:31 +0000",
       "minecraft:badlands": "2025-08-10 17:52:02 +0000",
       "minecraft:savanna_plateau": "2025-08-10 17:45:41 +0000",
+      "minecraft:beach": "2025-08-14 06:13:42 +0000",
       "minecraft:dark_forest": "2025-08-10 22:40:22 +0000",
       "minecraft:river": "2025-08-10 17:53:37 +0000",
       "minecraft:lukewarm_ocean": "2025-08-10 20:37:20 +0000",
@@ -301,6 +302,7 @@
       "minecraft:desert": "2025-08-10 17:34:33 +0000",
       "minecraft:ocean": "2025-08-10 22:39:25 +0000",
       "minecraft:snowy_beach": "2025-08-12 05:41:32 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-08-14 06:13:08 +0000",
       "minecraft:old_growth_birch_forest": "2025-08-13 01:05:46 +0000",
       "minecraft:deep_dark": "2025-08-12 02:04:20 +0000",
       "minecraft:meadow": "2025-08-10 23:17:21 +0000",
@@ -14342,6 +14344,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-08-14 06:09:26 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_limestone_wall_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-08-14 04:04:23 +0000"
@@ -14825,6 +14833,12 @@
   "create:recipes/building_blocks/cut_limestone_stairs_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-08-14 04:04:23 +0000"
+    },
+    "done": true
+  },
+  "beachparty:main/welcome_to_the_beach": {
+    "criteria": {
+      "enter_beach": "2025-08-14 06:13:42 +0000"
     },
     "done": true
   },
