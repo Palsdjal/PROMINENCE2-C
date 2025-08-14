@@ -16531,5 +16531,23 @@
     },
     "done": false
   },
+  "soulsweapons:bluemoon_tools": {
+    "criteria": {
+      "bluemoon_greatsword": "2025-08-14 04:12:49 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:all_moonlight_weapons": {
+    "criteria": {
+      "bluemoon_greatsword": "2025-08-14 04:12:49 +0000"
+    },
+    "done": false
+  },
+  "soulsweapons:all_weapons": {
+    "criteria": {
+      "bluemoon_greatsword": "2025-08-14 04:12:49 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
