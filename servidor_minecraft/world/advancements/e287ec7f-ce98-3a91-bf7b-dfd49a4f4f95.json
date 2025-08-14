@@ -4160,7 +4160,8 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-08-10 20:37:33 +0000",
-      "opened_chest": "2025-08-10 20:40:28 +0000"
+      "opened_chest": "2025-08-10 20:40:28 +0000",
+      "opened_cart": "2025-08-14 22:21:36 +0000"
     },
     "done": false
   },
@@ -4289,7 +4290,8 @@
       "beachparty:trunks": "2025-08-10 22:28:23 +0000",
       "beachparty:rubber_ring_stripped": "2025-08-11 21:03:58 +0000",
       "beachparty:crocs": "2025-08-10 20:38:50 +0000",
-      "beachparty:rubber_ring_axolotl": "2025-08-10 22:32:22 +0000"
+      "beachparty:rubber_ring_axolotl": "2025-08-10 22:32:22 +0000",
+      "beachparty:rubber_ring_pelican": "2025-08-14 22:18:53 +0000"
     },
     "done": false
   },
@@ -4298,7 +4300,8 @@
       "beachparty:trunks": "2025-08-10 22:28:23 +0000",
       "beachparty:crocs": "2025-08-10 20:38:50 +0000",
       "beachparty:rubber_ring_axolotl": "2025-08-10 22:32:22 +0000",
-      "beachparty:rubber_ring_stripped": "2025-08-11 21:03:58 +0000"
+      "beachparty:rubber_ring_stripped": "2025-08-11 21:03:58 +0000",
+      "beachparty:rubber_ring_pelican": "2025-08-14 22:18:53 +0000"
     },
     "done": false
   },
@@ -16412,6 +16415,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-14 22:20:07 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/unique_armors/verdant_robe_helmet": {
     "criteria": {
       "has_evocation_robe_helmet": "2025-08-14 21:12:46 +0000"
@@ -16427,6 +16436,18 @@
   "minecraft:recipes/decorations/purple_glazed_terracotta": {
     "criteria": {
       "has_purple_terracotta": "2025-08-14 20:59:07 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/wall_mushroom_brown": {
+    "criteria": {
+      "has_brown_mushroom": "2025-08-14 22:20:07 +0000"
+    },
+    "done": true
+  },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-08-14 22:21:36 +0000"
     },
     "done": true
   },
@@ -16490,6 +16511,18 @@
     },
     "done": true
   },
+  "frostiful:recipes/combat/armor/fur_boots": {
+    "criteria": {
+      "has_fur": "2025-08-14 22:16:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-08-14 22:20:25 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tables/jungle_table": {
     "criteria": {
       "has_jungle": "2025-08-14 21:07:11 +0000"
@@ -16544,6 +16577,12 @@
     },
     "done": true
   },
+  "betternether:recipes/food/stalagnate_bowl_mushroom": {
+    "criteria": {
+      "has_brown_mushroom": "2025-08-14 22:20:07 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/jungle_wine_rack_big": {
     "criteria": {
       "has_jungle_planks": "2025-08-14 21:07:11 +0000"
@@ -16556,6 +16595,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-08-14 22:20:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/red_mushroom": {
+    "criteria": {
+      "has_red_mushroom": "2025-08-14 22:20:12 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/bauble_box": {
     "criteria": {
       "has_item": "2025-08-14 21:43:14 +0000"
@@ -16565,6 +16616,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2025-08-14 21:18:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-08-14 22:20:07 +0000"
     },
     "done": true
   },
@@ -16586,6 +16643,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-14 22:20:07 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/manasteel_hoe": {
     "criteria": {
       "has_item": "2025-08-14 21:43:14 +0000"
@@ -16601,6 +16664,12 @@
   "techreborn:recipes/misc/crafting_table/nugget/lead_nugget": {
     "criteria": {
       "has_lead_ingot": "2025-08-14 21:45:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-08-14 22:20:25 +0000"
     },
     "done": true
   },
@@ -16634,6 +16703,12 @@
     },
     "done": true
   },
+  "frostiful:recipes/combat/armor/fur_leggings": {
+    "criteria": {
+      "has_fur": "2025-08-14 22:16:24 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/jungle_cupboard": {
     "criteria": {
       "has_jungle_cupboard": "2025-08-14 21:07:11 +0000"
@@ -16658,9 +16733,33 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/wall_red_brown": {
+    "criteria": {
+      "has_red_mushroom": "2025-08-14 22:20:12 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/combat/armor/fur_helmet": {
+    "criteria": {
+      "has_fur": "2025-08-14 22:16:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-08-14 22:20:07 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/blasting/lead_ingot_from_c_lead_ores": {
     "criteria": {
       "has_tag_c_lead_ores": "2025-08-14 21:15:19 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_rail": {
+    "criteria": {
+      "has_rail": "2025-08-14 22:20:25 +0000"
     },
     "done": true
   },
@@ -16760,6 +16859,42 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/mushroom_14": {
+    "criteria": {
+      "has_alt_item": "2025-08-14 22:20:07 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_15": {
+    "criteria": {
+      "has_alt_item": "2025-08-14 22:20:07 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_10": {
+    "criteria": {
+      "has_alt_item": "2025-08-14 22:20:07 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_11": {
+    "criteria": {
+      "has_alt_item": "2025-08-14 22:20:07 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_12": {
+    "criteria": {
+      "has_alt_item": "2025-08-14 22:20:07 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_13": {
+    "criteria": {
+      "has_alt_item": "2025-08-14 22:20:07 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/jungle_drawer": {
     "criteria": {
       "has_jungle_drawer": "2025-08-14 21:07:11 +0000"
@@ -16856,6 +16991,12 @@
     },
     "done": true
   },
+  "frostiful:recipes/combat/armor/fur_chestplate": {
+    "criteria": {
+      "has_fur": "2025-08-14 22:16:24 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/monocle": {
     "criteria": {
       "has_item": "2025-08-14 21:43:14 +0000"
@@ -16934,6 +17075,66 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/mushroom_0": {
+    "criteria": {
+      "has_alt_item": "2025-08-14 22:20:07 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_1": {
+    "criteria": {
+      "has_alt_item": "2025-08-14 22:20:07 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_2": {
+    "criteria": {
+      "has_alt_item": "2025-08-14 22:20:07 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_3": {
+    "criteria": {
+      "has_alt_item": "2025-08-14 22:20:07 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_4": {
+    "criteria": {
+      "has_alt_item": "2025-08-14 22:20:07 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_5": {
+    "criteria": {
+      "has_alt_item": "2025-08-14 22:20:07 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_6": {
+    "criteria": {
+      "has_alt_item": "2025-08-14 22:20:07 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_7": {
+    "criteria": {
+      "has_alt_item": "2025-08-14 22:20:07 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_8": {
+    "criteria": {
+      "has_alt_item": "2025-08-14 22:20:07 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_9": {
+    "criteria": {
+      "has_alt_item": "2025-08-14 22:20:07 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/nugget/refined_iron_nugget": {
     "criteria": {
       "has_refined_iron_ingot": "2025-08-14 21:04:46 +0000"
@@ -16976,6 +17177,12 @@
     },
     "done": true
   },
+  "botania:recipes/transportation/ghost_rail": {
+    "criteria": {
+      "has_item": "2025-08-14 22:20:25 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/jungle_desk": {
     "criteria": {
       "has_jungle_desk": "2025-08-14 21:07:11 +0000"
@@ -16991,6 +17198,12 @@
   "techreborn:recipes/compressor/refined_iron_plate": {
     "criteria": {
       "has_tag_c_refined_iron_ingots": "2025-08-14 21:04:46 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/misc/fur_padding": {
+    "criteria": {
+      "has_fur": "2025-08-14 22:16:24 +0000"
     },
     "done": true
   },
@@ -17021,6 +17234,12 @@
   "handcrafted:recipes/misc/jungle_fancy_bed": {
     "criteria": {
       "has_jungle_fancy_bed": "2025-08-14 21:07:11 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/brown_mushroom": {
+    "criteria": {
+      "has_brown_mushroom": "2025-08-14 22:20:07 +0000"
     },
     "done": true
   },

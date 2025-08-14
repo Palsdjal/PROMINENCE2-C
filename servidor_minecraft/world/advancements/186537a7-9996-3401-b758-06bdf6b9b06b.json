@@ -738,7 +738,8 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-08-10 20:57:42 +0000",
-      "opened_chest": "2025-08-10 20:56:06 +0000"
+      "opened_chest": "2025-08-10 20:56:06 +0000",
+      "opened_cart": "2025-08-14 22:21:33 +0000"
     },
     "done": false
   },
@@ -18411,6 +18412,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-14 22:20:10 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/redwood_branch_from_redwood_log": {
     "criteria": {
       "has_log": "2025-08-14 21:19:18 +0000"
@@ -18423,9 +18430,21 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/wall_mushroom_brown": {
+    "criteria": {
+      "has_brown_mushroom": "2025-08-14 22:20:10 +0000"
+    },
+    "done": true
+  },
   "beachparty:recipes/palm_pressure_plate": {
     "criteria": {
       "has_palm_planks": "2025-08-14 21:47:57 +0000"
+    },
+    "done": true
+  },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-08-14 22:21:33 +0000"
     },
     "done": true
   },
@@ -18501,6 +18520,12 @@
     },
     "done": true
   },
+  "betternether:recipes/food/stalagnate_bowl_mushroom": {
+    "criteria": {
+      "has_brown_mushroom": "2025-08-14 22:20:10 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/ice_pendant": {
     "criteria": {
       "has_item": "2025-08-14 22:07:48 +0000"
@@ -18510,6 +18535,12 @@
   "beachparty:recipes/palm_table": {
     "criteria": {
       "has_palm_planks": "2025-08-14 21:47:57 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/red_mushroom": {
+    "criteria": {
+      "has_red_mushroom": "2025-08-14 22:20:16 +0000"
     },
     "done": true
   },
@@ -18540,6 +18571,12 @@
   "supplementaries:recipes/decorations/regions_unexplored/sign_post_redwood": {
     "criteria": {
       "has_item": "2025-08-14 21:24:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-14 22:20:10 +0000"
     },
     "done": true
   },
@@ -18576,6 +18613,12 @@
   "botania:recipes/tools/magnet_ring": {
     "criteria": {
       "has_item": "2025-08-14 22:07:48 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/wall_red_brown": {
+    "criteria": {
+      "has_red_mushroom": "2025-08-14 22:20:16 +0000"
     },
     "done": true
   },
@@ -18660,6 +18703,42 @@
   "farmersdelight:recipes/decorations/spruce_cabinet": {
     "criteria": {
       "has_spruce_trapdoor": "2025-08-14 22:06:03 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_14": {
+    "criteria": {
+      "has_alt_item": "2025-08-14 22:20:10 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_15": {
+    "criteria": {
+      "has_alt_item": "2025-08-14 22:20:10 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_10": {
+    "criteria": {
+      "has_alt_item": "2025-08-14 22:20:10 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_11": {
+    "criteria": {
+      "has_alt_item": "2025-08-14 22:20:10 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_12": {
+    "criteria": {
+      "has_alt_item": "2025-08-14 22:20:10 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_13": {
+    "criteria": {
+      "has_alt_item": "2025-08-14 22:20:10 +0000"
     },
     "done": true
   },
@@ -18831,6 +18910,66 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/mushroom_0": {
+    "criteria": {
+      "has_alt_item": "2025-08-14 22:20:10 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_1": {
+    "criteria": {
+      "has_alt_item": "2025-08-14 22:20:10 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_2": {
+    "criteria": {
+      "has_alt_item": "2025-08-14 22:20:10 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_3": {
+    "criteria": {
+      "has_alt_item": "2025-08-14 22:20:10 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_4": {
+    "criteria": {
+      "has_alt_item": "2025-08-14 22:20:10 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_5": {
+    "criteria": {
+      "has_alt_item": "2025-08-14 22:20:10 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_6": {
+    "criteria": {
+      "has_alt_item": "2025-08-14 22:20:10 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_7": {
+    "criteria": {
+      "has_alt_item": "2025-08-14 22:20:10 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_8": {
+    "criteria": {
+      "has_alt_item": "2025-08-14 22:20:10 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_9": {
+    "criteria": {
+      "has_alt_item": "2025-08-14 22:20:10 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/redwood_trapdoor": {
     "criteria": {
       "has_redwood_planks": "2025-08-14 21:24:47 +0000"
@@ -18882,6 +19021,12 @@
   "beachparty:recipes/palm_chair": {
     "criteria": {
       "has_palm_planks": "2025-08-14 21:47:57 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/brown_mushroom": {
+    "criteria": {
+      "has_brown_mushroom": "2025-08-14 22:20:10 +0000"
     },
     "done": true
   },
