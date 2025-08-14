@@ -15561,6 +15561,12 @@
     },
     "done": true
   },
+  "quartzelv:recipes/building_blocks/smooth_quartz_elevator": {
+    "criteria": {
+      "has_quartz_elevator": "2025-08-14 19:07:53 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/polished_calcite_stairs_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-08-14 18:00:07 +0000"
