@@ -16126,21 +16126,21 @@
     },
     "done": true
   },
+  "dungeons_arise:find_monasteries": {
+    "criteria": {
+      "location0": "2025-08-14 19:32:39 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_infested_temple_map": {
+    "criteria": {
+      "find_map": "2025-08-14 19:33:25 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_illager_fort": {
     "criteria": {
       "location0": "2025-08-14 19:34:37 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/machine/electric_furnace": {
-    "criteria": {
-      "has_electronic_circuit": "2025-08-14 19:38:55 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/parts/basic_display": {
-    "criteria": {
-      "has_electronic_circuit": "2025-08-14 19:38:55 +0000"
     },
     "done": true
   },
@@ -16162,18 +16162,6 @@
     },
     "done": true
   },
-  "dungeons_arise:find_infested_temple_map": {
-    "criteria": {
-      "find_map": "2025-08-14 19:33:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/repeater": {
-    "criteria": {
-      "has_redstone_torch": "2025-08-14 19:39:26 +0000"
-    },
-    "done": true
-  },
   "twigs:recipes/bricks/mixed_bricks_stonecutting": {
     "criteria": {
       "has_item": "2025-08-14 19:35:22 +0000"
@@ -16189,12 +16177,6 @@
   "handcrafted:recipes/misc/bricks_pillar_trim": {
     "criteria": {
       "has_bricks_pillar_trim": "2025-08-14 19:35:22 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_monasteries": {
-    "criteria": {
-      "location0": "2025-08-14 19:32:39 +0000"
     },
     "done": true
   },
@@ -16222,12 +16204,6 @@
     },
     "done": true
   },
-  "techreborn:recipes/crafting_table/upgrade/muffler_upgrade": {
-    "criteria": {
-      "has_electronic_circuit": "2025-08-14 19:38:55 +0000"
-    },
-    "done": true
-  },
   "twigs:recipes/bricks/cracked_bricks": {
     "criteria": {
       "has_item": "2025-08-14 19:35:22 +0000"
@@ -16237,6 +16213,30 @@
   "minecraft:recipes/building_blocks/brick_stairs": {
     "criteria": {
       "has_bricks": "2025-08-14 19:35:22 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bricks_corner_trim": {
+    "criteria": {
+      "has_bricks_corner_trim": "2025-08-14 19:35:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/electric_furnace": {
+    "criteria": {
+      "has_electronic_circuit": "2025-08-14 19:38:55 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/basic_display": {
+    "criteria": {
+      "has_electronic_circuit": "2025-08-14 19:38:55 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/upgrade/muffler_upgrade": {
+    "criteria": {
+      "has_electronic_circuit": "2025-08-14 19:38:55 +0000"
     },
     "done": true
   },
@@ -16252,18 +16252,6 @@
     },
     "done": true
   },
-  "botania:recipes/redstone/animated_torch": {
-    "criteria": {
-      "has_item": "2025-08-14 19:39:26 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/bricks_corner_trim": {
-    "criteria": {
-      "has_bricks_corner_trim": "2025-08-14 19:35:22 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/crafting_table/frequency_transmitter": {
     "criteria": {
       "has_circuit": "2025-08-14 19:38:55 +0000"
@@ -16273,6 +16261,156 @@
   "techreborn:recipes/crafting_table/parts/data_storage_core": {
     "criteria": {
       "has_electronic_circuit": "2025-08-14 19:38:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-08-14 19:39:26 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/animated_torch": {
+    "criteria": {
+      "has_item": "2025-08-14 19:39:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-08-14 19:39:35 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/glistering_melon_slice": {
+    "criteria": {
+      "has_melon_slice": "2025-08-14 19:39:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/melon": {
+    "criteria": {
+      "has_melon_slice": "2025-08-14 19:39:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-08-14 19:39:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-08-14 19:39:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-08-14 19:39:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-08-14 19:39:35 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/melon_slice": {
+    "criteria": {
+      "has_melon_slice": "2025-08-14 19:39:35 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/melon_juice": {
+    "criteria": {
+      "has_melon": "2025-08-14 19:39:35 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/purple_cushion": {
+    "criteria": {
+      "has_purple_cushion": "2025-08-14 19:40:27 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_purple": {
+    "criteria": {
+      "has_purple_wool": "2025-08-14 19:40:27 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/purple_sheet": {
+    "criteria": {
+      "has_purple_sheet": "2025-08-14 19:40:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed": {
+    "criteria": {
+      "has_purple_wool": "2025-08-14 19:40:27 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_purple": {
+    "criteria": {
+      "has_purple_wool": "2025-08-14 19:40:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet": {
+    "criteria": {
+      "has_purple_wool": "2025-08-14 19:40:27 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/purple_flag": {
+    "criteria": {
+      "has_purple_flag": "2025-08-14 19:40:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_banner": {
+    "criteria": {
+      "has_purple_wool": "2025-08-14 19:40:27 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/purple_sleeping_bag": {
+    "criteria": {
+      "has_purple_wool": "2025-08-14 19:40:27 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/purple_bed_from_wool": {
+    "criteria": {
+      "has_purple_wool": "2025-08-14 19:40:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_glazed_terracotta": {
+    "criteria": {
+      "has_gray_terracotta": "2025-08-14 19:40:39 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/shaper_armor_trim_smithing_template": {
+    "criteria": {
+      "has_gray_terracotta": "2025-08-14 19:40:39 +0000"
+    },
+    "done": true
+  },
+  "spellbladenext:spellblades/hexblade": {
+    "criteria": {
+      "requirement": "2025-08-14 19:41:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_glazed_terracotta": {
+    "criteria": {
+      "has_purple_terracotta": "2025-08-14 20:59:07 +0000"
     },
     "done": true
   },
