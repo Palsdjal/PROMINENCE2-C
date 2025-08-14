@@ -2258,3 +2258,18 @@ BCLib - Nether BiomeSource (73024c08)
 [18:05:11] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
 [18:06:13] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=3178, y=116, z=253}
 [18:06:13] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=3178, y=116, z=253}
+[18:09:58] [Worker-Main-3/WARN]: Non-existent template pool reference: ctov:village/waystone/normal
+[18:09:58] [Worker-Main-3/WARN]: Non-existent template pool reference: ctov:village/vampirism/totem
+[18:09:58] [Worker-Main-3/WARN]: Non-existent template pool reference: ctov:village/bounty/plains
+[18:10:13] [Server thread/WARN]: Żar-ptak (vehicle of Taza_free) moved wrongly! 0.4449150344322561
+[18:10:13] [Server thread/WARN]: Żar-ptak (vehicle of Taza_free) moved wrongly! 0.8916537757291962
+[18:10:13] [Server thread/WARN]: Żar-ptak (vehicle of Taza_free) moved wrongly! 0.33190582644874667
+[18:10:13] [Server thread/WARN]: Żar-ptak (vehicle of Taza_free) moved wrongly! 0.7663401931247336
+[18:10:16] [Worker-Main-1/WARN]: Tried to access a block entity before it was created. class_2339{x=2971, y=-16, z=944}
+[18:10:52] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=2728, y=14, z=1028}
+[18:10:52] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=2728, y=14, z=1027}
+[18:11:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[18:16:33] [Server thread/INFO]: Taza_free lost connection: Disconnected
+[18:16:33] [Server thread/INFO]: Taza_free left the game
+[18:16:33] [Server thread/INFO]: remove player wand
+[18:16:33] [Server thread/INFO]: Updating all forceload tickets for 186537a7-9996-3401-b758-06bdf6b9b06b
