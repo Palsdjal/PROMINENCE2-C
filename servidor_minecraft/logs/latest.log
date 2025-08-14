@@ -2307,3 +2307,16 @@ BCLib - Nether BiomeSource (574992a5)
 [05:12:02] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to Taza_free]
 [05:13:40] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to Taza_free]
 [05:14:44] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
+[05:16:41] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
+[05:17:59] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[05:18:19] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
+[05:18:33] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
+[05:19:15] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[05:20:50] [Server thread/INFO]: Villager class_1646['Burton'/26262, l='ServerLevel[world]', x=1251.70, y=-4.00, z=1909.56] died, message: 'Burton was slain by Zombie'
+[05:20:50] [Server thread/INFO]: Named entity class_1646['Burton'/26262, l='ServerLevel[world]', x=1251.70, y=-4.00, z=1909.56] died: Burton was slain by Zombie
+[05:21:59] [Server thread/INFO]: [VadniesHael: Set own game mode to Spectator Mode]
+[05:22:35] [Server thread/INFO]: [VadniesHael: Teleported Taza_free to VadniesHael]
+[05:22:41] [Server thread/INFO]: [VadniesHael: Set own game mode to Survival Mode]
+[05:25:11] [Server thread/INFO]: [VadniesHael: Set own game mode to Spectator Mode]
+[05:25:55] [Server thread/INFO]: [VadniesHael: Teleported Taza_free to VadniesHael]
+[05:26:04] [Server thread/INFO]: [VadniesHael: Set own game mode to Survival Mode]
