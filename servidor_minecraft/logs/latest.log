@@ -2262,3 +2262,20 @@ BCLib - Nether BiomeSource (574992a5)
 [04:51:21] [Server thread/INFO]: Taza_free has made the advancement [Biceps Required]
 [04:51:21] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
 [04:53:00] [Server thread/WARN]: Taza_free moved wrongly!
+[04:57:05] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
+[04:57:49] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
+[04:58:17] [Server thread/WARN]: Taza_free moved wrongly!
+[04:58:37] [Server thread/INFO]: [VadniesHael: Teleported Taza_free to VadniesHael]
+[04:58:37] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[04:59:57] [Server thread/INFO]: Taza_free has made the advancement [God, Take The Wheel]
+[05:00:09] [Server thread/INFO]: VadniesHael has made the advancement [God, Take The Wheel]
+[05:01:08] [Server thread/INFO]: VadniesHael was shot by Skeleton
+[05:01:08] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.redstone_14.08.2025-05.01.08.dat
+[05:01:10] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[05:01:14] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[05:01:22] [Server thread/INFO]: VadniesHael claimed a grave belonging to VadniesHael at 1201, -40, 2016, minecraft:overworld
+[05:04:07] [Server thread/INFO]: Taza_free has made the advancement [Local Brewery]
+[05:05:01] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
+[05:06:01] [Server thread/INFO]: VadniesHael was shot by Stray
+[05:06:01] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.redstone_14.08.2025-05.06.01.dat
+[05:06:02] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.

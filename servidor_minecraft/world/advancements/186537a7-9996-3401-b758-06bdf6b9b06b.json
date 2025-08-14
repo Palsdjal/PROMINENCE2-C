@@ -697,6 +697,7 @@
       "minecraft:cave_spider": "2025-08-13 20:02:58 +0000",
       "minecraft:silverfish": "2025-08-12 02:04:27 +0000",
       "minecraft:enderman": "2025-08-13 06:13:44 +0000",
+      "minecraft:stray": "2025-08-14 05:01:59 +0000",
       "minecraft:vex": "2025-08-12 22:04:47 +0000",
       "minecraft:zombie": "2025-08-10 20:55:51 +0000"
     },
@@ -16531,6 +16532,12 @@
     },
     "done": false
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-08-14 05:04:07 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/golden_thin_pot": {
     "criteria": {
       "has_golden_thin_pot": "2025-08-14 04:31:53 +0000"
@@ -16564,6 +16571,12 @@
   "techreborn:recipes/compressor/gold_plate_from_block": {
     "criteria": {
       "has_gold_block": "2025-08-14 04:31:53 +0000"
+    },
+    "done": true
+  },
+  "spellbladenext:spellblades/falchion": {
+    "criteria": {
+      "arcane": "2025-08-14 04:59:57 +0000"
     },
     "done": true
   },
@@ -16632,6 +16645,12 @@
       "bluemoon_greatsword": "2025-08-14 04:12:49 +0000"
     },
     "done": false
+  },
+  "simplyswords:ribboncleaver": {
+    "criteria": {
+      "requirement": "2025-08-14 04:51:21 +0000"
+    },
+    "done": true
   },
   "regions_unexplored:recipes/redstone/redstone_from_blasting_redstone_bulb": {
     "criteria": {

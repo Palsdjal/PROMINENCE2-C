@@ -586,6 +586,7 @@
       "minecraft:cave_spider": "2025-08-14 04:43:06 +0000",
       "minecraft:piglin": "2025-08-13 01:07:26 +0000",
       "minecraft:silverfish": "2025-08-12 01:27:21 +0000",
+      "minecraft:stray": "2025-08-14 04:52:27 +0000",
       "minecraft:vex": "2025-08-12 21:50:48 +0000",
       "minecraft:zombie": "2025-08-10 17:49:44 +0000",
       "minecraft:drowned": "2025-08-14 04:26:43 +0000",
@@ -14387,6 +14388,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/golden_thin_pot": {
+    "criteria": {
+      "has_golden_thin_pot": "2025-08-14 04:56:11 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:bluemoon_tools": {
     "criteria": {
       "bluemoon_greatsword": "2025-08-14 04:13:29 +0000"
@@ -14435,6 +14442,12 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/gold_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-08-14 04:56:11 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-08-14 04:04:23 +0000"
@@ -14447,9 +14460,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/compressor/gold_plate_from_block": {
+    "criteria": {
+      "has_gold_block": "2025-08-14 04:56:11 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cracked_granite_tiles_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-14 04:27:33 +0000"
+    },
+    "done": true
+  },
+  "spellbladenext:spellblades/falchion": {
+    "criteria": {
+      "arcane": "2025-08-14 05:00:09 +0000"
     },
     "done": true
   },
@@ -14480,6 +14505,12 @@
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-14 04:27:33 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_medium_pot": {
+    "criteria": {
+      "has_golden_medium_pot": "2025-08-14 04:56:11 +0000"
     },
     "done": true
   },
@@ -14525,9 +14556,21 @@
     },
     "done": true
   },
+  "mcdw:recipes/hammers/hammer_suns_grace": {
+    "criteria": {
+      "has_gold_block": "2025-08-14 04:56:11 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_granite_brick_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-08-14 04:27:33 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thick_pot": {
+    "criteria": {
+      "has_golden_thick_pot": "2025-08-14 04:56:11 +0000"
     },
     "done": true
   },
@@ -14540,6 +14583,12 @@
   "stoneworks:recipes/building_blocks/granite_paver_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-14 04:27:33 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/enchanted_golden_apple": {
+    "criteria": {
+      "has_gold_block": "2025-08-14 04:56:11 +0000"
     },
     "done": true
   },
@@ -14570,6 +14619,12 @@
   "create:recipes/building_blocks/polished_cut_limestone_slab_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-08-14 04:04:23 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/axes/axe_encrusted_anchor": {
+    "criteria": {
+      "has_gold_block": "2025-08-14 04:56:11 +0000"
     },
     "done": true
   },
@@ -14801,6 +14856,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-08-14 04:56:11 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_limestone_slab_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-08-14 04:04:23 +0000"
@@ -14834,6 +14895,12 @@
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-14 04:27:33 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-08-14 04:56:11 +0000"
     },
     "done": true
   },
@@ -14891,6 +14958,12 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/gold_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-08-14 04:56:11 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:all_weapons": {
     "criteria": {
       "bluemoon_greatsword": "2025-08-14 04:13:29 +0000"
@@ -14906,6 +14979,12 @@
   "mcda:recipes/upgrade_cores/upgrade_core_spider": {
     "criteria": {
       "has_core_specification_item": "2025-08-14 04:20:46 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-08-14 04:56:11 +0000"
     },
     "done": true
   },
@@ -14948,6 +15027,18 @@
   "create:recipes/building_blocks/small_granite_bricks_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-08-14 04:27:33 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_wide_pot": {
+    "criteria": {
+      "has_golden_wide_pot": "2025-08-14 04:56:11 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_golden": {
+    "criteria": {
+      "has_core_specification_item": "2025-08-14 04:56:11 +0000"
     },
     "done": true
   },
