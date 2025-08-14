@@ -583,6 +583,7 @@
       "minecraft:evoker": "2025-08-12 21:50:45 +0000",
       "minecraft:witch": "2025-08-12 21:49:44 +0000",
       "minecraft:husk": "2025-08-10 17:38:05 +0000",
+      "minecraft:cave_spider": "2025-08-14 04:43:06 +0000",
       "minecraft:piglin": "2025-08-13 01:07:26 +0000",
       "minecraft:silverfish": "2025-08-12 01:27:21 +0000",
       "minecraft:vex": "2025-08-12 21:50:48 +0000",
@@ -14542,6 +14543,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_sword_with_water": {
+    "criteria": {
+      "has_diamond_sword": "2025-08-14 04:43:23 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-08-14 04:04:23 +0000"
@@ -14569,6 +14576,18 @@
   "stoneworks:recipes/building_blocks/granite_plate_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-14 04:27:33 +0000"
+    },
+    "done": true
+  },
+  "spellbladenext:spellblades/monkeyking": {
+    "criteria": {
+      "arcane": "2025-08-14 04:43:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-08-14 04:43:55 +0000"
     },
     "done": true
   },
@@ -14821,6 +14840,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-08-14 04:27:33 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_sword_with_mercury": {
+    "criteria": {
+      "has_diamond_sword": "2025-08-14 04:43:23 +0000"
     },
     "done": true
   },

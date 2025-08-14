@@ -2223,3 +2223,42 @@ BCLib - Nether BiomeSource (574992a5)
 [04:31:31] [Server thread/INFO]: Taza_free has made the advancement [Disturbing the Dead I]
 [04:33:21] [Server thread/INFO]: Taza_free has made the advancement [Spooky Scary Skeleton]
 [04:34:09] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=1073, y=-21, z=2167}
+[04:36:17] [Worker-Main-19/INFO]: [STDOUT]: Distance from spawn is: 1554
+[04:36:51] [Worker-Main-19/WARN]: Tried to access a block entity before it was created. class_2338{x=1133, y=-8, z=1221}
+[04:40:46] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[04:43:18] [Server thread/INFO]: VadniesHael has made the advancement [The Great Sage, Heaven's Equal]
+[04:43:55] [Server thread/INFO]: VadniesHael has completed the challenge [It Spreads]
+[04:44:17] [Server thread/INFO]: VadniesHael was shot by Skeleton
+[04:44:17] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.redstone_14.08.2025-04.44.17.dat
+[04:44:19] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[04:44:26] [Server thread/INFO]: VadniesHael was shot by Skeleton
+[04:44:26] [Server thread/INFO]: Did not backup data (grave data empty)
+[04:44:28] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[04:44:40] [Server thread/INFO]: VadniesHael was slain by Baby Skeleton
+[04:44:40] [Server thread/INFO]: Did not backup data (grave data empty)
+[04:44:41] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[04:44:59] [Worker-Main-19/WARN]: Tried to access a block entity before it was created. class_2338{x=981, y=-16, z=2174}
+[04:45:03] [Server thread/INFO]: VadniesHael claimed a grave belonging to VadniesHael at 1202, -35, 1989, minecraft:overworld
+[04:46:47] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
+[04:48:19] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
+[04:48:22] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
+[04:48:56] [Server thread/INFO]: VadniesHael was killed by magic
+[04:48:56] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.redstone_14.08.2025-04.48.56.dat
+[04:48:57] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[04:49:15] [Server thread/INFO]: VadniesHael was shot by Skeleton
+[04:49:17] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[04:49:37] [Server thread/INFO]: VadniesHael claimed a grave belonging to VadniesHael at 1206, -40, 1989, minecraft:overworld
+[04:49:38] [Server thread/INFO]: VadniesHael claimed a grave belonging to VadniesHael at 1205, -40, 1989, minecraft:overworld
+[04:49:41] [Server thread/INFO]: VadniesHael was slain by Cave Spider
+[04:49:41] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.redstone_14.08.2025-04.49.41.dat
+[04:49:41] [Netty Epoll Server IO #1/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[04:49:41] [Netty Epoll Server IO #1/ERROR]: Combo count: 0 is dual wielding: false
+[04:49:41] [Netty Epoll Server IO #1/ERROR]: Main-hand stack: 0 air
+[04:49:41] [Netty Epoll Server IO #1/ERROR]: Off-hand stack: 0 air
+[04:49:41] [Netty Epoll Server IO #1/ERROR]: Selected slot server: 1 | client: 1
+[04:49:45] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[04:50:08] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=983, y=-16, z=2174}
+[04:50:18] [Server thread/INFO]: VadniesHael claimed a grave belonging to VadniesHael at 1205, -40, 1988, minecraft:overworld
+[04:51:21] [Server thread/INFO]: Taza_free has made the advancement [Biceps Required]
+[04:51:21] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
+[04:53:00] [Server thread/WARN]: Taza_free moved wrongly!
