@@ -2432,3 +2432,14 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 [06:16:49] [Server thread/INFO]: Taza_free was slain by Ocean Creeper
 [06:16:49] [Server thread/INFO]: Created new backpack backup file for Taza_free with unique ID travelersbackpack.ocelot_14.08.2025-06.16.49.dat
 [06:16:51] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[06:17:29] [Server thread/INFO]: Taza_free claimed a grave belonging to Taza_free at 1081, 61, 119, minecraft:overworld
+[06:18:22] [Server thread/INFO]: [VadniesHael: Set own game mode to Creative Mode]
+[06:18:39] [Server thread/INFO]: [VadniesHael: Set own game mode to Survival Mode]
+[06:18:47] [Server thread/INFO]: <VadniesHael> XD
+[06:25:34] [Server thread/INFO]: [VadniesHael: Set own game mode to Creative Mode]
+[06:26:09] [Server thread/INFO]: [VadniesHael: Set own game mode to Survival Mode]
+[06:26:52] [Server thread/INFO]: [VadniesHael: Set own game mode to Creative Mode]
+[06:26:59] [pool-12-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_grove], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mesa_fortified], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mountain_alpine], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_wandering_trader_camp], ResourceKey[minecraft:worldgen/structure / ctov:small/village_jungle_tree], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_ocean], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_dark_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_swedish]] from pos class_2338{x=1541, y=83, z=635}
+[06:27:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2305ms or 46 ticks behind
+[06:27:11] [Server thread/INFO]: [VadniesHael: Set own game mode to Survival Mode]
+[06:27:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3213ms or 64 ticks behind
