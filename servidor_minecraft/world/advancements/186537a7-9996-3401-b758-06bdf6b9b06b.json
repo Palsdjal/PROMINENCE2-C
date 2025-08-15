@@ -19260,12 +19260,6 @@
     },
     "done": true
   },
-  "betterend:recipes/misc/andesite_lantern": {
-    "criteria": {
-      "has_andesite_slab": "2025-08-15 05:11:03 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/misc/conversions/white_petal_block_deconstruct": {
     "criteria": {
       "has_item": "2025-08-15 04:27:38 +0000"
@@ -19290,6 +19284,18 @@
     },
     "done": true
   },
+  "botania:recipes/misc/petal_white_double": {
+    "criteria": {
+      "has_alt_item": "2025-08-15 04:27:38 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/andesite_lantern": {
+    "criteria": {
+      "has_andesite_slab": "2025-08-15 05:11:03 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/lapis_plate": {
     "criteria": {
       "has_lapis_block": "2025-08-15 05:16:28 +0000"
@@ -19299,12 +19305,6 @@
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_lapis_block": "2025-08-15 05:16:28 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_white_double": {
-    "criteria": {
-      "has_alt_item": "2025-08-15 04:27:38 +0000"
     },
     "done": true
   },

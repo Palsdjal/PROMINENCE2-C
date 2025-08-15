@@ -2466,3 +2466,66 @@ BCLib - Nether BiomeSource (574992a5)
 [05:23:52] [pool-12-thread-5/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:medium/village_taiga], ResourceKey[minecraft:worldgen/structure / ctov:small/village_plains_fortified], ResourceKey[minecraft:worldgen/structure / ctov:small/village_mushroom], ResourceKey[minecraft:worldgen/structure / ctov:small/village_taiga_fortified], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_ocean], ResourceKey[minecraft:worldgen/structure / ctov:large/village_swamp_fortified], ResourceKey[minecraft:worldgen/structure / ctov:small/village_savanna_na], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_grove]] from pos class_2338{x=-4549, y=67, z=741}
 [05:23:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2373ms or 47 ticks behind
 [05:24:00] [Worker-Main-66/INFO]: [STDOUT]: Distance from spawn is: 4238
+[05:24:34] [Server thread/WARN]: Tried to add entity aquamirae:pillagers_patrol but it was marked as removed already
+[05:24:42] [Server thread/INFO]: VadniesHael has made the advancement [Ice Maze]
+[05:25:06] [Worker-Main-2/INFO]: [STDOUT]: Distance from spawn is: 4238
+[05:25:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3081ms or 61 ticks behind
+[05:25:32] [Worker-Main-66/ERROR]: ThreadLocalRandom accessed from a different thread (owner: Server thread, current: Worker-Main-66)
+Possible solutions: Find possible causes in the stack trace below and report to the corresponding mod authors 
+
+java.util.ConcurrentModificationException: ThreadLocalRandom accessed from a different thread (owner: Server thread, current: Worker-Main-66)
+	at com.ishland.uwrad.common.CheckedThreadLocalRandom.handleNotOwner(CheckedThreadLocalRandom.java:51) ~[unsafe-world-random-access-detector-1.1.0.jar:?]
+	at com.ishland.uwrad.common.CheckedThreadLocalRandom.isSafe(CheckedThreadLocalRandom.java:38) ~[unsafe-world-random-access-detector-1.1.0.jar:?]
+	at com.ishland.uwrad.common.CheckedThreadLocalRandom.next(CheckedThreadLocalRandom.java:82) ~[unsafe-world-random-access-detector-1.1.0.jar:?]
+	at net.minecraft.util.math.random.BaseRandom.nextInt(BaseRandom.java:33) ~[server-intermediary.jar:?]
+	at net.minecraft.util.math.random.Random.nextBetween(net/minecraft/class_5819.java:52) ~[server-intermediary.jar:?]
+	at com.github.thedeathlycow.frostiful.entity.WindEntity.<init>(WindEntity.java:50) ~[frostiful-1.0.11.jar:?]
+	at com.github.thedeathlycow.frostiful.entity.FreezingWindEntity.<init>(FreezingWindEntity.java:18) ~[frostiful-1.0.11.jar:?]
+	at net.minecraft.entity.EntityType.create(net/minecraft/class_1299.java:544) ~[server-intermediary.jar:?]
+	at net.minecraft.entity.EntityType.method_17846(net/minecraft/class_1299.java:548) ~[server-intermediary.jar:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at net.minecraft.entity.EntityType.getEntityFromNbt(net/minecraft/class_1299.java:548) ~[server-intermediary.jar:?]
+	at net.minecraft.structure.StructureTemplate.getEntity(net/minecraft/class_3499.java:430) ~[server-intermediary.jar:?]
+	at net.minecraft.structure.StructureTemplate.spawnEntities(net/minecraft/class_3499.java:415) ~[server-intermediary.jar:?]
+	at net.minecraft.structure.StructureTemplate.mixinextras$bridge$method_15179$83(StructureTemplate.java) ~[server-intermediary.jar:?]
+	at net.minecraft.structure.StructureTemplate.wrapOperation$zeb000$porting_lib_base$grabSettings(io/github/fabricators_of_create/porting_lib/mixin/common/StructureTemplateMixin.java [porting_lib_base.mixins.json]:55) ~[server-intermediary.jar:?]
+	at net.minecraft.structure.StructureTemplate.wrapOperation$zeb000$porting_lib_base$grabSettings$mixinextras$bridge$79(StructureTemplate.java) ~[server-intermediary.jar:?]
+	at net.minecraft.structure.StructureTemplate.place(net/minecraft/class_3499.java:347) ~[server-intermediary.jar:?]
+	at net.minecraft.structure.pool.SinglePoolElement.generate(net/minecraft/class_3781.java:124) ~[server-intermediary.jar:?]
+	at net.minecraft.structure.PoolStructurePiece.generate(PoolStructurePiece.java:89) ~[server-intermediary.jar:?]
+	at net.minecraft.structure.PoolStructurePiece.generate(PoolStructurePiece.java:85) ~[server-intermediary.jar:?]
+	at net.minecraft.structure.StructureStart.place(net/minecraft/class_3449.java:100) ~[server-intermediary.jar:?]
+	at net.minecraft.world.gen.chunk.ChunkGenerator.method_38265(net/minecraft/class_2794.java:320) ~[server-intermediary.jar:?]
+	at com.google.common.collect.ImmutableList.forEach(ImmutableList.java:422) ~[guava-31.1-jre.jar:?]
+	at net.minecraft.world.gen.chunk.ChunkGenerator.generateFeatures(net/minecraft/class_2794.java:319) ~[server-intermediary.jar:?]
+	at net.minecraft.world.chunk.ChunkStatus.method_51375(net/minecraft/class_2806.java:108) ~[server-intermediary.jar:?]
+	at net.minecraft.world.chunk.ChunkStatus$SimpleGenerationTask.doWork(ChunkStatus.java:309) ~[server-intermediary.jar:?]
+	at net.minecraft.world.chunk.ChunkStatus.runGenerationTask(net/minecraft/class_2806.java:252) ~[server-intermediary.jar:?]
+	at net.minecraft.server.world.ThreadedAnvilChunkStorage.method_17225(net/minecraft/class_3898.java:684) ~[server-intermediary.jar:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar:?]
+	at net.minecraft.server.world.ThreadedAnvilChunkStorage.method_17224(net/minecraft/class_3898.java:673) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.world.ChunkTaskPrioritySystem.method_17634(ChunkTaskPrioritySystem.java:62) ~[server-intermediary.jar:?]
+	at net.minecraft.util.thread.TaskExecutor.runNext(TaskExecutor.java:91) ~[server-intermediary.jar:?]
+	at net.minecraft.util.thread.TaskExecutor.runWhile(TaskExecutor.java:146) ~[server-intermediary.jar:?]
+	at net.minecraft.util.thread.TaskExecutor.run(TaskExecutor.java:102) ~[server-intermediary.jar:?]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1395) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[05:26:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2704ms or 54 ticks behind
+[05:27:09] [Worker-Main-1/WARN]: Tried to access a block entity before it was created. class_2338{x=-5076, y=89, z=1020}
+[05:27:09] [Worker-Main-1/WARN]: Tried to access a block entity before it was created. class_2338{x=-5076, y=89, z=1020}
+[05:28:40] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-3800, y=-32, z=134}
+[05:28:40] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-3801, y=-32, z=134}
+[05:28:40] [Server thread/INFO]: VadniesHael has made the advancement [The Beginning of An Adventure]
+[05:28:40] [Server thread/INFO]: VadniesHael has made the advancement [A Nice-y Look]
+[05:29:00] [Server thread/INFO]: VadniesHael has made the advancement [Local Brewery]
+[05:29:38] [Worker-Main-1/WARN]: Tried to access a block entity before it was created. class_2339{x=-4548, y=-31, z=592}
+[05:31:35] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[05:32:57] [Server thread/INFO]: VadniesHael has reached the goal [Zombie Doctor]
+[05:34:16] [pool-12-thread-6/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_badlands], ResourceKey[minecraft:worldgen/structure / ctov:large/village_plains_fortified], ResourceKey[minecraft:worldgen/structure / ctov:large/village_swamp], ResourceKey[minecraft:worldgen/structure / ctov:small/village_mountain], ResourceKey[minecraft:worldgen/structure / ctov:large/village_savanna_na], ResourceKey[minecraft:worldgen/structure / ctov:large/village_mountain_alpine], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_grove], ResourceKey[minecraft:worldgen/structure / ctov:small/village_savanna]] from pos class_2338{x=-5461, y=104, z=1029}
+[05:34:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2262ms or 45 ticks behind

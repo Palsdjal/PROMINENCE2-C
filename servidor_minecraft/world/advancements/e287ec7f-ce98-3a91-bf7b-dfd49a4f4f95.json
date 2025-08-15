@@ -306,11 +306,13 @@
       "minecraft:frozen_ocean": "2025-08-12 04:55:48 +0000",
       "minecraft:desert": "2025-08-10 17:34:33 +0000",
       "minecraft:windswept_forest": "2025-08-15 03:18:00 +0000",
+      "minecraft:deep_frozen_ocean": "2025-08-15 05:24:42 +0000",
       "minecraft:ocean": "2025-08-10 22:39:25 +0000",
       "minecraft:jungle": "2025-08-14 21:02:21 +0000",
       "minecraft:snowy_beach": "2025-08-12 05:41:32 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-08-14 06:13:08 +0000",
       "minecraft:flower_forest": "2025-08-15 05:08:20 +0000",
+      "minecraft:frozen_peaks": "2025-08-15 05:26:48 +0000",
       "minecraft:old_growth_birch_forest": "2025-08-13 01:05:46 +0000",
       "minecraft:deep_dark": "2025-08-12 02:04:20 +0000",
       "minecraft:meadow": "2025-08-10 23:17:21 +0000",
@@ -3315,6 +3317,7 @@
       "towering_cliffs": "2025-08-15 03:18:09 +0000",
       "chalk_cliffs": "2025-08-10 17:49:10 +0000",
       "bamboo_forest": "2025-08-14 21:22:21 +0000",
+      "cold_boreal_taiga": "2025-08-15 05:23:31 +0000",
       "temperate_grove": "2025-08-10 22:50:52 +0000",
       "cold_river": "2025-08-12 04:02:26 +0000",
       "pumpkin_fields": "2025-08-12 02:44:42 +0000",
@@ -3361,6 +3364,7 @@
       "towering_cliffs": "2025-08-15 03:18:09 +0000",
       "chalk_cliffs": "2025-08-10 17:49:10 +0000",
       "bamboo_forest": "2025-08-14 21:22:21 +0000",
+      "cold_boreal_taiga": "2025-08-15 05:23:31 +0000",
       "temperate_grove": "2025-08-10 22:50:52 +0000",
       "cold_river": "2025-08-12 04:02:26 +0000",
       "pumpkin_fields": "2025-08-12 02:44:42 +0000",
@@ -17620,6 +17624,12 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-08-15 05:29:00 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/misc/farmland": {
     "criteria": {
       "has_soul_sand": "2025-08-15 04:07:45 +0000"
@@ -17629,6 +17639,12 @@
   "mcda:recipes/base_armors/soul_robe_helmet": {
     "criteria": {
       "has_soul_sand": "2025-08-15 04:07:45 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/glass_bottle_from_splash_potion": {
+    "criteria": {
+      "has_splash_potion": "2025-08-15 05:29:01 +0000"
     },
     "done": true
   },
@@ -17734,6 +17750,12 @@
     },
     "done": true
   },
+  "endrem:main/cold_eye": {
+    "criteria": {
+      "cold_eye": "2025-08-15 05:28:40 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/soul_sand_soul_sandstone": {
     "criteria": {
       "has_soul_sand": "2025-08-15 04:07:45 +0000"
@@ -17746,9 +17768,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-08-15 05:32:05 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/misc/red_dye_from_poppy_bush": {
     "criteria": {
       "has_poppy_bush": "2025-08-15 05:11:37 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/find_ice_maze": {
+    "criteria": {
+      "deep_frozen_ocean": "2025-08-15 05:24:42 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/snow": {
+    "criteria": {
+      "has_snowball": "2025-08-15 05:32:05 +0000"
     },
     "done": true
   },
@@ -17788,6 +17828,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-08-15 05:32:05 +0000"
+    },
+    "done": true
+  },
   "zenith:enchanting/enchanting_stats": {
     "criteria": {
       "enchanted_item": "2025-08-15 04:39:51 +0000"
@@ -17818,11 +17864,29 @@
     },
     "done": true
   },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2025-08-15 05:32:57 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/petal_white_double": {
     "criteria": {
       "has_alt_item": "2025-08-15 04:16:28 +0000"
     },
     "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "cold_eye": "2025-08-15 05:28:40 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/vanilla_snowy_leaves/spruce": {
+    "criteria": {
+      "has_snowball": "2025-08-15 05:32:05 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
