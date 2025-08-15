@@ -17897,6 +17897,42 @@
     },
     "done": true
   },
+  "croptopia:recipes/yoghurt": {
+    "criteria": {
+      "has_strawberry": "2025-08-15 17:02:05 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_trifle": {
+    "criteria": {
+      "has_strawberry": "2025-08-15 17:02:05 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/strawberry_seed": {
+    "criteria": {
+      "has_strawberry": "2025-08-15 17:02:05 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/strawberry_jam": {
+    "criteria": {
+      "has_strawberry": "2025-08-15 17:02:05 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/strawberry_smoothie": {
+    "criteria": {
+      "has_strawberry": "2025-08-15 17:02:05 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/strawberry_ice_cream": {
+    "criteria": {
+      "has_strawberry": "2025-08-15 17:02:05 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/paper_from_written_book": {
     "criteria": {
       "has_written_book": "2025-08-15 16:42:12 +0000"
