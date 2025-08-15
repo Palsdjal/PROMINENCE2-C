@@ -17688,6 +17688,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/clipboard_clear": {
+    "criteria": {
+      "has_item": "2025-08-15 04:18:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/slime_ball": {
     "criteria": {
       "has_slime_block": "2025-08-15 03:37:16 +0000"
