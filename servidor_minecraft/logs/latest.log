@@ -2282,3 +2282,36 @@ BCLib - Nether BiomeSource (574992a5)
 [03:41:31] [Server thread/INFO]: VadniesHael has made the advancement [What a Deal!]
 [03:41:36] [Server thread/INFO]: Villager class_1646['Salvatore'/6275, l='ServerLevel[world]', x=-7520.30, y=65.00, z=-100.21] died, message: 'Salvatore was slain by Zombie'
 [03:41:36] [Server thread/INFO]: Named entity class_1646['Salvatore'/6275, l='ServerLevel[world]', x=-7520.30, y=65.00, z=-100.21] died: Salvatore was slain by Zombie
+[03:43:25] [Server thread/INFO]: Taza_free lost connection: Timed out
+[03:43:25] [Server thread/INFO]: Taza_free left the game
+[03:43:25] [Server thread/INFO]: remove player wand
+[03:43:25] [Server thread/INFO]: Updating all forceload tickets for 186537a7-9996-3401-b758-06bdf6b9b06b
+[03:43:40] [Server thread/INFO]: [Handshake] Sending channel query
+[03:43:40] [Netty Epoll Server IO #3/INFO]: [Handshake] Receiving client channels
+[03:43:40] [Netty Epoll Server IO #3/INFO]: [Handshake] Handshake completed successfully
+[03:43:40] [Server thread/INFO]: Taza_free[/127.137.233.5:57159] logged in with entity id 10486 at (-7407.291540321205, 63.796735600668704, -112.86626320528083)
+[03:43:40] [Server thread/INFO]: Sending server config values to client
+[03:43:40] [Server thread/INFO]: Syncing config to Taza_free (186537a7-9996-3401-b758-06bdf6b9b06b)
+[03:43:40] [Server thread/INFO]: Loading config from file...
+[03:43:40] [Server thread/INFO]: [STDOUT]: Splitting recipes into 10 packets
+[03:43:40] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[03:43:40] [Server thread/INFO]: Taza_free joined the game
+[03:43:40] [Server thread/INFO]: Loading Configs for Sortilege
+[03:43:40] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[03:43:40] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[03:43:40] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[03:43:40] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[03:43:40] [Server thread/INFO]: Updating all forceload tickets for 186537a7-9996-3401-b758-06bdf6b9b06b
+[03:43:40] [Server thread/INFO]: PLAYER_JOIN
+[03:43:40] [Server thread/INFO]: add_player wand
+[03:43:40] [Server thread/INFO]: config sent
+[03:43:43] [Netty Epoll Server IO #3/INFO]: Receiving client config
+[03:43:43] [Netty Epoll Server IO #3/INFO]: Channel update: Taza_free -> default
+[03:43:43] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player Taza_free. Claiming: GRAVE / Robbing: INVENTORY
+[03:43:52] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[03:44:46] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to 1783.500000, 99.500000, 1899.500000]
+[03:44:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[03:44:53] [Server thread/INFO]: [VadniesHael: Teleported Taza_free to VadniesHael]
+[03:47:13] [Server thread/WARN]: Taza_free moved wrongly!
+[03:47:18] [Server thread/WARN]: Taza_free moved wrongly!
+[03:50:48] [Server thread/WARN]: Taza_free moved wrongly!

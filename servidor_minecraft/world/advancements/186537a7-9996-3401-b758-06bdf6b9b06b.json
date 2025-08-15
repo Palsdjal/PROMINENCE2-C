@@ -610,6 +610,7 @@
       "silver_birch_forest": "2025-08-10 22:59:14 +0000",
       "shrubland": "2025-08-10 23:04:26 +0000",
       "pine_taiga": "2025-08-13 01:05:14 +0000",
+      "bayou": "2025-08-15 03:40:26 +0000",
       "autumnal_maple_forest": "2025-08-10 22:56:49 +0000",
       "muddy_river": "2025-08-12 03:11:46 +0000",
       "prismachasm": "2025-08-12 01:21:23 +0000",
@@ -653,6 +654,7 @@
       "silver_birch_forest": "2025-08-10 22:59:14 +0000",
       "shrubland": "2025-08-10 23:04:26 +0000",
       "pine_taiga": "2025-08-13 01:05:14 +0000",
+      "bayou": "2025-08-15 03:40:26 +0000",
       "autumnal_maple_forest": "2025-08-10 22:56:49 +0000",
       "muddy_river": "2025-08-12 03:11:46 +0000",
       "willow_forest": "2025-08-14 04:03:46 +0000",
@@ -19243,6 +19245,12 @@
   "regions_unexplored:light_as_a_frog": {
     "criteria": {
       "lily_pad": "2025-08-15 03:37:23 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/magenta_coffin": {
+    "criteria": {
+      "has_item": "2025-08-15 03:40:07 +0000"
     },
     "done": true
   },
