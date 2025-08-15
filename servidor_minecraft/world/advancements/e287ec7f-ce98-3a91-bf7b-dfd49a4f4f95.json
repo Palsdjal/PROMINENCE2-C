@@ -296,6 +296,7 @@
       "minecraft:river": "2025-08-10 17:53:37 +0000",
       "minecraft:lukewarm_ocean": "2025-08-10 20:37:20 +0000",
       "minecraft:stony_shore": "2025-08-10 17:43:56 +0000",
+      "minecraft:snowy_plains": "2025-08-15 05:14:08 +0000",
       "minecraft:dripstone_caves": "2025-08-10 22:54:01 +0000",
       "minecraft:grove": "2025-08-11 07:12:02 +0000",
       "minecraft:swamp": "2025-08-15 03:19:38 +0000",
@@ -3325,6 +3326,8 @@
       "gravel_beach": "2025-08-12 05:41:24 +0000",
       "redwoods": "2025-08-10 20:36:31 +0000",
       "golden_boreal_taiga": "2025-08-13 01:09:27 +0000",
+      "hyacinth_deeps": "2025-08-15 05:13:16 +0000",
+      "icy_heights": "2025-08-15 05:16:44 +0000",
       "bioshroom_caves": "2025-08-14 22:53:33 +0000",
       "lupine_plains": "2025-08-14 06:27:27 +0000"
     },
@@ -3369,6 +3372,8 @@
       "gravel_beach": "2025-08-12 05:41:24 +0000",
       "redwoods": "2025-08-10 20:36:31 +0000",
       "golden_boreal_taiga": "2025-08-13 01:09:27 +0000",
+      "hyacinth_deeps": "2025-08-15 05:13:16 +0000",
+      "icy_heights": "2025-08-15 05:16:44 +0000",
       "lupine_plains": "2025-08-14 06:27:27 +0000"
     },
     "done": false
