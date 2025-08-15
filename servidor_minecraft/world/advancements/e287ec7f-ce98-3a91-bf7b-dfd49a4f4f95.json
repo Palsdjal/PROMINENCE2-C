@@ -296,11 +296,13 @@
       "minecraft:stony_shore": "2025-08-10 17:43:56 +0000",
       "minecraft:dripstone_caves": "2025-08-10 22:54:01 +0000",
       "minecraft:grove": "2025-08-11 07:12:02 +0000",
+      "minecraft:swamp": "2025-08-15 03:19:38 +0000",
       "minecraft:jagged_peaks": "2025-08-11 07:11:28 +0000",
       "minecraft:cold_ocean": "2025-08-12 05:42:26 +0000",
       "minecraft:forest": "2025-08-10 22:50:58 +0000",
       "minecraft:frozen_ocean": "2025-08-12 04:55:48 +0000",
       "minecraft:desert": "2025-08-10 17:34:33 +0000",
+      "minecraft:windswept_forest": "2025-08-15 03:18:00 +0000",
       "minecraft:ocean": "2025-08-10 22:39:25 +0000",
       "minecraft:jungle": "2025-08-14 21:02:21 +0000",
       "minecraft:snowy_beach": "2025-08-12 05:41:32 +0000",
@@ -717,6 +719,7 @@
       "golden_apple": "2025-08-11 21:51:15 +0000",
       "cookie": "2025-08-10 21:01:44 +0000",
       "golden_carrot": "2025-08-11 23:26:43 +0000",
+      "enchanted_golden_apple": "2025-08-15 03:30:19 +0000",
       "carrot": "2025-08-10 17:38:18 +0000"
     },
     "done": false
@@ -3303,6 +3306,7 @@
       "sparse_redwoods": "2025-08-14 05:59:26 +0000",
       "deciduous_forest": "2025-08-10 17:48:05 +0000",
       "boreal_forest": "2025-08-13 00:59:59 +0000",
+      "towering_cliffs": "2025-08-15 03:18:09 +0000",
       "chalk_cliffs": "2025-08-10 17:49:10 +0000",
       "bamboo_forest": "2025-08-14 21:22:21 +0000",
       "temperate_grove": "2025-08-10 22:50:52 +0000",
@@ -3310,6 +3314,7 @@
       "pumpkin_fields": "2025-08-12 02:44:42 +0000",
       "pine_slopes": "2025-08-11 07:12:08 +0000",
       "baobab_savanna": "2025-08-10 20:34:47 +0000",
+      "old_growth_bayou": "2025-08-15 03:19:05 +0000",
       "prairie": "2025-08-10 17:48:09 +0000",
       "grassland": "2025-08-10 20:36:04 +0000",
       "gravel_beach": "2025-08-12 05:41:24 +0000",
@@ -3343,6 +3348,7 @@
       "sparse_redwoods": "2025-08-14 05:59:26 +0000",
       "deciduous_forest": "2025-08-10 17:48:05 +0000",
       "boreal_forest": "2025-08-13 00:59:59 +0000",
+      "towering_cliffs": "2025-08-15 03:18:09 +0000",
       "chalk_cliffs": "2025-08-10 17:49:10 +0000",
       "bamboo_forest": "2025-08-14 21:22:21 +0000",
       "temperate_grove": "2025-08-10 22:50:52 +0000",
@@ -3350,6 +3356,7 @@
       "pumpkin_fields": "2025-08-12 02:44:42 +0000",
       "pine_slopes": "2025-08-11 07:12:08 +0000",
       "baobab_savanna": "2025-08-10 20:34:47 +0000",
+      "old_growth_bayou": "2025-08-15 03:19:05 +0000",
       "prairie": "2025-08-10 17:48:09 +0000",
       "grassland": "2025-08-10 20:36:04 +0000",
       "gravel_beach": "2025-08-12 05:41:24 +0000",
@@ -17490,6 +17497,126 @@
   "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-08-14 22:43:17 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/advanced_alloy_storage_block": {
+    "criteria": {
+      "has_advanced_alloy_ingot": "2025-08-15 03:11:54 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/advanced_alloy_plate": {
+    "criteria": {
+      "has_tag_c_advanced_alloy_ingots": "2025-08-15 03:11:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-08-15 03:12:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-08-15 03:12:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-08-15 03:12:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-08-15 03:12:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-08-15 03:12:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-08-15 03:12:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-08-15 03:14:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-08-15 03:14:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-08-15 03:14:05 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/smooth_stone_bricks/smooth_stone_bricks_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-08-15 03:14:05 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/smooth_stone_bricks/smooth_stone_bricks": {
+    "criteria": {
+      "has_smooth_stone": "2025-08-15 03:14:05 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/smooth_stone_bricks/smooth_stone_brick_stairs_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-08-15 03:14:05 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/smooth_stone_bricks/smooth_stone_brick_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-08-15 03:14:05 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_smooth_stone": "2025-08-15 03:14:05 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/smooth_stone_bricks/smooth_stone_brick_wall_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-08-15 03:14:05 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/haunted_house": {
+    "criteria": {
+      "haunted_house": "2025-08-15 03:19:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2025-08-15 03:37:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:light_as_a_frog": {
+    "criteria": {
+      "lily_pad": "2025-08-15 03:37:25 +0000"
     },
     "done": true
   },
