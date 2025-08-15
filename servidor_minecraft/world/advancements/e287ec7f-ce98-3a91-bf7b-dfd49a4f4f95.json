@@ -17760,9 +17760,21 @@
     },
     "done": true
   },
+  "the_bumblezone:combs_and_wax/comb_cutter_tool": {
+    "criteria": {
+      "comb_cutter_tool": "2025-08-15 04:39:54 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/dye_white": {
     "criteria": {
       "has_item": "2025-08-15 04:16:28 +0000"
+    },
+    "done": true
+  },
+  "zenith:enchanting/enchanting_stats": {
+    "criteria": {
+      "enchanted_item": "2025-08-15 04:39:51 +0000"
     },
     "done": true
   },
@@ -17775,6 +17787,12 @@
   "regions_unexplored:light_as_a_frog": {
     "criteria": {
       "lily_pad": "2025-08-15 03:37:25 +0000"
+    },
+    "done": true
+  },
+  "zenith:enchanting/30ench": {
+    "criteria": {
+      "enchanted_item": "2025-08-15 04:39:51 +0000"
     },
     "done": true
   },

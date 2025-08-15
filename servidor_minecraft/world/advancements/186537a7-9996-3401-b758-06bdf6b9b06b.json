@@ -16574,13 +16574,15 @@
   },
   "soulsweapons:all_moonlight_weapons": {
     "criteria": {
-      "bluemoon_greatsword": "2025-08-14 04:12:49 +0000"
+      "bluemoon_greatsword": "2025-08-14 04:12:49 +0000",
+      "bluemoon_shortsword": "2025-08-15 04:32:58 +0000"
     },
     "done": false
   },
   "soulsweapons:all_weapons": {
     "criteria": {
-      "bluemoon_greatsword": "2025-08-14 04:12:49 +0000"
+      "bluemoon_greatsword": "2025-08-14 04:12:49 +0000",
+      "bluemoon_shortsword": "2025-08-15 04:32:58 +0000"
     },
     "done": false
   },
