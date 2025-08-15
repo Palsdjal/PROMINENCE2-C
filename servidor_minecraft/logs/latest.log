@@ -2275,3 +2275,29 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 [17:04:14] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.redstone_15.08.2025-17.04.14.dat
 [17:04:17] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
 [17:04:46] [Server thread/INFO]: VadniesHael claimed a grave belonging to VadniesHael at -7575, 65, -3280, minecraft:overworld
+[17:06:44] [Server thread/INFO]: VadniesHael was shot by Chillager
+[17:06:44] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.redstone_15.08.2025-17.06.44.dat
+[17:06:45] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[17:06:59] [Server thread/INFO]: VadniesHael was shot by Chillager
+[17:07:00] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[17:07:14] [Server thread/INFO]: VadniesHael claimed a grave belonging to VadniesHael at -7539, 63, -3254, minecraft:overworld
+[17:11:04] [Server thread/WARN]: VadniesHael moved wrongly!
+[17:11:07] [Server thread/WARN]: VadniesHael moved wrongly!
+[17:12:12] [Server thread/INFO]: VadniesHael was slain by Hexblade Magister
+[17:12:12] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.redstone_15.08.2025-17.12.12.dat
+[17:12:12] [Netty Epoll Server IO #6/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[17:12:12] [Netty Epoll Server IO #6/ERROR]: Combo count: 2 is dual wielding: false
+[17:12:12] [Netty Epoll Server IO #6/ERROR]: Main-hand stack: 0 air
+[17:12:12] [Netty Epoll Server IO #6/ERROR]: Off-hand stack: 0 air
+[17:12:12] [Netty Epoll Server IO #6/ERROR]: Selected slot server: 2 | client: 2
+[17:12:14] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[17:12:33] [Server thread/INFO]: VadniesHael was slain by Frostologer
+[17:12:35] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[17:13:13] [Server thread/INFO]: VadniesHael was shot by Chillager
+[17:13:15] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[17:13:21] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to -7585.500000, 69.500000, -3265.500000]
+[17:13:22] [Server thread/INFO]: VadniesHael was slain by Biter
+[17:13:23] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[17:13:33] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to -7566.500000, 89.500000, -3266.500000]
+[17:13:34] [Server thread/INFO]: VadniesHael claimed a grave belonging to VadniesHael at -7567, 89, -3266, minecraft:overworld
+[17:15:19] [Server thread/INFO]: VadniesHael has reached the goal [Just Getting Warmed Up]
