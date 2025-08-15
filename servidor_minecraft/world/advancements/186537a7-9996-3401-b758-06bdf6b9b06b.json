@@ -528,6 +528,7 @@
       "minecraft:cherry_grove": "2025-08-13 05:58:39 +0000",
       "minecraft:sunflower_plains": "2025-08-15 05:12:39 +0000",
       "minecraft:birch_forest": "2025-08-13 01:08:56 +0000",
+      "minecraft:bamboo_jungle": "2025-08-15 05:54:25 +0000",
       "minecraft:savanna_plateau": "2025-08-10 22:29:24 +0000",
       "minecraft:beach": "2025-08-13 20:57:49 +0000",
       "minecraft:dark_forest": "2025-08-10 22:40:21 +0000",
@@ -19305,6 +19306,30 @@
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_lapis_block": "2025-08-15 05:16:28 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/heart_pottery_sherd": {
+    "criteria": {
+      "has_heart_of_the_sea": "2025-08-15 05:35:53 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/heart_of_the_sea_with_water": {
+    "criteria": {
+      "has_heart_of_the_sea": "2025-08-15 05:35:53 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/water_ring": {
+    "criteria": {
+      "has_item": "2025-08-15 05:35:53 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/giant_mushroom": {
+    "criteria": {
+      "giant_mushroom": "2025-08-15 06:05:43 +0000"
     },
     "done": true
   },

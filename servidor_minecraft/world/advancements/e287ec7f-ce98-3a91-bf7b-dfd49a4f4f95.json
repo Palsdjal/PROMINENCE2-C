@@ -287,6 +287,8 @@
       "minecraft:frozen_river": "2025-08-12 05:40:16 +0000",
       "minecraft:cherry_grove": "2025-08-15 05:09:08 +0000",
       "minecraft:sunflower_plains": "2025-08-15 05:09:01 +0000",
+      "minecraft:birch_forest": "2025-08-15 05:47:10 +0000",
+      "minecraft:windswept_hills": "2025-08-15 05:37:32 +0000",
       "minecraft:wooded_badlands": "2025-08-10 22:54:31 +0000",
       "minecraft:badlands": "2025-08-10 17:52:02 +0000",
       "minecraft:savanna_plateau": "2025-08-10 17:45:41 +0000",
@@ -3288,6 +3290,7 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "mauve_hills": "2025-08-15 16:27:28 +0000",
       "silver_birch_forest": "2025-08-10 23:17:39 +0000",
       "shrubland": "2025-08-10 22:50:34 +0000",
       "arid_mountains": "2025-08-10 22:54:51 +0000",
@@ -3298,6 +3301,7 @@
       "muddy_river": "2025-08-12 04:16:24 +0000",
       "prismachasm": "2025-08-12 01:21:32 +0000",
       "ancient_delta": "2025-08-14 22:53:34 +0000",
+      "willow_forest": "2025-08-15 05:43:09 +0000",
       "frozen_tundra": "2025-08-12 04:23:59 +0000",
       "redstone_caves": "2025-08-14 04:29:18 +0000",
       "poppy_fields": "2025-08-12 02:44:43 +0000",
@@ -3338,6 +3342,7 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "mauve_hills": "2025-08-15 16:27:28 +0000",
       "silver_birch_forest": "2025-08-10 23:17:39 +0000",
       "shrubland": "2025-08-10 22:50:34 +0000",
       "arid_mountains": "2025-08-10 22:54:51 +0000",
@@ -3346,6 +3351,7 @@
       "bayou": "2025-08-15 03:41:16 +0000",
       "autumnal_maple_forest": "2025-08-12 02:44:28 +0000",
       "muddy_river": "2025-08-12 04:16:24 +0000",
+      "willow_forest": "2025-08-15 05:43:09 +0000",
       "frozen_tundra": "2025-08-12 04:23:59 +0000",
       "poppy_fields": "2025-08-12 02:44:43 +0000",
       "grassy_beach": "2025-08-10 20:37:55 +0000",
@@ -17624,9 +17630,21 @@
     },
     "done": true
   },
-  "minecraft:nether/brew_potion": {
+  "minecraft:recipes/misc/slime_ball": {
     "criteria": {
-      "potion": "2025-08-15 05:29:00 +0000"
+      "has_slime_block": "2025-08-15 03:37:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:light_as_a_frog": {
+    "criteria": {
+      "lily_pad": "2025-08-15 03:37:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-08-15 03:41:31 +0000"
     },
     "done": true
   },
@@ -17642,18 +17660,6 @@
     },
     "done": true
   },
-  "techreborn:recipes/extractor/glass_bottle_from_splash_potion": {
-    "criteria": {
-      "has_splash_potion": "2025-08-15 05:29:01 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/amethyst_blocks/polished_amethyst": {
-    "criteria": {
-      "has_item": "2025-08-15 04:13:15 +0000"
-    },
-    "done": true
-  },
   "mcdw:recipes/crossbows/crossbow_soul_hunter": {
     "criteria": {
       "has_soul_sand": "2025-08-15 04:07:45 +0000"
@@ -17666,27 +17672,9 @@
     },
     "done": true
   },
-  "twigs:recipes/amethyst_blocks/polished_amethyst_stonecutting": {
-    "criteria": {
-      "has_item": "2025-08-15 04:13:15 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/conversions/white_petal_block_deconstruct": {
-    "criteria": {
-      "has_item": "2025-08-15 04:16:28 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/decorations/brick_pot": {
     "criteria": {
       "has_soul_sand": "2025-08-15 04:07:45 +0000"
-    },
-    "done": true
-  },
-  "thaumon:recipes/misc/mutagen_from_amethyst_block_stonecutting": {
-    "criteria": {
-      "has_amethyst_block": "2025-08-15 04:13:15 +0000"
     },
     "done": true
   },
@@ -17705,24 +17693,6 @@
   "techreborn:recipes/centrifuge/soul_sand": {
     "criteria": {
       "has_soul_sand": "2025-08-15 04:07:45 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_white": {
-    "criteria": {
-      "has_alt_item": "2025-08-15 04:16:28 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/appliances/clipboard_clear": {
-    "criteria": {
-      "has_item": "2025-08-15 04:18:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/slime_ball": {
-    "criteria": {
-      "has_slime_block": "2025-08-15 03:37:16 +0000"
     },
     "done": true
   },
@@ -17750,12 +17720,6 @@
     },
     "done": true
   },
-  "endrem:main/cold_eye": {
-    "criteria": {
-      "cold_eye": "2025-08-15 05:28:40 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/building_blocks/soul_sand_soul_sandstone": {
     "criteria": {
       "has_soul_sand": "2025-08-15 04:07:45 +0000"
@@ -17768,9 +17732,99 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/snow_block": {
+  "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
-      "has_snowball": "2025-08-15 05:32:05 +0000"
+      "has_soul_sand": "2025-08-15 04:07:45 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_pot": {
+    "criteria": {
+      "has_soul_sand": "2025-08-15 04:07:45 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/soul_robe_chestplate": {
+    "criteria": {
+      "has_soul_sand": "2025-08-15 04:07:45 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/amethyst_blocks/polished_amethyst": {
+    "criteria": {
+      "has_item": "2025-08-15 04:13:15 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/amethyst_blocks/polished_amethyst_stonecutting": {
+    "criteria": {
+      "has_item": "2025-08-15 04:13:15 +0000"
+    },
+    "done": true
+  },
+  "thaumon:recipes/misc/mutagen_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-08-15 04:13:15 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/amethyst_blocks/cut_amethyst_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_item": "2025-08-15 04:13:15 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/white_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-08-15 04:16:28 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_white": {
+    "criteria": {
+      "has_alt_item": "2025-08-15 04:16:28 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/white_petal_block": {
+    "criteria": {
+      "has_item": "2025-08-15 04:16:28 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_white": {
+    "criteria": {
+      "has_item": "2025-08-15 04:16:28 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_white_double": {
+    "criteria": {
+      "has_alt_item": "2025-08-15 04:16:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/clipboard_clear": {
+    "criteria": {
+      "has_item": "2025-08-15 04:18:38 +0000"
+    },
+    "done": true
+  },
+  "zenith:enchanting/enchanting_stats": {
+    "criteria": {
+      "enchanted_item": "2025-08-15 04:39:51 +0000"
+    },
+    "done": true
+  },
+  "zenith:enchanting/30ench": {
+    "criteria": {
+      "enchanted_item": "2025-08-15 04:39:51 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:combs_and_wax/comb_cutter_tool": {
+    "criteria": {
+      "comb_cutter_tool": "2025-08-15 04:39:54 +0000"
     },
     "done": true
   },
@@ -17786,93 +17840,9 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/snow": {
+  "endrem:main/cold_eye": {
     "criteria": {
-      "has_snowball": "2025-08-15 05:32:05 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/white_petal_block": {
-    "criteria": {
-      "has_item": "2025-08-15 04:16:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_campfire": {
-    "criteria": {
-      "has_soul_sand": "2025-08-15 04:07:45 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/amethyst_blocks/cut_amethyst_from_amethyst_block_stonecutting": {
-    "criteria": {
-      "has_item": "2025-08-15 04:13:15 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/cincinnasite_pot": {
-    "criteria": {
-      "has_soul_sand": "2025-08-15 04:07:45 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:combs_and_wax/comb_cutter_tool": {
-    "criteria": {
-      "comb_cutter_tool": "2025-08-15 04:39:54 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/dye_white": {
-    "criteria": {
-      "has_item": "2025-08-15 04:16:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/snow": {
-    "criteria": {
-      "has_snowball": "2025-08-15 05:32:05 +0000"
-    },
-    "done": true
-  },
-  "zenith:enchanting/enchanting_stats": {
-    "criteria": {
-      "enchanted_item": "2025-08-15 04:39:51 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/soul_robe_chestplate": {
-    "criteria": {
-      "has_soul_sand": "2025-08-15 04:07:45 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:light_as_a_frog": {
-    "criteria": {
-      "lily_pad": "2025-08-15 03:37:25 +0000"
-    },
-    "done": true
-  },
-  "zenith:enchanting/30ench": {
-    "criteria": {
-      "enchanted_item": "2025-08-15 04:39:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2025-08-15 03:41:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/cure_zombie_villager": {
-    "criteria": {
-      "cured_zombie": "2025-08-15 05:32:57 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_white_double": {
-    "criteria": {
-      "has_alt_item": "2025-08-15 04:16:28 +0000"
+      "cold_eye": "2025-08-15 05:28:40 +0000"
     },
     "done": true
   },
@@ -17882,11 +17852,47 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-08-15 05:29:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/glass_bottle_from_splash_potion": {
+    "criteria": {
+      "has_splash_potion": "2025-08-15 05:29:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-08-15 05:32:05 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/snow": {
+    "criteria": {
+      "has_snowball": "2025-08-15 05:32:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-08-15 05:32:05 +0000"
+    },
+    "done": true
+  },
   "promenade:recipes/crafting/vanilla_snowy_leaves/spruce": {
     "criteria": {
       "has_snowball": "2025-08-15 05:32:05 +0000"
     },
     "done": false
+  },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2025-08-15 05:32:57 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

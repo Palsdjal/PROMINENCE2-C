@@ -6,7 +6,7 @@ chatColors:true
 chatLinks:true
 chatLinksPrompt:true
 enableVsync:false
-entityShadows:true
+entityShadows:false
 forceUnicodeFont:false
 discrete_mouse_scroll:false
 invertYMouse:false
