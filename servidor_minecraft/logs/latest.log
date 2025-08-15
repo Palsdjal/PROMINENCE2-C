@@ -2368,3 +2368,46 @@ BCLib - Nether BiomeSource (574992a5)
 [05:00:09] [Server thread/WARN]: VadniesHael moved wrongly!
 [05:00:10] [Server thread/WARN]: VadniesHael moved wrongly!
 [05:00:11] [Server thread/WARN]: VadniesHael moved wrongly!
+[05:03:42] [Worker-Main-1/WARN]: Tried to access a block entity before it was created. class_2338{x=800, y=10, z=1625}
+[05:03:53] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=737, y=-2, z=1560}
+[05:04:08] [pool-12-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_birch_forest], ResourceKey[minecraft:worldgen/structure / ctov:small/village_swamp], ResourceKey[minecraft:worldgen/structure / ctov:large/village_mountain], ResourceKey[minecraft:worldgen/structure / ctov:large/village_plains], ResourceKey[minecraft:worldgen/structure / ctov:large/village_desert], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mushroom], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_mediterranean], ResourceKey[minecraft:worldgen/structure / ctov:small/village_dark_forest]] from pos class_2338{x=437, y=67, z=1605}
+[05:04:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2355ms or 47 ticks behind
+[05:04:17] [Worker-Main-101/WARN]: Non-existent template pool reference: ctov:village/bounty/plains
+[05:04:17] [Worker-Main-101/WARN]: Non-existent template pool reference: ctov:village/waystone/normal
+[05:04:17] [Worker-Main-101/WARN]: Non-existent template pool reference: ctov:village/vampirism/totem
+[05:04:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7783ms or 155 ticks behind
+[05:05:18] [Worker-Main-66/WARN]: Tried to access a block entity before it was created. class_2338{x=48, y=73, z=1777}
+[05:05:18] [Worker-Main-66/WARN]: Tried to access a block entity before it was created. class_2338{x=48, y=73, z=1777}
+[05:06:19] [Server thread/WARN]: Taza_free moved wrongly!
+[05:06:20] [Server thread/WARN]: Taza_free moved wrongly!
+[05:07:39] [pool-12-thread-2/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:medium/village_swamp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_mushroom_fields], ResourceKey[minecraft:worldgen/structure / ctov:small/village_mesa], ResourceKey[minecraft:worldgen/structure / ctov:small/village_dark_forest], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_savanna_na], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_dark_forest], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_badlands]] from pos class_2338{x=75, y=91, z=1221}
+[05:07:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2694ms or 53 ticks behind
+[05:08:21] [Worker-Main-66/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[05:08:40] [Worker-Main-66/WARN]: Tried to access a block entity before it was created. class_2338{x=-489, y=75, z=968}
+[05:08:40] [Worker-Main-66/WARN]: Tried to access a block entity before it was created. class_2338{x=-489, y=75, z=968}
+[05:08:44] [Server thread/WARN]: Żar-ptak (vehicle of VadniesHael) moved wrongly! 0.419563117136704
+[05:08:44] [Server thread/WARN]: Żar-ptak (vehicle of VadniesHael) moved wrongly! 1.0785546435302535
+[05:08:44] [Server thread/WARN]: Żar-ptak (vehicle of VadniesHael) moved wrongly! 1.9054142788960042
+[05:08:50] [Worker-Main-1/WARN]: Tried to access a block entity before it was created. class_2338{x=763, y=-3, z=1531}
+[05:08:52] [Worker-Main-101/WARN]: Tried to access a block entity before it was created. class_2338{x=737, y=-2, z=1560}
+[05:09:00] [Worker-Main-1/WARN]: Empty or non-existent pool: minecraft:
+[05:09:00] [Worker-Main-1/WARN]: Empty or non-existent pool: minecraft:
+[05:09:00] [Worker-Main-1/WARN]: Empty or non-existent pool: minecraft:
+[05:09:00] [Worker-Main-1/WARN]: Empty or non-existent pool: minecraft:
+[05:09:00] [Worker-Main-1/WARN]: Empty or non-existent pool: minecraft:
+[05:09:00] [Worker-Main-1/WARN]: Empty or non-existent pool: minecraft:
+[05:09:00] [Worker-Main-1/WARN]: Empty or non-existent pool: minecraft:
+[05:09:00] [Worker-Main-1/WARN]: Empty or non-existent pool: minecraft:
+[05:09:00] [Worker-Main-1/WARN]: Empty or non-existent pool: minecraft:
+[05:09:00] [Worker-Main-1/WARN]: Empty or non-existent pool: minecraft:
+[05:12:36] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-586, y=-53, z=942}
+[05:12:43] [Worker-Main-1/WARN]: Empty or non-existent pool: minecraft:
+[05:12:43] [Worker-Main-1/WARN]: Empty or non-existent pool: minecraft:
+[05:12:43] [Worker-Main-1/WARN]: Empty or non-existent pool: minecraft:
+[05:12:43] [Worker-Main-1/WARN]: Empty or non-existent pool: minecraft:
+[05:12:43] [Worker-Main-1/WARN]: Empty or non-existent pool: minecraft:
+[05:12:43] [Worker-Main-1/WARN]: Empty or non-existent pool: minecraft:
+[05:12:43] [Worker-Main-1/WARN]: Empty or non-existent pool: minecraft:
+[05:12:43] [Worker-Main-1/WARN]: Empty or non-existent pool: minecraft:
+[05:12:43] [Worker-Main-1/WARN]: Empty or non-existent pool: minecraft:
+[05:12:43] [Worker-Main-1/WARN]: Empty or non-existent pool: minecraft:

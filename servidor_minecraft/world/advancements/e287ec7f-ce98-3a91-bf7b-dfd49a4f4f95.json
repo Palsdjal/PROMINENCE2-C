@@ -285,6 +285,8 @@
       "minecraft:old_growth_pine_taiga": "2025-08-13 01:09:21 +0000",
       "minecraft:deep_ocean": "2025-08-10 22:39:35 +0000",
       "minecraft:frozen_river": "2025-08-12 05:40:16 +0000",
+      "minecraft:cherry_grove": "2025-08-15 05:09:08 +0000",
+      "minecraft:sunflower_plains": "2025-08-15 05:09:01 +0000",
       "minecraft:wooded_badlands": "2025-08-10 22:54:31 +0000",
       "minecraft:badlands": "2025-08-10 17:52:02 +0000",
       "minecraft:savanna_plateau": "2025-08-10 17:45:41 +0000",
@@ -307,6 +309,7 @@
       "minecraft:jungle": "2025-08-14 21:02:21 +0000",
       "minecraft:snowy_beach": "2025-08-12 05:41:32 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-08-14 06:13:08 +0000",
+      "minecraft:flower_forest": "2025-08-15 05:08:20 +0000",
       "minecraft:old_growth_birch_forest": "2025-08-13 01:05:46 +0000",
       "minecraft:deep_dark": "2025-08-12 02:04:20 +0000",
       "minecraft:meadow": "2025-08-10 23:17:21 +0000",
@@ -3299,6 +3302,7 @@
       "blackwood_taiga": "2025-08-10 22:48:46 +0000",
       "rocky_meadow": "2025-08-11 03:34:05 +0000",
       "ochard": "2025-08-11 03:47:55 +0000",
+      "flower_fields": "2025-08-15 05:09:45 +0000",
       "highland_fields": "2025-08-10 23:17:47 +0000",
       "maple_forest": "2025-08-12 04:15:53 +0000",
       "frozen_pine_taiga": "2025-08-12 05:40:30 +0000",
@@ -3342,6 +3346,7 @@
       "blackwood_taiga": "2025-08-10 22:48:46 +0000",
       "rocky_meadow": "2025-08-11 03:34:05 +0000",
       "ochard": "2025-08-11 03:47:55 +0000",
+      "flower_fields": "2025-08-15 05:09:45 +0000",
       "highland_fields": "2025-08-10 23:17:47 +0000",
       "maple_forest": "2025-08-12 04:15:53 +0000",
       "frozen_pine_taiga": "2025-08-12 05:40:30 +0000",
@@ -17733,6 +17738,12 @@
   "mcda:recipes/upgrade_cores/upgrade_core_soul": {
     "criteria": {
       "has_core_specification_item": "2025-08-15 04:07:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/red_dye_from_poppy_bush": {
+    "criteria": {
+      "has_poppy_bush": "2025-08-15 05:11:37 +0000"
     },
     "done": true
   },
