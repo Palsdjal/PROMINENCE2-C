@@ -17622,6 +17622,12 @@
     },
     "done": true
   },
+  "twigs:recipes/amethyst_blocks/polished_amethyst": {
+    "criteria": {
+      "has_item": "2025-08-15 04:13:15 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/crossbows/crossbow_soul_hunter": {
     "criteria": {
       "has_soul_sand": "2025-08-15 04:07:45 +0000"
@@ -17634,9 +17640,27 @@
     },
     "done": true
   },
+  "twigs:recipes/amethyst_blocks/polished_amethyst_stonecutting": {
+    "criteria": {
+      "has_item": "2025-08-15 04:13:15 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/white_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-08-15 04:16:28 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/brick_pot": {
     "criteria": {
       "has_soul_sand": "2025-08-15 04:07:45 +0000"
+    },
+    "done": true
+  },
+  "thaumon:recipes/misc/mutagen_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-08-15 04:13:15 +0000"
     },
     "done": true
   },
@@ -17655,6 +17679,12 @@
   "techreborn:recipes/centrifuge/soul_sand": {
     "criteria": {
       "has_soul_sand": "2025-08-15 04:07:45 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_white": {
+    "criteria": {
+      "has_alt_item": "2025-08-15 04:16:28 +0000"
     },
     "done": true
   },
@@ -17700,15 +17730,33 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/white_petal_block": {
+    "criteria": {
+      "has_item": "2025-08-15 04:16:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2025-08-15 04:07:45 +0000"
     },
     "done": true
   },
+  "twigs:recipes/amethyst_blocks/cut_amethyst_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_item": "2025-08-15 04:13:15 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/cincinnasite_pot": {
     "criteria": {
       "has_soul_sand": "2025-08-15 04:07:45 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_white": {
+    "criteria": {
+      "has_item": "2025-08-15 04:16:28 +0000"
     },
     "done": true
   },
@@ -17727,6 +17775,12 @@
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-08-15 03:41:31 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_white_double": {
+    "criteria": {
+      "has_alt_item": "2025-08-15 04:16:28 +0000"
     },
     "done": true
   },
