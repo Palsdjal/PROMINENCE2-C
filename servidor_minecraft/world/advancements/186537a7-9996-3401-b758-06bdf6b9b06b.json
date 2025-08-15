@@ -18412,9 +18412,27 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/mushroom_rice": {
+  "regions_unexplored:recipes/decorations/jungle_branch_from_jungle_log": {
     "criteria": {
-      "has_any_ingredient": "2025-08-14 22:20:10 +0000"
+      "has_log": "2025-08-14 21:08:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-08-14 21:08:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-08-14 21:08:02 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/jungle_palisade": {
+    "criteria": {
+      "has_log": "2025-08-14 21:08:02 +0000"
     },
     "done": true
   },
@@ -18424,27 +18442,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/purple_glazed_terracotta": {
+  "regions_unexplored:recipes/building_blocks/redwood_wood": {
     "criteria": {
-      "has_purple_terracotta": "2025-08-14 21:53:27 +0000"
+      "has_log": "2025-08-14 21:19:18 +0000"
     },
     "done": true
   },
-  "betternether:recipes/misc/wall_mushroom_brown": {
+  "regions_unexplored:recipes/building_blocks/redwood_planks": {
     "criteria": {
-      "has_brown_mushroom": "2025-08-14 22:20:10 +0000"
+      "has_logs": "2025-08-14 21:19:18 +0000"
     },
     "done": true
   },
-  "beachparty:recipes/palm_pressure_plate": {
+  "vinery:main/wild_harvest": {
     "criteria": {
-      "has_palm_planks": "2025-08-14 21:47:57 +0000"
+      "red_jungle_grape_seeds": "2025-08-14 21:19:18 +0000"
     },
     "done": true
   },
-  "lootr:1cart": {
+  "regions_unexplored:recipes/decorations/redwood_shrub": {
     "criteria": {
-      "opened_cart": "2025-08-14 22:21:33 +0000"
+      "has_redwood_sapling": "2025-08-14 21:19:22 +0000"
     },
     "done": true
   },
@@ -18454,111 +18472,15 @@
     },
     "done": true
   },
-  "botania:recipes/combat/manasteel_sword": {
-    "criteria": {
-      "has_item": "2025-08-14 22:07:48 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/blackwood_shrub": {
-    "criteria": {
-      "has_blackwood_sapling": "2025-08-14 22:53:10 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/misc_block/computer_cube": {
-    "criteria": {
-      "has_energy_flow_chip": "2025-08-14 22:43:45 +0000"
-    },
-    "done": true
-  },
-  "beachparty:recipes/palm_trapdoor": {
-    "criteria": {
-      "has_palm_planks": "2025-08-14 21:47:57 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/obedience_stick": {
-    "criteria": {
-      "has_item": "2025-08-14 22:07:48 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/jungle_branch_from_jungle_log": {
-    "criteria": {
-      "has_log": "2025-08-14 21:08:02 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/tool/industrial_chainsaw": {
-    "criteria": {
-      "has_energy_flow_chip": "2025-08-14 22:43:45 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/mana_fluxfield": {
-    "criteria": {
-      "has_alt_item": "2025-08-14 22:07:48 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/pump": {
-    "criteria": {
-      "has_item": "2025-08-14 22:07:48 +0000"
-    },
-    "done": true
-  },
-  "beachparty:recipes/palm_planks": {
-    "criteria": {
-      "has_palm_log": "2025-08-14 21:47:52 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/redstone/redwood_fence_gate": {
     "criteria": {
       "has_redwood_planks": "2025-08-14 21:24:47 +0000"
     },
     "done": true
   },
-  "beachparty:recipes/palm_floorboard": {
-    "criteria": {
-      "has_palm_log": "2025-08-14 21:47:52 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/decorations/redwood_sign": {
     "criteria": {
       "has_redwood_planks": "2025-08-14 21:24:47 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/conversions/manasteel_block_deconstruct": {
-    "criteria": {
-      "has_item": "2025-08-14 22:07:48 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/food/stalagnate_bowl_mushroom": {
-    "criteria": {
-      "has_brown_mushroom": "2025-08-14 22:20:10 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/ice_pendant": {
-    "criteria": {
-      "has_item": "2025-08-14 22:07:48 +0000"
-    },
-    "done": true
-  },
-  "beachparty:recipes/palm_table": {
-    "criteria": {
-      "has_palm_planks": "2025-08-14 21:47:57 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/centrifuge/red_mushroom": {
-    "criteria": {
-      "has_red_mushroom": "2025-08-14 22:20:16 +0000"
     },
     "done": true
   },
@@ -18574,9 +18496,93 @@
     },
     "done": true
   },
-  "botania:recipes/tools/bauble_box": {
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_redwood": {
     "criteria": {
-      "has_item": "2025-08-14 22:07:48 +0000"
+      "has_item": "2025-08-14 21:24:47 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redwood_button": {
+    "criteria": {
+      "has_redwood_planks": "2025-08-14 21:24:47 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redwood_pressure_plate": {
+    "criteria": {
+      "has_redwood_planks": "2025-08-14 21:24:47 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redwood_door": {
+    "criteria": {
+      "has_redwood_planks": "2025-08-14 21:24:47 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redwood_trapdoor": {
+    "criteria": {
+      "has_redwood_planks": "2025-08-14 21:24:47 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/verdant_robe_leggings": {
+    "criteria": {
+      "has_evocation_robe_leggings": "2025-08-14 21:34:41 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/ember_robe_leggings": {
+    "criteria": {
+      "has_evocation_robe_leggings": "2025-08-14 21:34:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_horse_armor_with_water": {
+    "criteria": {
+      "has_diamond_horse_armor": "2025-08-14 21:38:02 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_horse_armor_with_mercury": {
+    "criteria": {
+      "has_diamond_horse_armor": "2025-08-14 21:38:02 +0000"
+    },
+    "done": true
+  },
+  "beachparty:recipes/palm_planks": {
+    "criteria": {
+      "has_palm_log": "2025-08-14 21:47:52 +0000"
+    },
+    "done": true
+  },
+  "beachparty:recipes/palm_floorboard": {
+    "criteria": {
+      "has_palm_log": "2025-08-14 21:47:52 +0000"
+    },
+    "done": true
+  },
+  "beachparty:recipes/palm_wood": {
+    "criteria": {
+      "has_palm_wood": "2025-08-14 21:47:52 +0000"
+    },
+    "done": true
+  },
+  "beachparty:recipes/palm_pressure_plate": {
+    "criteria": {
+      "has_palm_planks": "2025-08-14 21:47:57 +0000"
+    },
+    "done": true
+  },
+  "beachparty:recipes/palm_trapdoor": {
+    "criteria": {
+      "has_palm_planks": "2025-08-14 21:47:57 +0000"
+    },
+    "done": true
+  },
+  "beachparty:recipes/palm_table": {
+    "criteria": {
+      "has_palm_planks": "2025-08-14 21:47:57 +0000"
     },
     "done": true
   },
@@ -18586,21 +18592,165 @@
     },
     "done": true
   },
-  "supplementaries:recipes/decorations/regions_unexplored/sign_post_redwood": {
+  "beachparty:recipes/palm_slab": {
     "criteria": {
-      "has_item": "2025-08-14 21:24:47 +0000"
+      "has_palm_planks": "2025-08-14 21:47:57 +0000"
     },
     "done": true
   },
-  "botania:recipes/decorations/fel_pumpkin": {
+  "beachparty:recipes/hooded_beach_chair": {
     "criteria": {
-      "has_item": "2025-08-14 22:32:49 +0000"
+      "has_palm_planks": "2025-08-14 21:47:57 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/mushroom_stew": {
+  "beachparty:recipes/palm_sign": {
     "criteria": {
-      "has_any_ingredient": "2025-08-14 22:20:10 +0000"
+      "has_palm_planks": "2025-08-14 21:47:57 +0000"
+    },
+    "done": true
+  },
+  "beachparty:recipes/palm_fence_gate": {
+    "criteria": {
+      "has_palm_planks": "2025-08-14 21:47:57 +0000"
+    },
+    "done": true
+  },
+  "beachparty:recipes/palm_button": {
+    "criteria": {
+      "has_palm_planks": "2025-08-14 21:47:57 +0000"
+    },
+    "done": true
+  },
+  "beachparty:recipes/beach_chair": {
+    "criteria": {
+      "has_palm_planks": "2025-08-14 21:47:57 +0000"
+    },
+    "done": true
+  },
+  "beachparty:recipes/palm_glass": {
+    "criteria": {
+      "has_palm_planks": "2025-08-14 21:47:57 +0000"
+    },
+    "done": true
+  },
+  "beachparty:recipes/palm_fence": {
+    "criteria": {
+      "has_palm_planks": "2025-08-14 21:47:57 +0000"
+    },
+    "done": true
+  },
+  "beachparty:recipes/palm_boat": {
+    "criteria": {
+      "has_palm_planks": "2025-08-14 21:47:57 +0000"
+    },
+    "done": true
+  },
+  "beachparty:recipes/palm_cabinet": {
+    "criteria": {
+      "has_palm_planks": "2025-08-14 21:47:57 +0000"
+    },
+    "done": true
+  },
+  "beachparty:recipes/palm_stairs": {
+    "criteria": {
+      "has_palm_planks": "2025-08-14 21:47:57 +0000"
+    },
+    "done": true
+  },
+  "beachparty:recipes/palm_door": {
+    "criteria": {
+      "has_palm_planks": "2025-08-14 21:47:57 +0000"
+    },
+    "done": true
+  },
+  "beachparty:recipes/palm_chair": {
+    "criteria": {
+      "has_palm_planks": "2025-08-14 21:47:57 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/elytra": {
+    "criteria": {
+      "has_end_rod": "2025-08-14 21:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_glazed_terracotta": {
+    "criteria": {
+      "has_magenta_terracotta": "2025-08-14 21:53:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_glazed_terracotta": {
+    "criteria": {
+      "has_purple_terracotta": "2025-08-14 21:53:27 +0000"
+    },
+    "done": true
+  },
+  "botania:main/lexicon_use": {
+    "criteria": {
+      "use_lexicon": "2025-08-14 22:01:20 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/ember_robe_chestplate": {
+    "criteria": {
+      "has_evocation_robe_chestplate": "2025-08-14 22:02:18 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/verdant_robe_chestplate": {
+    "criteria": {
+      "has_evocation_robe_chestplate": "2025-08-14 22:02:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-08-14 22:06:03 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/manasteel_sword": {
+    "criteria": {
+      "has_item": "2025-08-14 22:07:48 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/obedience_stick": {
+    "criteria": {
+      "has_item": "2025-08-14 22:07:48 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mana_fluxfield": {
+    "criteria": {
+      "has_alt_item": "2025-08-14 22:07:48 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/pump": {
+    "criteria": {
+      "has_item": "2025-08-14 22:07:48 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/manasteel_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-08-14 22:07:48 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/ice_pendant": {
+    "criteria": {
+      "has_item": "2025-08-14 22:07:48 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/bauble_box": {
+    "criteria": {
+      "has_item": "2025-08-14 22:07:48 +0000"
     },
     "done": true
   },
@@ -18616,69 +18766,9 @@
     },
     "done": true
   },
-  "beachparty:recipes/palm_slab": {
-    "criteria": {
-      "has_palm_planks": "2025-08-14 21:47:57 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/pumpkin": {
-    "criteria": {
-      "has_pumpkin": "2025-08-14 22:32:49 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/redwood_button": {
-    "criteria": {
-      "has_redwood_planks": "2025-08-14 21:24:47 +0000"
-    },
-    "done": true
-  },
-  "beachparty:recipes/hooded_beach_chair": {
-    "criteria": {
-      "has_palm_planks": "2025-08-14 21:47:57 +0000"
-    },
-    "done": true
-  },
-  "simplyswords:emberlash": {
-    "criteria": {
-      "requirement": "2025-08-14 22:28:18 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/tools/magnet_ring": {
     "criteria": {
       "has_item": "2025-08-14 22:07:48 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/misc/wall_red_brown": {
-    "criteria": {
-      "has_red_mushroom": "2025-08-14 22:20:16 +0000"
-    },
-    "done": true
-  },
-  "beachparty:recipes/palm_sign": {
-    "criteria": {
-      "has_palm_planks": "2025-08-14 21:47:57 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/tool/industrial_jackhammer": {
-    "criteria": {
-      "has_energy_flow_chip": "2025-08-14 22:43:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pumpkin_seeds": {
-    "criteria": {
-      "has_pumpkin": "2025-08-14 22:32:49 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/pumpkin_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-08-14 22:32:49 +0000"
     },
     "done": true
   },
@@ -18694,33 +18784,9 @@
     },
     "done": true
   },
-  "beachparty:recipes/palm_fence_gate": {
-    "criteria": {
-      "has_palm_planks": "2025-08-14 21:47:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
-    "criteria": {
-      "has_vex_armor_trim_smithing_template": "2025-08-14 22:50:23 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/redwood_pressure_plate": {
-    "criteria": {
-      "has_redwood_planks": "2025-08-14 21:24:47 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/building_blocks/manasteel_block": {
     "criteria": {
       "has_item": "2025-08-14 22:07:48 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/unique_armors/ember_robe_chestplate": {
-    "criteria": {
-      "has_evocation_robe_chestplate": "2025-08-14 22:02:18 +0000"
     },
     "done": true
   },
@@ -18730,27 +18796,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/redwood_wood": {
-    "criteria": {
-      "has_log": "2025-08-14 21:19:18 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/redstone/forest_eye": {
     "criteria": {
       "has_item": "2025-08-14 22:07:48 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/parts/superconductor": {
-    "criteria": {
-      "has_energy_flow_chip": "2025-08-14 22:43:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_wood": {
-    "criteria": {
-      "has_log": "2025-08-14 21:08:02 +0000"
     },
     "done": true
   },
@@ -18760,39 +18808,111 @@
     },
     "done": true
   },
-  "techreborn:recipes/crafting_table/machine/charge_o_mat": {
+  "botania:recipes/combat/manasteel_chestplate": {
     "criteria": {
-      "has_energy_flow_chip": "2025-08-14 22:43:45 +0000"
+      "has_item": "2025-08-14 22:07:48 +0000"
     },
     "done": true
   },
-  "croptopia:recipes/misc/pumpkin_soup": {
+  "botania:recipes/tools/manasteel_shears": {
     "criteria": {
-      "has_pumpkin": "2025-08-14 22:32:49 +0000"
+      "has_item": "2025-08-14 22:07:48 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/crafting_table/machine/lightning_rod": {
+  "botania:recipes/decorations/mana_distributor": {
     "criteria": {
-      "has_energy_flow_chip": "2025-08-14 22:43:45 +0000"
+      "has_item": "2025-08-14 22:07:48 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/pumpkin_pie": {
+  "botania:recipes/tools/travel_belt": {
     "criteria": {
-      "has_pumpkin": "2025-08-14 22:32:49 +0000"
+      "has_item": "2025-08-14 22:07:48 +0000"
     },
     "done": true
   },
-  "beachparty:recipes/palm_button": {
+  "botania:recipes/tools/monocle": {
     "criteria": {
-      "has_palm_planks": "2025-08-14 21:47:57 +0000"
+      "has_item": "2025-08-14 22:07:48 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/spruce_cabinet": {
+  "botania:recipes/tools/lava_pendant": {
     "criteria": {
-      "has_spruce_trapdoor": "2025-08-14 22:06:03 +0000"
+      "has_item": "2025-08-14 22:07:48 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/sextant": {
+    "criteria": {
+      "has_item": "2025-08-14 22:07:48 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/manasteel_pick": {
+    "criteria": {
+      "has_item": "2025-08-14 22:07:48 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/manasteel_helmet": {
+    "criteria": {
+      "has_item": "2025-08-14 22:07:48 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/glass_pickaxe": {
+    "criteria": {
+      "has_item": "2025-08-14 22:07:48 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/swap_ring": {
+    "criteria": {
+      "has_item": "2025-08-14 22:07:48 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/mining_ring": {
+    "criteria": {
+      "has_item": "2025-08-14 22:07:48 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/manasteel_boots": {
+    "criteria": {
+      "has_item": "2025-08-14 22:07:48 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/lens_normal": {
+    "criteria": {
+      "has_item": "2025-08-14 22:07:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-14 22:20:10 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/wall_mushroom_brown": {
+    "criteria": {
+      "has_brown_mushroom": "2025-08-14 22:20:10 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/food/stalagnate_bowl_mushroom": {
+    "criteria": {
+      "has_brown_mushroom": "2025-08-14 22:20:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-14 22:20:10 +0000"
     },
     "done": true
   },
@@ -18829,204 +18949,6 @@
   "botania:recipes/decorations/mushroom_13": {
     "criteria": {
       "has_alt_item": "2025-08-14 22:20:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/magenta_glazed_terracotta": {
-    "criteria": {
-      "has_magenta_terracotta": "2025-08-14 21:53:21 +0000"
-    },
-    "done": true
-  },
-  "beachparty:recipes/beach_chair": {
-    "criteria": {
-      "has_palm_planks": "2025-08-14 21:47:57 +0000"
-    },
-    "done": true
-  },
-  "beachparty:recipes/palm_glass": {
-    "criteria": {
-      "has_palm_planks": "2025-08-14 21:47:57 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/combat/manasteel_chestplate": {
-    "criteria": {
-      "has_item": "2025-08-14 22:07:48 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/assembling_machine/elytra": {
-    "criteria": {
-      "has_end_rod": "2025-08-14 21:51:53 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/manasteel_shears": {
-    "criteria": {
-      "has_item": "2025-08-14 22:07:48 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/diamond_dust_from_horse_armor_with_water": {
-    "criteria": {
-      "has_diamond_horse_armor": "2025-08-14 21:38:02 +0000"
-    },
-    "done": true
-  },
-  "beachparty:recipes/palm_fence": {
-    "criteria": {
-      "has_palm_planks": "2025-08-14 21:47:57 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/mana_distributor": {
-    "criteria": {
-      "has_item": "2025-08-14 22:07:48 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/centrifuge/pumpkin": {
-    "criteria": {
-      "has_pumpkin": "2025-08-14 22:32:49 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/redwood_planks": {
-    "criteria": {
-      "has_logs": "2025-08-14 21:19:18 +0000"
-    },
-    "done": true
-  },
-  "beachparty:recipes/palm_boat": {
-    "criteria": {
-      "has_palm_planks": "2025-08-14 21:47:57 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/travel_belt": {
-    "criteria": {
-      "has_item": "2025-08-14 22:07:48 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/monocle": {
-    "criteria": {
-      "has_item": "2025-08-14 22:07:48 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/pumpkin_bars": {
-    "criteria": {
-      "has_pumpkin": "2025-08-14 22:32:49 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/lava_pendant": {
-    "criteria": {
-      "has_item": "2025-08-14 22:07:48 +0000"
-    },
-    "done": true
-  },
-  "beachparty:recipes/palm_cabinet": {
-    "criteria": {
-      "has_palm_planks": "2025-08-14 21:47:57 +0000"
-    },
-    "done": true
-  },
-  "beachparty:recipes/palm_wood": {
-    "criteria": {
-      "has_palm_wood": "2025-08-14 21:47:52 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/sextant": {
-    "criteria": {
-      "has_item": "2025-08-14 22:07:48 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/manasteel_pick": {
-    "criteria": {
-      "has_item": "2025-08-14 22:07:48 +0000"
-    },
-    "done": true
-  },
-  "botania:main/lexicon_use": {
-    "criteria": {
-      "use_lexicon": "2025-08-14 22:01:20 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/unique_armors/verdant_robe_leggings": {
-    "criteria": {
-      "has_evocation_robe_leggings": "2025-08-14 21:34:41 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/combat/manasteel_helmet": {
-    "criteria": {
-      "has_item": "2025-08-14 22:07:48 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
-    "criteria": {
-      "has_pumpkin": "2025-08-14 22:32:49 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/tool/industrial_drill": {
-    "criteria": {
-      "has_energy_flow_chip": "2025-08-14 22:43:45 +0000"
-    },
-    "done": true
-  },
-  "beachparty:recipes/palm_stairs": {
-    "criteria": {
-      "has_palm_planks": "2025-08-14 21:47:57 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/glass_pickaxe": {
-    "criteria": {
-      "has_item": "2025-08-14 22:07:48 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/unique_armors/ember_robe_leggings": {
-    "criteria": {
-      "has_evocation_robe_leggings": "2025-08-14 21:34:41 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/redwood_door": {
-    "criteria": {
-      "has_redwood_planks": "2025-08-14 21:24:47 +0000"
-    },
-    "done": true
-  },
-  "simplyswords:livyatan": {
-    "criteria": {
-      "requirement": "2025-08-14 22:51:09 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/redwood_shrub": {
-    "criteria": {
-      "has_redwood_sapling": "2025-08-14 21:19:22 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/swap_ring": {
-    "criteria": {
-      "has_item": "2025-08-14 22:07:48 +0000"
-    },
-    "done": true
-  },
-  "vinery:main/wild_harvest": {
-    "criteria": {
-      "red_jungle_grape_seeds": "2025-08-14 21:19:18 +0000"
     },
     "done": true
   },
@@ -19090,51 +19012,129 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/redstone/redwood_trapdoor": {
+  "techreborn:recipes/centrifuge/brown_mushroom": {
     "criteria": {
-      "has_redwood_planks": "2025-08-14 21:24:47 +0000"
+      "has_brown_mushroom": "2025-08-14 22:20:10 +0000"
     },
     "done": true
   },
-  "mcda:recipes/unique_armors/verdant_robe_chestplate": {
+  "techreborn:recipes/centrifuge/red_mushroom": {
     "criteria": {
-      "has_evocation_robe_chestplate": "2025-08-14 22:02:18 +0000"
+      "has_red_mushroom": "2025-08-14 22:20:16 +0000"
     },
     "done": true
   },
-  "botania:recipes/tools/mining_ring": {
+  "betternether:recipes/misc/wall_red_brown": {
     "criteria": {
-      "has_item": "2025-08-14 22:07:48 +0000"
+      "has_red_mushroom": "2025-08-14 22:20:16 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
+  "lootr:1cart": {
     "criteria": {
-      "has_smithing_trim_template": "2025-08-14 22:50:23 +0000"
+      "opened_cart": "2025-08-14 22:21:33 +0000"
     },
     "done": true
   },
-  "botania:recipes/combat/manasteel_boots": {
+  "simplyswords:emberlash": {
     "criteria": {
-      "has_item": "2025-08-14 22:07:48 +0000"
+      "requirement": "2025-08-14 22:28:18 +0000"
     },
     "done": true
   },
-  "botania:recipes/misc/lens_normal": {
+  "botania:recipes/decorations/fel_pumpkin": {
     "criteria": {
-      "has_item": "2025-08-14 22:07:48 +0000"
+      "has_item": "2025-08-14 22:32:49 +0000"
     },
     "done": true
   },
-  "beachparty:recipes/palm_door": {
+  "travelersbackpack:recipes/misc/pumpkin": {
     "criteria": {
-      "has_palm_planks": "2025-08-14 21:47:57 +0000"
+      "has_pumpkin": "2025-08-14 22:32:49 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/jungle_planks": {
+  "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
-      "has_logs": "2025-08-14 21:08:02 +0000"
+      "has_pumpkin": "2025-08-14 22:32:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-14 22:32:49 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/pumpkin_soup": {
+    "criteria": {
+      "has_pumpkin": "2025-08-14 22:32:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-08-14 22:32:49 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2025-08-14 22:32:49 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/pumpkin_bars": {
+    "criteria": {
+      "has_pumpkin": "2025-08-14 22:32:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2025-08-14 22:32:49 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/misc_block/computer_cube": {
+    "criteria": {
+      "has_energy_flow_chip": "2025-08-14 22:43:45 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/tool/industrial_chainsaw": {
+    "criteria": {
+      "has_energy_flow_chip": "2025-08-14 22:43:45 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/tool/industrial_jackhammer": {
+    "criteria": {
+      "has_energy_flow_chip": "2025-08-14 22:43:45 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/superconductor": {
+    "criteria": {
+      "has_energy_flow_chip": "2025-08-14 22:43:45 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/charge_o_mat": {
+    "criteria": {
+      "has_energy_flow_chip": "2025-08-14 22:43:45 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/lightning_rod": {
+    "criteria": {
+      "has_energy_flow_chip": "2025-08-14 22:43:45 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/tool/industrial_drill": {
+    "criteria": {
+      "has_energy_flow_chip": "2025-08-14 22:43:45 +0000"
     },
     "done": true
   },
@@ -19144,27 +19144,45 @@
     },
     "done": true
   },
-  "decorative_blocks:recipes/decorative_blocks.general/jungle_palisade": {
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
     "criteria": {
-      "has_log": "2025-08-14 21:08:02 +0000"
+      "has_vex_armor_trim_smithing_template": "2025-08-14 22:50:23 +0000"
     },
     "done": true
   },
-  "beachparty:recipes/palm_chair": {
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "has_palm_planks": "2025-08-14 21:47:57 +0000"
+      "has_smithing_trim_template": "2025-08-14 22:50:23 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/centrifuge/brown_mushroom": {
+  "simplyswords:livyatan": {
     "criteria": {
-      "has_brown_mushroom": "2025-08-14 22:20:10 +0000"
+      "requirement": "2025-08-14 22:51:09 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/industrial_grinder/diamond_dust_from_horse_armor_with_mercury": {
+  "regions_unexplored:recipes/decorations/blackwood_shrub": {
     "criteria": {
-      "has_diamond_horse_armor": "2025-08-14 21:38:02 +0000"
+      "has_blackwood_sapling": "2025-08-14 22:53:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-08-14 23:15:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-08-14 23:15:29 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/shelter_pottery_sherd": {
+    "criteria": {
+      "has_iron_door": "2025-08-14 23:20:48 +0000"
     },
     "done": true
   },

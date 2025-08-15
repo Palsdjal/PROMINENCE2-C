@@ -16419,57 +16419,117 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/mushroom_rice": {
-    "criteria": {
-      "has_any_ingredient": "2025-08-14 22:20:07 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/unique_armors/verdant_robe_helmet": {
-    "criteria": {
-      "has_evocation_robe_helmet": "2025-08-14 21:12:46 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/redwood_branch_from_redwood_log": {
-    "criteria": {
-      "has_log": "2025-08-14 21:19:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/purple_glazed_terracotta": {
     "criteria": {
       "has_purple_terracotta": "2025-08-14 20:59:07 +0000"
     },
     "done": true
   },
-  "betternether:recipes/misc/wall_mushroom_brown": {
+  "techreborn:recipes/crafting_table/machine/alarm": {
     "criteria": {
-      "has_brown_mushroom": "2025-08-14 22:20:07 +0000"
+      "has_refined_iron_ingot": "2025-08-14 21:04:46 +0000"
     },
     "done": true
   },
-  "lootr:1cart": {
+  "techreborn:recipes/blast_furnace/steel_ingot_from_refined_iron_and_carbon": {
     "criteria": {
-      "opened_cart": "2025-08-14 22:21:36 +0000"
+      "has_refined_iron": "2025-08-14 21:04:46 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/crafting_table/machine/grinder": {
+  "techreborn:recipes/blast_furnace/steel_ingot_from_refined_iron": {
     "criteria": {
-      "has_basic_machine_frame": "2025-08-14 22:24:07 +0000"
+      "has_refined_iron": "2025-08-14 21:04:46 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+  "techreborn:recipes/wire_mill/hv_cable": {
     "criteria": {
-      "has_polished_andesite": "2025-08-14 21:18:43 +0000"
+      "has_refined_iron_ingot": "2025-08-14 21:04:46 +0000"
     },
     "done": true
   },
-  "botania:recipes/combat/manasteel_sword": {
+  "techreborn:recipes/crafting_table/parts/electronic_circuit": {
     "criteria": {
-      "has_item": "2025-08-14 21:43:14 +0000"
+      "has_refined_iron_ingot": "2025-08-14 21:04:46 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/misc_block/refined_iron_fence": {
+    "criteria": {
+      "has_refined_iron": "2025-08-14 21:04:46 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/refined_iron_storage_block": {
+    "criteria": {
+      "has_refined_iron_ingot": "2025-08-14 21:04:46 +0000"
+    },
+    "done": true
+  },
+  "techreborn:refinediron": {
+    "criteria": {
+      "crit_0": "2025-08-14 21:04:46 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine_block/basic_machine_frame": {
+    "criteria": {
+      "has_refined_iron_ingot": "2025-08-14 21:04:46 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/hv_cable": {
+    "criteria": {
+      "has_refined_iron_ingot": "2025-08-14 21:04:46 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/refined_iron_nugget": {
+    "criteria": {
+      "has_refined_iron_ingot": "2025-08-14 21:04:46 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/insulated_hv_cable": {
+    "criteria": {
+      "has_refined_iron": "2025-08-14 21:04:46 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/refined_iron_plate": {
+    "criteria": {
+      "has_tag_c_refined_iron_ingots": "2025-08-14 21:04:46 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/jungle_branch_from_jungle_log": {
+    "criteria": {
+      "has_log": "2025-08-14 21:07:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-08-14 21:07:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-08-14 21:07:02 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/jungle_palisade": {
+    "criteria": {
+      "has_log": "2025-08-14 21:07:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/jungle_shrub": {
+    "criteria": {
+      "has_jungle_sapling": "2025-08-14 21:07:03 +0000"
     },
     "done": true
   },
@@ -16479,21 +16539,9 @@
     },
     "done": true
   },
-  "techreborn:recipes/crafting_table/machine_block/basic_machine_casing_alt": {
-    "criteria": {
-      "has_basic_machine_frame": "2025-08-14 22:24:07 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/jungle_dining_bench": {
     "criteria": {
       "has_jungle_dining_bench": "2025-08-14 21:07:11 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/quartz_blaze": {
-    "criteria": {
-      "has_item": "2025-08-14 22:27:04 +0000"
     },
     "done": true
   },
@@ -16515,51 +16563,9 @@
     },
     "done": true
   },
-  "botania:recipes/tools/obedience_stick": {
-    "criteria": {
-      "has_item": "2025-08-14 21:43:14 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/jungle_branch_from_jungle_log": {
-    "criteria": {
-      "has_log": "2025-08-14 21:07:02 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/unique_armors/ember_robe_helmet": {
-    "criteria": {
-      "has_evocation_robe_helmet": "2025-08-14 21:12:46 +0000"
-    },
-    "done": true
-  },
-  "frostiful:recipes/combat/armor/fur_boots": {
-    "criteria": {
-      "has_fur": "2025-08-14 22:16:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/powered_rail": {
-    "criteria": {
-      "has_rail": "2025-08-14 22:20:25 +0000"
-    },
-    "done": true
-  },
   "twigs:recipes/tables/jungle_table": {
     "criteria": {
       "has_jungle": "2025-08-14 21:07:11 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/machine/alarm": {
-    "criteria": {
-      "has_refined_iron_ingot": "2025-08-14 21:04:46 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/mana_fluxfield": {
-    "criteria": {
-      "has_alt_item": "2025-08-14 21:43:14 +0000"
     },
     "done": true
   },
@@ -16569,45 +16575,9 @@
     },
     "done": true
   },
-  "techreborn:recipes/industrial_grinder/raw_lead_from_lead_ore_with_water": {
-    "criteria": {
-      "has_tag_c_lead_ores": "2025-08-14 21:15:19 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/jungle_shrub": {
-    "criteria": {
-      "has_jungle_sapling": "2025-08-14 21:07:03 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/jungle_table": {
     "criteria": {
       "has_jungle_table": "2025-08-14 21:07:11 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/pump": {
-    "criteria": {
-      "has_item": "2025-08-14 21:43:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/glow_item_frame": {
-    "criteria": {
-      "has_item_frame": "2025-08-14 22:26:12 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/conversions/manasteel_block_deconstruct": {
-    "criteria": {
-      "has_item": "2025-08-14 21:43:14 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/food/stalagnate_bowl_mushroom": {
-    "criteria": {
-      "has_brown_mushroom": "2025-08-14 22:20:07 +0000"
     },
     "done": true
   },
@@ -16617,39 +16587,177 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/tools/nether_quartz_axe": {
+  "handcrafted:recipes/misc/jungle_counter": {
     "criteria": {
-      "has_nether_quartz": "2025-08-14 22:27:04 +0000"
+      "has_jungle_counter": "2025-08-14 21:07:11 +0000"
     },
     "done": true
   },
-  "botania:recipes/tools/ice_pendant": {
+  "handcrafted:recipes/misc/jungle_nightstand": {
     "criteria": {
-      "has_item": "2025-08-14 21:43:14 +0000"
+      "has_jungle_nightstand": "2025-08-14 21:07:11 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/daylight_detector": {
+  "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
-      "has_quartz": "2025-08-14 22:27:04 +0000"
+      "has_planks": "2025-08-14 21:07:11 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/detector_rail": {
+  "handcrafted:recipes/misc/jungle_cupboard": {
     "criteria": {
-      "has_rail": "2025-08-14 22:20:25 +0000"
+      "has_jungle_cupboard": "2025-08-14 21:07:11 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/centrifuge/red_mushroom": {
+  "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
-      "has_red_mushroom": "2025-08-14 22:20:12 +0000"
+      "has_planks": "2025-08-14 21:07:11 +0000"
     },
     "done": true
   },
-  "botania:recipes/tools/bauble_box": {
+  "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
-      "has_item": "2025-08-14 21:43:14 +0000"
+      "has_planks": "2025-08-14 21:07:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_bench": {
+    "criteria": {
+      "has_jungle_bench": "2025-08-14 21:07:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_side_table": {
+    "criteria": {
+      "has_jungle_side_table": "2025-08-14 21:07:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_drawer": {
+    "criteria": {
+      "has_jungle_drawer": "2025-08-14 21:07:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-08-14 21:07:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_corner_trim": {
+    "criteria": {
+      "has_jungle_corner_trim": "2025-08-14 21:07:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_shelf": {
+    "criteria": {
+      "has_jungle_shelf": "2025-08-14 21:07:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/jungle_window": {
+    "criteria": {
+      "has_ingredient": "2025-08-14 21:07:11 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/jungle_support": {
+    "criteria": {
+      "has_plank": "2025-08-14 21:07:11 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_jungle": {
+    "criteria": {
+      "has_item": "2025-08-14 21:07:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-14 21:07:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_pillar_trim": {
+    "criteria": {
+      "has_jungle_pillar_trim": "2025-08-14 21:07:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_chair": {
+    "criteria": {
+      "has_jungle_chair": "2025-08-14 21:07:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_desk": {
+    "criteria": {
+      "has_jungle_desk": "2025-08-14 21:07:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-08-14 21:07:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_couch": {
+    "criteria": {
+      "has_jungle_couch": "2025-08-14 21:07:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_fancy_bed": {
+    "criteria": {
+      "has_jungle_fancy_bed": "2025-08-14 21:07:11 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/verdant_robe_helmet": {
+    "criteria": {
+      "has_evocation_robe_helmet": "2025-08-14 21:12:46 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/ember_robe_helmet": {
+    "criteria": {
+      "has_evocation_robe_helmet": "2025-08-14 21:12:46 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/raw_lead_from_lead_ore_with_water": {
+    "criteria": {
+      "has_tag_c_lead_ores": "2025-08-14 21:15:19 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/blasting/lead_ingot_from_c_lead_ores": {
+    "criteria": {
+      "has_tag_c_lead_ores": "2025-08-14 21:15:19 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/raw_lead": {
+    "criteria": {
+      "has_tag_c_lead_ores": "2025-08-14 21:15:19 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/smelting/lead_ingot_from_c_lead_ores": {
+    "criteria": {
+      "has_tag_c_lead_ores": "2025-08-14 21:15:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-08-14 21:18:43 +0000"
     },
     "done": true
   },
@@ -16659,45 +16767,99 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/mushroom_stew": {
+  "betterend:recipes/misc/andesite_pedestal": {
     "criteria": {
-      "has_brown_mushroom": "2025-08-14 22:20:07 +0000"
+      "has_polished_andesite": "2025-08-14 21:18:43 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/jungle_counter": {
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
     "criteria": {
-      "has_jungle_counter": "2025-08-14 21:07:11 +0000"
+      "has_polished_andesite": "2025-08-14 21:18:43 +0000"
     },
     "done": true
   },
-  "quartzelv:recipes/building_blocks/quartz_elevator": {
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
     "criteria": {
-      "has_quartz": "2025-08-14 22:27:04 +0000"
+      "has_polished_andesite": "2025-08-14 21:18:43 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/crafting_table/machine/compressor": {
+  "regions_unexplored:recipes/decorations/redwood_branch_from_redwood_log": {
     "criteria": {
-      "has_basic_machine_frame": "2025-08-14 22:24:07 +0000"
+      "has_log": "2025-08-14 21:19:33 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/blast_furnace/steel_ingot_from_refined_iron_and_carbon": {
+  "regions_unexplored:recipes/building_blocks/redwood_wood": {
     "criteria": {
-      "has_refined_iron": "2025-08-14 21:04:46 +0000"
+      "has_log": "2025-08-14 21:19:33 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/blast_furnace/steel_ingot_from_refined_iron": {
+  "regions_unexplored:recipes/building_blocks/redwood_planks": {
     "criteria": {
-      "has_refined_iron": "2025-08-14 21:04:46 +0000"
+      "has_logs": "2025-08-14 21:19:33 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/mushroom_stew": {
+  "regions_unexplored:recipes/decorations/redwood_shrub": {
     "criteria": {
-      "has_any_ingredient": "2025-08-14 22:20:07 +0000"
+      "has_redwood_sapling": "2025-08-14 21:19:58 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/packed_snow_block": {
+    "criteria": {
+      "has_snow_block": "2025-08-14 21:27:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_horse_armor": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-08-14 21:36:58 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/manasteel_sword": {
+    "criteria": {
+      "has_item": "2025-08-14 21:43:14 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/obedience_stick": {
+    "criteria": {
+      "has_item": "2025-08-14 21:43:14 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mana_fluxfield": {
+    "criteria": {
+      "has_alt_item": "2025-08-14 21:43:14 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/pump": {
+    "criteria": {
+      "has_item": "2025-08-14 21:43:14 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/manasteel_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-08-14 21:43:14 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/ice_pendant": {
+    "criteria": {
+      "has_item": "2025-08-14 21:43:14 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/bauble_box": {
+    "criteria": {
+      "has_item": "2025-08-14 21:43:14 +0000"
     },
     "done": true
   },
@@ -16713,141 +16875,9 @@
     },
     "done": true
   },
-  "techreborn:recipes/misc/crafting_table/nugget/lead_nugget": {
-    "criteria": {
-      "has_lead_ingot": "2025-08-14 21:45:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite": {
-    "criteria": {
-      "has_quartz": "2025-08-14 22:27:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite": {
-    "criteria": {
-      "has_quartz": "2025-08-14 22:27:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/activator_rail": {
-    "criteria": {
-      "has_rail": "2025-08-14 22:20:25 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/wire_mill/hv_cable": {
-    "criteria": {
-      "has_refined_iron_ingot": "2025-08-14 21:04:46 +0000"
-    },
-    "done": true
-  },
-  "simplyswords:emberlash": {
-    "criteria": {
-      "requirement": "2025-08-14 22:29:26 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/jungle_nightstand": {
-    "criteria": {
-      "has_jungle_nightstand": "2025-08-14 21:07:11 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/nether_quartz_pickaxe": {
-    "criteria": {
-      "has_nether_quartz": "2025-08-14 22:27:04 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/tools/magnet_ring": {
     "criteria": {
       "has_item": "2025-08-14 21:43:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_door": {
-    "criteria": {
-      "has_planks": "2025-08-14 21:07:11 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/storage_block/lead_storage_block": {
-    "criteria": {
-      "has_lead_ingot": "2025-08-14 21:45:36 +0000"
-    },
-    "done": true
-  },
-  "frostiful:recipes/combat/armor/fur_leggings": {
-    "criteria": {
-      "has_fur": "2025-08-14 22:16:24 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/jungle_cupboard": {
-    "criteria": {
-      "has_jungle_cupboard": "2025-08-14 21:07:11 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/machine/canning_machine": {
-    "criteria": {
-      "has_basic_machine_frame": "2025-08-14 22:24:07 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/andesite_pedestal": {
-    "criteria": {
-      "has_polished_andesite": "2025-08-14 21:18:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_slab": {
-    "criteria": {
-      "has_planks": "2025-08-14 21:07:11 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/blast_furnace/gold_ingot_from_chestplate": {
-    "criteria": {
-      "has_golden_chestplate": "2025-08-14 22:38:36 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/parts/electronic_circuit": {
-    "criteria": {
-      "has_refined_iron_ingot": "2025-08-14 21:04:46 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/misc/wall_red_brown": {
-    "criteria": {
-      "has_red_mushroom": "2025-08-14 22:20:12 +0000"
-    },
-    "done": true
-  },
-  "frostiful:recipes/combat/armor/fur_helmet": {
-    "criteria": {
-      "has_fur": "2025-08-14 22:16:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_brown_mushroom": "2025-08-14 22:20:07 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/blasting/lead_ingot_from_c_lead_ores": {
-    "criteria": {
-      "has_tag_c_lead_ores": "2025-08-14 21:15:19 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/blast_furnace/iron_ingot_from_rail": {
-    "criteria": {
-      "has_rail": "2025-08-14 22:20:25 +0000"
     },
     "done": true
   },
@@ -16857,33 +16887,9 @@
     },
     "done": true
   },
-  "techreborn:recipes/crafting_table/misc_block/refined_iron_fence": {
-    "criteria": {
-      "has_refined_iron": "2025-08-14 21:04:46 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/nether_quartz_wrench": {
-    "criteria": {
-      "has_nether_quartz": "2025-08-14 22:27:04 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/tools/manasteel_shovel": {
     "criteria": {
       "has_item": "2025-08-14 21:43:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
-    "criteria": {
-      "has_vex_armor_trim_smithing_template": "2025-08-14 22:43:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-08-14 21:07:11 +0000"
     },
     "done": true
   },
@@ -16893,27 +16899,9 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/jungle_bench": {
-    "criteria": {
-      "has_jungle_bench": "2025-08-14 21:07:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
-    "criteria": {
-      "has_polished_andesite": "2025-08-14 21:18:43 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/tools/manasteel_axe": {
     "criteria": {
       "has_item": "2025-08-14 21:43:14 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/redwood_wood": {
-    "criteria": {
-      "has_log": "2025-08-14 21:19:33 +0000"
     },
     "done": true
   },
@@ -16923,21 +16911,105 @@
     },
     "done": true
   },
-  "twigs:recipes/bloodstone/bloodstone": {
+  "botania:recipes/tools/dodge_ring": {
     "criteria": {
-      "has_item": "2025-08-14 22:27:04 +0000"
+      "has_item": "2025-08-14 21:43:14 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/jungle_wood": {
+  "botania:recipes/combat/manasteel_chestplate": {
     "criteria": {
-      "has_log": "2025-08-14 21:07:02 +0000"
+      "has_item": "2025-08-14 21:43:14 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/misc/crafting_table/storage_block/refined_iron_storage_block": {
+  "botania:recipes/tools/manasteel_shears": {
     "criteria": {
-      "has_refined_iron_ingot": "2025-08-14 21:04:46 +0000"
+      "has_item": "2025-08-14 21:43:14 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mana_distributor": {
+    "criteria": {
+      "has_item": "2025-08-14 21:43:14 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/travel_belt": {
+    "criteria": {
+      "has_item": "2025-08-14 21:43:14 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/monocle": {
+    "criteria": {
+      "has_item": "2025-08-14 21:43:14 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/lava_pendant": {
+    "criteria": {
+      "has_item": "2025-08-14 21:43:14 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/sextant": {
+    "criteria": {
+      "has_item": "2025-08-14 21:43:14 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/manasteel_pick": {
+    "criteria": {
+      "has_item": "2025-08-14 21:43:14 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/manasteel_helmet": {
+    "criteria": {
+      "has_item": "2025-08-14 21:43:14 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/glass_pickaxe": {
+    "criteria": {
+      "has_item": "2025-08-14 21:43:14 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/swap_ring": {
+    "criteria": {
+      "has_item": "2025-08-14 21:43:14 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/mining_ring": {
+    "criteria": {
+      "has_item": "2025-08-14 21:43:14 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/manasteel_boots": {
+    "criteria": {
+      "has_item": "2025-08-14 21:43:14 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/lens_normal": {
+    "criteria": {
+      "has_item": "2025-08-14 21:43:14 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/lead_nugget": {
+    "criteria": {
+      "has_lead_ingot": "2025-08-14 21:45:36 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/lead_storage_block": {
+    "criteria": {
+      "has_lead_ingot": "2025-08-14 21:45:36 +0000"
     },
     "done": true
   },
@@ -16947,33 +17019,87 @@
     },
     "done": true
   },
-  "botania:recipes/tools/dodge_ring": {
+  "techreborn:recipes/crafting_table/battery/red_cell_battery": {
     "criteria": {
-      "has_item": "2025-08-14 21:43:14 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/jungle_side_table": {
-    "criteria": {
-      "has_jungle_side_table": "2025-08-14 21:07:11 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/crafting_items/gemstone_white": {
-    "criteria": {
-      "has_quartz": "2025-08-14 22:27:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/comparator": {
-    "criteria": {
-      "has_quartz": "2025-08-14 22:27:04 +0000"
+      "has_lead_ingot": "2025-08-14 21:45:36 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/cyan_glazed_terracotta": {
     "criteria": {
       "has_cyan_terracotta": "2025-08-14 21:46:06 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/light_gray_concrete_powder_from_concrete": {
+    "criteria": {
+      "has_light_gray_concrete": "2025-08-14 21:46:10 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/combat/armor/fur_boots": {
+    "criteria": {
+      "has_fur": "2025-08-14 22:16:24 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/combat/armor/fur_leggings": {
+    "criteria": {
+      "has_fur": "2025-08-14 22:16:24 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/combat/armor/fur_helmet": {
+    "criteria": {
+      "has_fur": "2025-08-14 22:16:24 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/combat/armor/fur_chestplate": {
+    "criteria": {
+      "has_fur": "2025-08-14 22:16:24 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/misc/fur_padding": {
+    "criteria": {
+      "has_fur": "2025-08-14 22:16:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-14 22:20:07 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/wall_mushroom_brown": {
+    "criteria": {
+      "has_brown_mushroom": "2025-08-14 22:20:07 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/food/stalagnate_bowl_mushroom": {
+    "criteria": {
+      "has_brown_mushroom": "2025-08-14 22:20:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-08-14 22:20:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-14 22:20:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-08-14 22:20:07 +0000"
     },
     "done": true
   },
@@ -17010,252 +17136,6 @@
   "botania:recipes/decorations/mushroom_13": {
     "criteria": {
       "has_alt_item": "2025-08-14 22:20:07 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/machine/extractor": {
-    "criteria": {
-      "has_basic_machine_frame": "2025-08-14 22:24:07 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/jungle_drawer": {
-    "criteria": {
-      "has_jungle_drawer": "2025-08-14 21:07:11 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/machine_block/basic_machine_casing": {
-    "criteria": {
-      "has_basic_machine_frame": "2025-08-14 22:24:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab": {
-    "criteria": {
-      "has_polished_andesite": "2025-08-14 21:18:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/jungle_fence": {
-    "criteria": {
-      "has_planks": "2025-08-14 21:07:11 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/combat/manasteel_chestplate": {
-    "criteria": {
-      "has_item": "2025-08-14 21:43:14 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/jungle_corner_trim": {
-    "criteria": {
-      "has_jungle_corner_trim": "2025-08-14 21:07:11 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/jungle_shelf": {
-    "criteria": {
-      "has_jungle_shelf": "2025-08-14 21:07:11 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/grinder/raw_lead": {
-    "criteria": {
-      "has_tag_c_lead_ores": "2025-08-14 21:15:19 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/jungle_window": {
-    "criteria": {
-      "has_ingredient": "2025-08-14 21:07:11 +0000"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/decorative_blocks.general/jungle_support": {
-    "criteria": {
-      "has_plank": "2025-08-14 21:07:11 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/manasteel_shears": {
-    "criteria": {
-      "has_item": "2025-08-14 21:43:14 +0000"
-    },
-    "done": true
-  },
-  "techreborn:refinediron": {
-    "criteria": {
-      "crit_0": "2025-08-14 21:04:46 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/machine_block/basic_machine_frame": {
-    "criteria": {
-      "has_refined_iron_ingot": "2025-08-14 21:04:46 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/mana_distributor": {
-    "criteria": {
-      "has_item": "2025-08-14 21:43:14 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/nether_quartz_cutting_knife": {
-    "criteria": {
-      "has_nether_quartz": "2025-08-14 22:27:04 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/decorations/sign_post_jungle": {
-    "criteria": {
-      "has_item": "2025-08-14 21:07:11 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/nether_quartz_spade": {
-    "criteria": {
-      "has_nether_quartz": "2025-08-14 22:27:04 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/redwood_planks": {
-    "criteria": {
-      "has_logs": "2025-08-14 21:19:33 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/travel_belt": {
-    "criteria": {
-      "has_item": "2025-08-14 21:43:14 +0000"
-    },
-    "done": true
-  },
-  "frostiful:recipes/combat/armor/fur_chestplate": {
-    "criteria": {
-      "has_fur": "2025-08-14 22:16:24 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/monocle": {
-    "criteria": {
-      "has_item": "2025-08-14 21:43:14 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/smelting/lead_ingot_from_c_lead_ores": {
-    "criteria": {
-      "has_tag_c_lead_ores": "2025-08-14 21:15:19 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/lava_pendant": {
-    "criteria": {
-      "has_item": "2025-08-14 21:43:14 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/quartz_glass_smelting": {
-    "criteria": {
-      "has_item.minecraft.quartz": "2025-08-14 22:27:04 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/sextant": {
-    "criteria": {
-      "has_item": "2025-08-14 21:43:14 +0000"
-    },
-    "done": true
-  },
-  "frostiful:recipes/building_block/packed_snow_block": {
-    "criteria": {
-      "has_snow_block": "2025-08-14 21:27:50 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/manasteel_pick": {
-    "criteria": {
-      "has_item": "2025-08-14 21:43:14 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/blast_furnace/shelter_pottery_sherd": {
-    "criteria": {
-      "has_iron_door": "2025-08-14 22:38:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-08-14 21:07:11 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/machine_block/advanced_machine_frame": {
-    "criteria": {
-      "has_basic_machine_frame": "2025-08-14 22:24:07 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/combat/manasteel_helmet": {
-    "criteria": {
-      "has_item": "2025-08-14 21:43:14 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/cable/hv_cable": {
-    "criteria": {
-      "has_refined_iron_ingot": "2025-08-14 21:04:46 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/jungle_pillar_trim": {
-    "criteria": {
-      "has_jungle_pillar_trim": "2025-08-14 21:07:11 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/quartz_lavender": {
-    "criteria": {
-      "has_item": "2025-08-14 22:27:04 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/glass_pickaxe": {
-    "criteria": {
-      "has_item": "2025-08-14 21:43:14 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/solar_panel/advanced_solar_panel_alt": {
-    "criteria": {
-      "has_basic_machine_frame": "2025-08-14 22:24:07 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/redwood_shrub": {
-    "criteria": {
-      "has_redwood_sapling": "2025-08-14 21:19:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_block": {
-    "criteria": {
-      "has_quartz": "2025-08-14 22:27:04 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/swap_ring": {
-    "criteria": {
-      "has_item": "2025-08-14 21:43:14 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/quartz": {
-    "criteria": {
-      "has_quartz": "2025-08-14 22:27:04 +0000"
     },
     "done": true
   },
@@ -17319,15 +17199,225 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/tools/nether_quartz_hoe": {
+  "techreborn:recipes/centrifuge/brown_mushroom": {
+    "criteria": {
+      "has_brown_mushroom": "2025-08-14 22:20:07 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/red_mushroom": {
+    "criteria": {
+      "has_red_mushroom": "2025-08-14 22:20:12 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/wall_red_brown": {
+    "criteria": {
+      "has_red_mushroom": "2025-08-14 22:20:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-08-14 22:20:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-08-14 22:20:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-08-14 22:20:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_rail": {
+    "criteria": {
+      "has_rail": "2025-08-14 22:20:25 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/transportation/ghost_rail": {
+    "criteria": {
+      "has_item": "2025-08-14 22:20:25 +0000"
+    },
+    "done": true
+  },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-08-14 22:21:36 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/grinder": {
+    "criteria": {
+      "has_basic_machine_frame": "2025-08-14 22:24:07 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine_block/basic_machine_casing_alt": {
+    "criteria": {
+      "has_basic_machine_frame": "2025-08-14 22:24:07 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/compressor": {
+    "criteria": {
+      "has_basic_machine_frame": "2025-08-14 22:24:07 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/canning_machine": {
+    "criteria": {
+      "has_basic_machine_frame": "2025-08-14 22:24:07 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/extractor": {
+    "criteria": {
+      "has_basic_machine_frame": "2025-08-14 22:24:07 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine_block/basic_machine_casing": {
+    "criteria": {
+      "has_basic_machine_frame": "2025-08-14 22:24:07 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine_block/advanced_machine_frame": {
+    "criteria": {
+      "has_basic_machine_frame": "2025-08-14 22:24:07 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/solar_panel/advanced_solar_panel_alt": {
+    "criteria": {
+      "has_basic_machine_frame": "2025-08-14 22:24:07 +0000"
+    },
+    "done": true
+  },
+  "techreborn:machineblock": {
+    "criteria": {
+      "crit_0": "2025-08-14 22:24:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-08-14 22:26:12 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_blaze": {
+    "criteria": {
+      "has_item": "2025-08-14 22:27:04 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_axe": {
     "criteria": {
       "has_nether_quartz": "2025-08-14 22:27:04 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/misc/crafting_table/nugget/refined_iron_nugget": {
+  "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
-      "has_refined_iron_ingot": "2025-08-14 21:04:46 +0000"
+      "has_quartz": "2025-08-14 22:27:04 +0000"
+    },
+    "done": true
+  },
+  "quartzelv:recipes/building_blocks/quartz_elevator": {
+    "criteria": {
+      "has_quartz": "2025-08-14 22:27:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-08-14 22:27:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-08-14 22:27:04 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_pickaxe": {
+    "criteria": {
+      "has_nether_quartz": "2025-08-14 22:27:04 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_wrench": {
+    "criteria": {
+      "has_nether_quartz": "2025-08-14 22:27:04 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bloodstone/bloodstone": {
+    "criteria": {
+      "has_item": "2025-08-14 22:27:04 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/gemstone_white": {
+    "criteria": {
+      "has_quartz": "2025-08-14 22:27:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-08-14 22:27:04 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_cutting_knife": {
+    "criteria": {
+      "has_nether_quartz": "2025-08-14 22:27:04 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_spade": {
+    "criteria": {
+      "has_nether_quartz": "2025-08-14 22:27:04 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/quartz_glass_smelting": {
+    "criteria": {
+      "has_item.minecraft.quartz": "2025-08-14 22:27:04 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_lavender": {
+    "criteria": {
+      "has_item": "2025-08-14 22:27:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-08-14 22:27:04 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/quartz": {
+    "criteria": {
+      "has_quartz": "2025-08-14 22:27:04 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_hoe": {
+    "criteria": {
+      "has_nether_quartz": "2025-08-14 22:27:04 +0000"
     },
     "done": true
   },
@@ -17349,33 +17439,9 @@
     },
     "done": true
   },
-  "botania:recipes/tools/mining_ring": {
-    "criteria": {
-      "has_item": "2025-08-14 21:43:14 +0000"
-    },
-    "done": true
-  },
   "ae2:recipes/misc/tools/nether_quartz_sword": {
     "criteria": {
       "has_nether_quartz": "2025-08-14 22:27:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-08-14 22:43:17 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/blast_furnace/gold_ingot_from_horse_armor": {
-    "criteria": {
-      "has_golden_horse_armor": "2025-08-14 21:36:58 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/cable/insulated_hv_cable": {
-    "criteria": {
-      "has_refined_iron": "2025-08-14 21:04:46 +0000"
     },
     "done": true
   },
@@ -17385,57 +17451,9 @@
     },
     "done": true
   },
-  "techreborn:machineblock": {
-    "criteria": {
-      "crit_0": "2025-08-14 22:24:07 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/combat/manasteel_boots": {
-    "criteria": {
-      "has_item": "2025-08-14 21:43:14 +0000"
-    },
-    "done": true
-  },
   "twigs:recipes/rhyolite/rhyolite": {
     "criteria": {
       "has_item": "2025-08-14 22:27:04 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/jungle_chair": {
-    "criteria": {
-      "has_jungle_chair": "2025-08-14 21:07:11 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/lens_normal": {
-    "criteria": {
-      "has_item": "2025-08-14 21:43:14 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/transportation/ghost_rail": {
-    "criteria": {
-      "has_item": "2025-08-14 22:20:25 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/jungle_desk": {
-    "criteria": {
-      "has_jungle_desk": "2025-08-14 21:07:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_button": {
-    "criteria": {
-      "has_planks": "2025-08-14 21:07:11 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/compressor/refined_iron_plate": {
-    "criteria": {
-      "has_tag_c_refined_iron_ingots": "2025-08-14 21:04:46 +0000"
     },
     "done": true
   },
@@ -17445,51 +17463,33 @@
     },
     "done": true
   },
-  "frostiful:recipes/misc/fur_padding": {
+  "simplyswords:emberlash": {
     "criteria": {
-      "has_fur": "2025-08-14 22:16:24 +0000"
+      "requirement": "2025-08-14 22:29:26 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/jungle_planks": {
+  "techreborn:recipes/blast_furnace/gold_ingot_from_chestplate": {
     "criteria": {
-      "has_logs": "2025-08-14 21:07:02 +0000"
+      "has_golden_chestplate": "2025-08-14 22:38:36 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/crafting_table/battery/red_cell_battery": {
+  "techreborn:recipes/blast_furnace/shelter_pottery_sherd": {
     "criteria": {
-      "has_lead_ingot": "2025-08-14 21:45:36 +0000"
+      "has_iron_door": "2025-08-14 22:38:36 +0000"
     },
     "done": true
   },
-  "decorative_blocks:recipes/decorative_blocks.general/jungle_palisade": {
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
     "criteria": {
-      "has_log": "2025-08-14 21:07:02 +0000"
+      "has_vex_armor_trim_smithing_template": "2025-08-14 22:43:17 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/jungle_couch": {
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "has_jungle_couch": "2025-08-14 21:07:11 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/jungle_fancy_bed": {
-    "criteria": {
-      "has_jungle_fancy_bed": "2025-08-14 21:07:11 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/centrifuge/brown_mushroom": {
-    "criteria": {
-      "has_brown_mushroom": "2025-08-14 22:20:07 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/grinder/light_gray_concrete_powder_from_concrete": {
-    "criteria": {
-      "has_light_gray_concrete": "2025-08-14 21:46:10 +0000"
+      "has_smithing_trim_template": "2025-08-14 22:43:17 +0000"
     },
     "done": true
   },
