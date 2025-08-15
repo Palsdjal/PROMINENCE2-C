@@ -17897,5 +17897,11 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/paper_from_written_book": {
+    "criteria": {
+      "has_written_book": "2025-08-15 16:42:12 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
