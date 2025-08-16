@@ -2223,3 +2223,12 @@ BCLib - Nether BiomeSource (62578302)
 [04:12:49] [Server thread/INFO]: VadniesHael has completed the challenge [Steeped in Strength]
 [04:15:15] [Server thread/INFO]: [VadniesHael: Set Taza_free's game mode to Spectator Mode]
 [04:16:14] [Server thread/INFO]: [VadniesHael: Set own game mode to Spectator Mode]
+[04:25:12] [Server thread/INFO]: [VadniesHael: Set own game mode to Creative Mode]
+[04:25:20] [Server thread/INFO]: [VadniesHael: Set Taza_free's game mode to Creative Mode]
+[04:26:35] [Server thread/INFO]: [VadniesHael: Set own game mode to Spectator Mode]
+[04:29:51] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to 261.500000, 68.500000, 182.500000]
+[04:32:35] [Server thread/INFO]: Taza_free lost connection: Timed out
+[04:32:35] [Server thread/INFO]: Taza_free left the game
+[04:32:35] [Server thread/INFO]: remove player wand
+[04:32:35] [Server thread/INFO]: Updating all forceload tickets for 186537a7-9996-3401-b758-06bdf6b9b06b
+[04:32:35] [Server thread/WARN]: handleDisconnection() called twice
