@@ -593,11 +593,13 @@
       "minecraft:skeleton": "2025-08-10 22:24:44 +0000",
       "minecraft:guardian": "2025-08-14 06:37:11 +0000",
       "minecraft:vindicator": "2025-08-12 21:50:13 +0000",
+      "minecraft:magma_cube": "2025-08-16 03:30:42 +0000",
       "minecraft:spider": "2025-08-10 17:49:55 +0000",
       "minecraft:piglin_brute": "2025-08-13 01:07:39 +0000",
       "minecraft:creeper": "2025-08-14 04:19:48 +0000",
       "minecraft:evoker": "2025-08-12 21:50:45 +0000",
       "minecraft:phantom": "2025-08-16 00:49:21 +0000",
+      "minecraft:zombified_piglin": "2025-08-16 03:25:01 +0000",
       "minecraft:witch": "2025-08-12 21:49:44 +0000",
       "minecraft:husk": "2025-08-10 17:38:05 +0000",
       "minecraft:cave_spider": "2025-08-14 04:43:06 +0000",
@@ -18511,6 +18513,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/armor/quantum_helmet": {
+    "criteria": {
+      "has_data_storage_chip": "2025-08-16 03:26:27 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/transportation/crimson_boat": {
     "criteria": {
       "has_crimson_planks": "2025-08-16 03:23:47 +0000"
@@ -18529,9 +18537,39 @@
     },
     "done": false
   },
+  "supplementaries:recipes/netherite_trapdoor": {
+    "criteria": {
+      "has_netherite_scrap": "2025-08-16 03:32:16 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/steel_dust": {
+    "criteria": {
+      "has_tag_c_steel_ingots": "2025-08-16 03:28:19 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/implosion_compressor": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-08-16 03:28:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-08-16 03:32:16 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/sign_post_crimson": {
     "criteria": {
       "has_item": "2025-08-16 03:23:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/rolling_machine/cupronickel_heating_coil": {
+    "criteria": {
+      "has_nickel_ingot": "2025-08-16 03:26:41 +0000"
     },
     "done": true
   },
@@ -18577,6 +18615,30 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/parts/digital_display": {
+    "criteria": {
+      "has_advanced_circuit": "2025-08-16 03:28:02 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/solar_panel/industrial_solar_panel_alt": {
+    "criteria": {
+      "has_advanced_circuit": "2025-08-16 03:28:02 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/steel_plate": {
+    "criteria": {
+      "has_tag_c_steel_ingots": "2025-08-16 03:28:19 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/netherite_door": {
+    "criteria": {
+      "has_netherite_scrap": "2025-08-16 03:32:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/crimson_hyphae": {
     "criteria": {
       "has_log": "2025-08-16 03:20:52 +0000"
@@ -18613,9 +18675,27 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/armor/quantum_boots": {
+    "criteria": {
+      "has_data_storage_chip": "2025-08-16 03:26:27 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/crimson_pillar_trim": {
     "criteria": {
       "has_crimson_pillar_trim": "2025-08-16 03:23:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/chemical_reactor": {
+    "criteria": {
+      "has_advanced_circuit": "2025-08-16 03:28:02 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/aluminum_dust": {
+    "criteria": {
+      "has_tag_c_aluminum_ingots": "2025-08-16 03:28:09 +0000"
     },
     "done": true
   },
@@ -18631,6 +18711,24 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine_block/advanced_machine_casing": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-08-16 03:28:01 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/aluminum_nugget": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-08-16 03:28:09 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/netherite_candelabra": {
+    "criteria": {
+      "has_item": "2025-08-16 03:32:16 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/living_vines_armor_helmet": {
     "criteria": {
       "has_weeping_vines": "2025-08-16 03:20:52 +0000"
@@ -18640,6 +18738,12 @@
   "decorative_blocks:recipes/decorative_blocks.general/crimson_support": {
     "criteria": {
       "has_plank": "2025-08-16 03:23:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-08-16 03:26:24 +0000"
     },
     "done": true
   },
@@ -18667,6 +18771,42 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_netherite_scrap": "2025-08-16 03:32:16 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/diamond_grinding_head": {
+    "criteria": {
+      "has_steel_ingot": "2025-08-16 03:28:19 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/gold_nugget_from_sword": {
+    "criteria": {
+      "has_golden_sword": "2025-08-16 03:27:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/greenhouse_controller": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-08-16 03:28:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-08-16 03:26:31 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/steel_storage_block": {
+    "criteria": {
+      "has_steel_ingot": "2025-08-16 03:28:19 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/crimson_shelf": {
     "criteria": {
       "has_crimson_shelf": "2025-08-16 03:23:47 +0000"
@@ -18676,6 +18816,18 @@
   "minecraft:recipes/redstone/crimson_trapdoor": {
     "criteria": {
       "has_planks": "2025-08-16 03:23:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/industrial_sawmill": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-08-16 03:28:01 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/aluminum_plate": {
+    "criteria": {
+      "has_tag_c_aluminum_ingots": "2025-08-16 03:28:09 +0000"
     },
     "done": true
   },
@@ -18697,15 +18849,99 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/unit/tank/quantum_tank_unit_from_industrial": {
+    "criteria": {
+      "has_data_storage_chip": "2025-08-16 03:26:27 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/magma_cube": {
+    "criteria": {
+      "has_magma_cream": "2025-08-16 03:26:31 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/magma_cream": {
+    "criteria": {
+      "has_magma_cream": "2025-08-16 03:26:31 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/nickel_nugget": {
+    "criteria": {
+      "has_nickel_ingot": "2025-08-16 03:26:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/solar_panel/ultimate_solar_panel_alt": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-08-16 03:28:01 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/player_detector": {
+    "criteria": {
+      "has_advanced_circuit": "2025-08-16 03:28:02 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/industrial_electrolyzer": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-08-16 03:28:01 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/nickel_storage_block": {
+    "criteria": {
+      "has_nickel_ingot": "2025-08-16 03:26:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/crimson_pressure_plate": {
     "criteria": {
       "has_planks": "2025-08-16 03:23:47 +0000"
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/armor/steel_boots": {
+    "criteria": {
+      "has_steel_ingot": "2025-08-16 03:28:19 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crimson_window": {
     "criteria": {
       "has_ingredient": "2025-08-16 03:23:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/lapotronic_su": {
+    "criteria": {
+      "has_advanced_circuit": "2025-08-16 03:28:02 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/steel_helmet": {
+    "criteria": {
+      "has_steel_ingot": "2025-08-16 03:28:19 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/rolling_machine": {
+    "criteria": {
+      "has_advanced_circuit": "2025-08-16 03:28:02 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_boots": {
+    "criteria": {
+      "has_golden_boots": "2025-08-16 03:26:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-08-16 03:27:47 +0000"
     },
     "done": true
   },
@@ -18727,15 +18963,69 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/nickel_dust": {
+    "criteria": {
+      "has_tag_c_nickel_ingots": "2025-08-16 03:26:41 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/crimson_crafting_table": {
     "criteria": {
       "has_crimson_planks": "2025-08-16 03:23:47 +0000"
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/storage_block/aluminum_storage_block": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-08-16 03:28:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/auto_crafting_table": {
+    "criteria": {
+      "has_advanced_circuit": "2025-08-16 03:28:02 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/nickel_plate": {
+    "criteria": {
+      "has_tag_c_nickel_ingots": "2025-08-16 03:26:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/steel_nugget": {
+    "criteria": {
+      "has_steel_ingot": "2025-08-16 03:28:19 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/steel_leggings": {
+    "criteria": {
+      "has_steel_ingot": "2025-08-16 03:28:19 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/diamond_saw_blade": {
+    "criteria": {
+      "has_steel_ingot": "2025-08-16 03:28:19 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/crimson_seat": {
     "criteria": {
       "has_plank": "2025-08-16 03:23:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/industrial_blast_furnace": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-08-16 03:28:01 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/steel_block": {
+    "criteria": {
+      "has_steel_block": "2025-08-16 03:28:19 +0000"
     },
     "done": true
   },
@@ -18769,15 +19059,57 @@
     },
     "done": false
   },
+  "ad_astra:recipes/compressing/compressing/steel_plate_from_compressing_steel_ingots": {
+    "criteria": {
+      "has_item": "2025-08-16 03:28:19 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/crimson_barrel": {
     "criteria": {
       "has_crimson_planks": "2025-08-16 03:23:47 +0000"
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine_block/industrial_machine_frame": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-08-16 03:28:01 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/armor/quantum_chestplate": {
+    "criteria": {
+      "has_data_storage_chip": "2025-08-16 03:26:27 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/steel_chestplate": {
+    "criteria": {
+      "has_steel_ingot": "2025-08-16 03:28:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crimson_fence": {
     "criteria": {
       "has_planks": "2025-08-16 03:23:47 +0000"
+    },
+    "done": true
+  },
+  "netherchested:recipes/decorations/nether_chest": {
+    "criteria": {
+      "has_netherite_scrap": "2025-08-16 03:32:16 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/assembling_machine": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-08-16 03:28:01 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/industrial_centrifuge": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-08-16 03:28:01 +0000"
     },
     "done": true
   },
@@ -18793,6 +19125,24 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/unit/storage/quantum_storage_unit": {
+    "criteria": {
+      "has_data_storage_chip": "2025-08-16 03:26:27 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/unit/upgrader/industrial_unit_upgrader": {
+    "criteria": {
+      "has_data_storage_chip": "2025-08-16 03:26:27 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/armor/quantum_leggings": {
+    "criteria": {
+      "has_data_storage_chip": "2025-08-16 03:26:27 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/crimson_bench": {
     "criteria": {
       "has_crimson_bench": "2025-08-16 03:23:47 +0000"
@@ -18802,6 +19152,12 @@
   "minecraft:recipes/redstone/crimson_fence_gate": {
     "criteria": {
       "has_planks": "2025-08-16 03:23:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-08-16 03:24:48 +0000"
     },
     "done": true
   },
