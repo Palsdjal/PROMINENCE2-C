@@ -21493,6 +21493,12 @@
     },
     "done": true
   },
+  "adventurez:recipes/gilded_netherite_fragment_recipe": {
+    "criteria": {
+      "got_the_netherite_fragment": "2025-08-16 06:44:39 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/small_dust/pyrite_small_dust_from_dust": {
     "criteria": {
       "has_pyrite_dust": "2025-08-16 06:21:13 +0000"

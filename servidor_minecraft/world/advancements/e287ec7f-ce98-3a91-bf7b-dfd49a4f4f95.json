@@ -21158,9 +21158,45 @@
     },
     "done": true
   },
+  "techreborn:recipes/compressor/tin_plate": {
+    "criteria": {
+      "has_tag_c_tin_ingots": "2025-08-16 06:41:29 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/tin_nugget": {
+    "criteria": {
+      "has_tin_ingot": "2025-08-16 06:41:29 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/tin_cable": {
+    "criteria": {
+      "has_tin_ingot": "2025-08-16 06:41:29 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/gold_ingot_from_leggings": {
     "criteria": {
       "has_golden_leggings": "2025-08-16 06:27:53 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/wire_mill/tin_cable": {
+    "criteria": {
+      "has_tin_ingot": "2025-08-16 06:41:29 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/tin_storage_block": {
+    "criteria": {
+      "has_tin_ingot": "2025-08-16 06:41:29 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cell": {
+    "criteria": {
+      "has_tin_ingot": "2025-08-16 06:41:29 +0000"
     },
     "done": true
   },
