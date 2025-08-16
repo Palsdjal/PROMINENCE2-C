@@ -590,6 +590,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-08-11 06:50:28 +0000",
+      "minecraft:blaze": "2025-08-16 03:51:42 +0000",
       "minecraft:skeleton": "2025-08-10 22:24:44 +0000",
       "minecraft:guardian": "2025-08-14 06:37:11 +0000",
       "minecraft:vindicator": "2025-08-12 21:50:13 +0000",
@@ -601,6 +602,7 @@
       "minecraft:phantom": "2025-08-16 00:49:21 +0000",
       "minecraft:zombified_piglin": "2025-08-16 03:25:01 +0000",
       "minecraft:witch": "2025-08-12 21:49:44 +0000",
+      "minecraft:wither_skeleton": "2025-08-16 03:45:07 +0000",
       "minecraft:husk": "2025-08-10 17:38:05 +0000",
       "minecraft:cave_spider": "2025-08-14 04:43:06 +0000",
       "minecraft:piglin": "2025-08-13 01:07:26 +0000",
@@ -18557,6 +18559,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-08-16 03:50:29 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/basalt_brick_wall_stonecutting": {
     "criteria": {
       "has_block.minecraft.basalt": "2025-08-16 03:34:02 +0000"
@@ -18614,6 +18622,12 @@
   "stoneworks:recipes/building_blocks/netherrack_brick_stairs_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-08-16 03:35:16 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/sprout_armor_boots": {
+    "criteria": {
+      "has_nether_wart": "2025-08-16 03:51:05 +0000"
     },
     "done": true
   },
@@ -18737,6 +18751,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/sprout_armor_leggings": {
+    "criteria": {
+      "has_nether_wart": "2025-08-16 03:51:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/crimson_slab": {
     "criteria": {
       "has_planks": "2025-08-16 03:23:47 +0000"
@@ -18752,6 +18772,12 @@
   "techreborn:recipes/crafting_table/parts/digital_display": {
     "criteria": {
       "has_advanced_circuit": "2025-08-16 03:28:02 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_netherwart_stew": {
+    "criteria": {
+      "has_nether_wart": "2025-08-16 03:51:05 +0000"
     },
     "done": true
   },
@@ -18854,6 +18880,12 @@
   "stoneworks:recipes/building_blocks/polished_netherrack_stairs_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-08-16 03:35:16 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-08-16 03:50:29 +0000"
     },
     "done": true
   },
@@ -19121,6 +19153,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-08-16 03:50:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-08-16 03:42:12 +0000"
@@ -19199,6 +19237,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/sprout_armor_chestplate": {
+    "criteria": {
+      "has_nether_wart": "2025-08-16 03:51:05 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_netherrack_brick_wall_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-08-16 03:35:16 +0000"
@@ -19241,9 +19285,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-08-16 03:51:05 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/basalt_plate_wall_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-08-16 03:34:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-08-16 03:51:05 +0000"
     },
     "done": true
   },
@@ -19337,6 +19393,18 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/blaze": {
+    "criteria": {
+      "has_blaze_rod": "2025-08-16 03:52:29 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/food/herbal_medicine": {
+    "criteria": {
+      "has_nether_wart": "2025-08-16 03:51:05 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/magma_cube": {
     "criteria": {
       "has_magma_cream": "2025-08-16 03:26:31 +0000"
@@ -19391,6 +19459,18 @@
     },
     "done": true
   },
+  "botania:recipes/misc/conversions/blazeblock_deconstruct": {
+    "criteria": {
+      "has_item": "2025-08-16 03:52:29 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/nether_wart": {
+    "criteria": {
+      "has_nether_wart": "2025-08-16 03:51:05 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/nether_brick_paver_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-08-16 03:42:12 +0000"
@@ -19418,6 +19498,12 @@
   "stoneworks:recipes/building_blocks/cobbled_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-08-16 03:35:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-08-16 03:52:29 +0000"
     },
     "done": true
   },
@@ -19466,6 +19552,12 @@
   "stoneworks:recipes/building_blocks/basalt_tile_stairs_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-08-16 03:34:02 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_ember": {
+    "criteria": {
+      "has_core_specification_item": "2025-08-16 03:50:29 +0000"
     },
     "done": true
   },
@@ -19613,6 +19705,12 @@
     },
     "done": true
   },
+  "betternether:recipes/food/stalagnate_bowl_wart": {
+    "criteria": {
+      "has_nether_wart": "2025-08-16 03:51:05 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/basalt_brick_slab_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-08-16 03:34:02 +0000"
@@ -19664,6 +19762,12 @@
   "techreborn:recipes/grinder/nickel_dust": {
     "criteria": {
       "has_tag_c_nickel_ingots": "2025-08-16 03:26:41 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/spark": {
+    "criteria": {
+      "has_item": "2025-08-16 03:50:29 +0000"
     },
     "done": true
   },
@@ -19793,9 +19897,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_electrolyzer/blaze_powder": {
+    "criteria": {
+      "has_blaze_powder": "2025-08-16 03:50:29 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/nether_brick_witch_altar": {
     "criteria": {
       "has_item": "2025-08-16 03:42:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-08-16 03:52:29 +0000"
     },
     "done": true
   },
@@ -19862,6 +19978,12 @@
   "mcdw:recipes/bows/bow_weeping_vine_bow": {
     "criteria": {
       "has_weeping_vines": "2025-08-16 03:20:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-08-16 03:50:29 +0000"
     },
     "done": true
   },
@@ -19949,6 +20071,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/sprout_armor_helmet": {
+    "criteria": {
+      "has_nether_wart": "2025-08-16 03:51:05 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/armor/quantum_chestplate": {
     "criteria": {
       "has_data_storage_chip": "2025-08-16 03:26:27 +0000"
@@ -19988,6 +20116,12 @@
   "netherchested:recipes/decorations/nether_chest": {
     "criteria": {
       "has_netherite_scrap": "2025-08-16 03:32:16 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/dragon_staff": {
+    "criteria": {
+      "has_item": "2025-08-16 03:52:29 +0000"
     },
     "done": true
   },
@@ -20081,6 +20215,12 @@
     },
     "done": true
   },
+  "botania:recipes/building_blocks/blaze_block": {
+    "criteria": {
+      "has_item": "2025-08-16 03:52:29 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/assembling_machine/netherite_upgrade_smithing_template": {
     "criteria": {
       "has_netherrack": "2025-08-16 03:35:16 +0000"
@@ -20120,6 +20260,12 @@
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-08-16 03:35:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/blaze_rod": {
+    "criteria": {
+      "has_blaze_powder": "2025-08-16 03:50:29 +0000"
     },
     "done": true
   },
@@ -20192,6 +20338,12 @@
   "stoneworks:recipes/building_blocks/netherrack_bricks_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-08-16 03:35:16 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/nether": {
+    "criteria": {
+      "has_nether_wart": "2025-08-16 03:51:05 +0000"
     },
     "done": true
   },

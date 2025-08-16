@@ -20290,6 +20290,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/sprout_armor_boots": {
+    "criteria": {
+      "has_nether_wart": "2025-08-16 03:44:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_ingot": {
     "criteria": {
       "has_netherite_scrap": "2025-08-16 03:27:17 +0000"
@@ -20356,6 +20362,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/sprout_armor_leggings": {
+    "criteria": {
+      "has_nether_wart": "2025-08-16 03:44:40 +0000"
+    },
+    "done": true
+  },
   "betterarcheology:recipes/tools/netherite_brush_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-08-16 03:33:20 +0000"
@@ -20368,6 +20380,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/shaped_netherwart_stew": {
+    "criteria": {
+      "has_nether_wart": "2025-08-16 03:44:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_boots": "2025-08-16 03:26:55 +0000"
@@ -20377,6 +20395,12 @@
   "betternether:recipes/decorations/cincinnasite_forge": {
     "criteria": {
       "has_nether_bricks": "2025-08-16 03:37:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-08-16 03:50:24 +0000"
     },
     "done": true
   },
@@ -20602,6 +20626,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/sprout_armor_chestplate": {
+    "criteria": {
+      "has_nether_wart": "2025-08-16 03:44:40 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/brewing/nether_brewing_stand": {
     "criteria": {
       "has_nether_bricks": "2025-08-16 03:37:16 +0000"
@@ -20620,9 +20650,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-08-16 03:44:40 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/upgrade_cores/upgrade_core": {
     "criteria": {
       "has_netherite_ingot": "2025-08-16 03:33:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-08-16 03:44:40 +0000"
     },
     "done": true
   },
@@ -20659,6 +20701,12 @@
   "travelersbackpack:recipes/misc/blaze": {
     "criteria": {
       "has_blaze_rod": "2025-08-16 03:38:50 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/food/herbal_medicine": {
+    "criteria": {
+      "has_nether_wart": "2025-08-16 03:44:40 +0000"
     },
     "done": true
   },
@@ -20701,6 +20749,12 @@
   "botania:recipes/misc/conversions/blazeblock_deconstruct": {
     "criteria": {
       "has_item": "2025-08-16 03:38:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/nether_wart": {
+    "criteria": {
+      "has_nether_wart": "2025-08-16 03:44:40 +0000"
     },
     "done": true
   },
@@ -20845,6 +20899,12 @@
   "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
     "criteria": {
       "has_netherite_upgrade_smithing_template": "2025-08-16 03:33:15 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/food/stalagnate_bowl_wart": {
+    "criteria": {
+      "has_nether_wart": "2025-08-16 03:44:40 +0000"
     },
     "done": true
   },
@@ -21028,6 +21088,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/sprout_armor_helmet": {
+    "criteria": {
+      "has_nether_wart": "2025-08-16 03:44:40 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/armor/quantum_chestplate": {
     "criteria": {
       "has_data_storage_chip": "2025-08-16 03:41:27 +0000"
@@ -21181,6 +21247,12 @@
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2025-08-16 03:24:43 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/nether": {
+    "criteria": {
+      "has_nether_wart": "2025-08-16 03:44:40 +0000"
     },
     "done": true
   },

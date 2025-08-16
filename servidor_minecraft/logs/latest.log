@@ -2230,3 +2230,20 @@ BCLib - Nether BiomeSource (711c0119)
 [03:46:34] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to Taza_free]
 [03:46:34] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
 [03:46:51] [Server thread/INFO]: VadniesHael claimed a grave belonging to VadniesHael at 110, 89, 111, minecraft:the_nether
+[03:47:41] [Server thread/WARN]: Couldn't set damage of loot item 1 golden_horse_armor
+[03:48:03] [Server thread/INFO]: VadniesHael was slain by Wither Skeleton
+[03:48:03] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.redstone_16.08.2025-03.48.03.dat
+[03:48:05] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[03:48:22] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[03:48:22] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[03:48:28] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to 108.500000, 88.500000, 108.500000]
+[03:48:30] [Server thread/INFO]: VadniesHael claimed a grave belonging to VadniesHael at 108, 88, 108, minecraft:the_nether
+[03:52:29] [Server thread/INFO]: VadniesHael has made the advancement [Into Fire]
+[03:54:12] [Server thread/WARN]: Couldn't set damage of loot item 1 diamond_horse_armor
+[03:55:19] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.betternether.blocks.RedstoneOreBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[03:56:43] [Server thread/INFO]: Taza_free tried to swim in lava
+[03:56:43] [Server thread/INFO]: Created new backpack backup file for Taza_free with unique ID travelersbackpack.ocelot_16.08.2025-03.56.43.dat
+[03:56:44] [Server thread/INFO]: [VadniesHael: Teleported Taza_free to VadniesHael]
+[03:56:44] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[03:56:57] [Server thread/INFO]: [VadniesHael: Teleported Taza_free to VadniesHael]
+[03:56:57] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
