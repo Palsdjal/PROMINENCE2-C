@@ -2397,3 +2397,8 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 [05:35:45] [Server thread/INFO]: Taza_free has completed the challenge [Oh, The Misery]
 [05:36:22] [Server thread/INFO]: Taza_free has completed the challenge [Steeped in Strength]
 [05:40:02] [Server thread/INFO]: [VadniesHael: Set Taza_free's game mode to Creative Mode]
+[05:45:34] [Server thread/INFO]: [VadniesHael: Set Taza_free's game mode to Survival Mode]
+[05:45:37] [Server thread/INFO]: Taza_free lost connection: Disconnected
+[05:45:37] [Server thread/INFO]: Taza_free left the game
+[05:45:37] [Server thread/INFO]: remove player wand
+[05:45:37] [Server thread/INFO]: Updating all forceload tickets for 186537a7-9996-3401-b758-06bdf6b9b06b
