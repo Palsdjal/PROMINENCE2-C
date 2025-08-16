@@ -17989,6 +17989,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-08-16 02:31:17 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/sandstone_brick_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-08-16 02:22:01 +0000"
@@ -18085,6 +18091,12 @@
     },
     "done": true
   },
+  "prominent:level_10": {
+    "criteria": {
+      "requirement": "2025-08-16 02:28:26 +0000"
+    },
+    "done": true
+  },
   "graveyard:graveyard/craft_coffin": {
     "criteria": {
       "coffin": "2025-08-16 01:35:15 +0000"
@@ -18157,6 +18169,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-08-16 02:31:17 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_sandstone_brick_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-08-16 02:22:01 +0000"
@@ -18223,9 +18241,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-08-16 02:31:17 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/food/molasses_from_smoking_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-08-16 02:14:49 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:ribboncleaver": {
+    "criteria": {
+      "requirement": "2025-08-16 02:32:55 +0000"
     },
     "done": true
   },
@@ -18301,6 +18331,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-08-16 02:31:17 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-08-16 02:22:01 +0000"
@@ -18343,6 +18379,12 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/bn_red_mushroom": {
+    "criteria": {
+      "has_wall_mushroom_red": "2025-08-16 02:29:23 +0000"
+    },
+    "done": true
+  },
   "frostiful:recipes/decorations/ice_pane": {
     "criteria": {
       "has_ice": "2025-08-16 01:46:51 +0000"
@@ -18370,6 +18412,12 @@
   "handcrafted:recipes/misc/phantom_trophy": {
     "criteria": {
       "has_phantom_trophy": "2025-08-16 00:34:56 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:adventure/night_lich_defeat": {
+    "criteria": {
+      "bosses_of_mass_destruction:lich": "2025-08-16 02:28:26 +0000"
     },
     "done": true
   },
