@@ -17953,6 +17953,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/silver_ingot_from_helmet": {
+    "criteria": {
+      "has_silver_helmet": "2025-08-16 01:51:07 +0000"
+    },
+    "done": true
+  },
   "graveyard:graveyard/craft_coffin": {
     "criteria": {
       "coffin": "2025-08-16 01:35:15 +0000"
