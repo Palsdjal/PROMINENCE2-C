@@ -2342,3 +2342,40 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 [00:51:34] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
 [00:51:39] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to Taza_free]
 [00:51:53] [Server thread/INFO]: VadniesHael claimed a grave belonging to VadniesHael at -7642, 67, -3226, minecraft:overworld
+[00:52:36] [Server thread/INFO]: Taza_free was blown up by Night Lich
+[00:52:36] [Server thread/INFO]: Created new backpack backup file for Taza_free with unique ID travelersbackpack.ocelot_16.08.2025-00.52.36.dat
+[00:52:38] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[00:52:46] [Server thread/INFO]: [VadniesHael: Teleported Taza_free to VadniesHael]
+[00:53:01] [Server thread/INFO]: [VadniesHael: Set own game mode to Creative Mode]
+[00:53:18] [Server thread/INFO]: [VadniesHael: Set own game mode to Survival Mode]
+[00:53:26] [Server thread/INFO]: Taza_free was slain by Zombie
+[00:53:26] [Server thread/INFO]: Created new backpack backup file for Taza_free with unique ID travelersbackpack.ocelot_16.08.2025-00.53.26.dat
+[00:53:28] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[00:53:58] [Server thread/INFO]: Taza_free was slain by VadniesHael
+[00:53:58] [Server thread/INFO]: Created new backpack backup file for Taza_free with unique ID travelersbackpack.ocelot_16.08.2025-00.53.58.dat
+[00:53:58] [Server thread/WARN]: Taza_free moved wrongly!
+[00:53:59] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[00:54:25] [Server thread/INFO]: Taza_free claimed a grave belonging to Taza_free at -7494, 64, -3215, minecraft:overworld
+[00:55:56] [Server thread/WARN]: Żar-ptak (vehicle of VadniesHael) moved wrongly! 0.37161222407030436
+[00:55:56] [Server thread/WARN]: Żar-ptak (vehicle of VadniesHael) moved wrongly! 1.069466282708163
+[00:55:56] [Server thread/WARN]: Żar-ptak (vehicle of VadniesHael) moved wrongly! 1.6877532275175327
+[00:55:56] [Server thread/WARN]: Żar-ptak (vehicle of VadniesHael) moved wrongly! 2.0431033875065623
+[00:55:56] [Server thread/WARN]: Żar-ptak (vehicle of VadniesHael) moved wrongly! 2.384530355278912
+[00:55:56] [Server thread/WARN]: Żar-ptak (vehicle of VadniesHael) moved wrongly! 2.7135396637759186
+[00:56:39] [Server thread/INFO]: VadniesHael was blown up by Night Lich
+[00:56:39] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.redstone_16.08.2025-00.56.39.dat
+[00:56:41] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[00:57:05] [Server thread/WARN]: VadniesHael moved wrongly!
+[00:58:15] [Server thread/INFO]: VadniesHael was slain by Phantom
+[00:58:16] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[00:58:28] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to -7569.500000, 67.500000, -3264.500000]
+[00:58:50] [Server thread/INFO]: VadniesHael was slain by Revenant
+[00:58:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2165ms or 43 ticks behind
+[00:58:53] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[00:58:59] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to -7433.500000, 63.500000, -3207.500000]
+[01:01:42] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to -7531.500000, 63.500000, -3295.500000]
+[01:01:57] [Server thread/INFO]: Taza_free was blown up by Night Lich
+[01:01:57] [Server thread/INFO]: Created new backpack backup file for Taza_free with unique ID travelersbackpack.ocelot_16.08.2025-01.01.57.dat
+[01:01:59] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[01:02:05] [Server thread/INFO]: Taza_free claimed a grave belonging to Taza_free at -7595, 63, -3341, minecraft:overworld
+[01:02:19] [Server thread/INFO]: [VadniesHael: Set own game mode to Spectator Mode]

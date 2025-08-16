@@ -597,6 +597,7 @@
       "minecraft:piglin_brute": "2025-08-13 01:07:39 +0000",
       "minecraft:creeper": "2025-08-14 04:19:48 +0000",
       "minecraft:evoker": "2025-08-12 21:50:45 +0000",
+      "minecraft:phantom": "2025-08-16 00:49:21 +0000",
       "minecraft:witch": "2025-08-12 21:49:44 +0000",
       "minecraft:husk": "2025-08-10 17:38:05 +0000",
       "minecraft:cave_spider": "2025-08-14 04:43:06 +0000",
@@ -17945,6 +17946,30 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/goat_gear_chestplate": {
+    "criteria": {
+      "has_leather_chestplate": "2025-08-16 00:53:43 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/warrior": {
+    "criteria": {
+      "has_item": "2025-08-16 00:53:43 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/climbing_gear_chestplate": {
+    "criteria": {
+      "has_leather_chestplate": "2025-08-16 00:53:43 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-08-16 00:49:21 +0000"
+    },
+    "done": false
+  },
   "betterend:recipes/misc/enchanted_membrane": {
     "criteria": {
       "has_item.minecraft.phantom_membrane": "2025-08-16 00:34:56 +0000"
@@ -17957,6 +17982,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/squid_armor_chestplate": {
+    "criteria": {
+      "has_leather_chestplate": "2025-08-16 00:53:43 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/phantom_trophy": {
     "criteria": {
       "has_phantom_trophy": "2025-08-16 00:34:56 +0000"
@@ -17966,6 +17997,12 @@
   "mcda:recipes/upgrade_cores/upgrade_core_frost": {
     "criteria": {
       "has_core_specification_item": "2025-08-16 00:31:53 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/scale_mail_chestplate": {
+    "criteria": {
+      "has_leather_chestplate": "2025-08-16 00:53:43 +0000"
     },
     "done": true
   },

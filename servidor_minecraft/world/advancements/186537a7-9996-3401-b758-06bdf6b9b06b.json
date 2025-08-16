@@ -19343,6 +19343,36 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/goat_gear_boots": {
+    "criteria": {
+      "has_leather_boots": "2025-08-16 00:53:38 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/campfire_molasses": {
+    "criteria": {
+      "has_sugar_cane": "2025-08-16 00:51:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-08-16 00:51:47 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/archers_boots": {
+    "criteria": {
+      "has_leather_boots": "2025-08-16 00:53:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-08-16 00:51:47 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/steel_plate": {
     "criteria": {
       "has_tag_c_steel_ingots": "2025-08-16 00:27:53 +0000"
@@ -19352,6 +19382,12 @@
   "techreborn:recipes/grinder/aluminum_dust": {
     "criteria": {
       "has_tag_c_aluminum_ingots": "2025-08-16 00:27:46 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-08-16 00:51:47 +0000"
     },
     "done": true
   },
@@ -19379,15 +19415,33 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/molasses_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-08-16 00:51:47 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/vacuum_freezer/packed_ice": {
     "criteria": {
       "has_ice": "2025-08-16 00:44:19 +0000"
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/warrior": {
+    "criteria": {
+      "has_item": "2025-08-16 00:53:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2025-08-16 00:45:27 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/molasses_from_smoking_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-08-16 00:51:47 +0000"
     },
     "done": true
   },
@@ -19400,6 +19454,12 @@
   "techreborn:recipes/misc/crafting_table/armor/steel_helmet": {
     "criteria": {
       "has_steel_ingot": "2025-08-16 00:27:53 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/scale_mail_boots": {
+    "criteria": {
+      "has_leather_boots": "2025-08-16 00:53:38 +0000"
     },
     "done": true
   },
@@ -19418,6 +19478,12 @@
   "techreborn:recipes/misc/crafting_table/storage_block/aluminum_storage_block": {
     "criteria": {
       "has_aluminum_ingot": "2025-08-16 00:27:46 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/plantball_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-08-16 00:51:47 +0000"
     },
     "done": true
   },
@@ -19490,6 +19556,12 @@
   "techreborn:recipes/misc/crafting_table/armor/steel_chestplate": {
     "criteria": {
       "has_steel_ingot": "2025-08-16 00:27:53 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/climbing_gear_boots": {
+    "criteria": {
+      "has_leather_boots": "2025-08-16 00:53:38 +0000"
     },
     "done": true
   },
