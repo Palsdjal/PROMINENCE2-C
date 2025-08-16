@@ -2586,3 +2586,114 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 [06:15:01] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
 [06:15:11] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to Taza_free]
 [06:15:11] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[06:15:22] [Server thread/INFO]: VadniesHael claimed a grave belonging to VadniesHael at 149, 17, 184, minecraft:the_nether
+[06:16:02] [Server thread/INFO]: Taza_free was slain by Nether Gauntlet
+[06:16:02] [Server thread/INFO]: Created new backpack backup file for Taza_free with unique ID travelersbackpack.ocelot_16.08.2025-06.16.02.dat
+[06:16:03] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[06:16:13] [Server thread/INFO]: VadniesHael has made the advancement [Through the Gauntlet]
+[06:16:13] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
+[06:16:13] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
+[06:16:38] [Netty Epoll Server IO #2/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.network.LegacyQueryHandler.channelRead(LegacyQueryHandler.java:95) ~[server-intermediary.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.network.NetworkState$PacketHandler.createPacket(NetworkState.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.network.NetworkState.getPacketHandler(NetworkState.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.network.DecoderHandler.redirect$cog000$connectivity$checkDecodingError(DecoderHandler.java:570) ~[server-intermediary.jar:?]
+	at net.minecraft.network.DecoderHandler.decode(DecoderHandler.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 29 more
+[06:17:07] [Server thread/INFO]: [VadniesHael: Teleported Taza_free to VadniesHael]
+[06:17:07] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[06:17:12] [Server thread/INFO]: Taza_free claimed a grave belonging to Taza_free at 146, 16, 188, minecraft:the_nether
+[06:17:37] [Server thread/INFO]: VadniesHael has made the advancement [Hidden in the Depths]
+[06:19:18] [Server thread/INFO]: VadniesHael lost connection: Disconnected
+[06:19:18] [Server thread/INFO]: VadniesHael left the game
+[06:19:18] [Server thread/INFO]: remove player wand
+[06:19:18] [Server thread/INFO]: Updating all forceload tickets for e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95
+[06:19:26] [Server thread/INFO]: [Handshake] Sending channel query
+[06:19:26] [Netty Epoll Server IO #7/INFO]: [Handshake] Receiving client channels
+[06:19:26] [Netty Epoll Server IO #7/INFO]: [Handshake] Handshake completed successfully
+[06:19:26] [Server thread/INFO]: VadniesHael[/127.146.157.221:46949] logged in with entity id 43241 at (148.35909161462402, 16.0, 179.32714565213323)
+[06:19:26] [Server thread/INFO]: Sending server config values to client
+[06:19:26] [Server thread/INFO]: Syncing config to VadniesHael (e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95)
+[06:19:26] [Server thread/INFO]: Loading config from file...
+[06:19:27] [Server thread/INFO]: [STDOUT]: Splitting recipes into 10 packets
+[06:19:27] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[06:19:27] [Server thread/INFO]: VadniesHael joined the game
+[06:19:27] [Server thread/INFO]: Loading Configs for Sortilege
+[06:19:27] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[06:19:27] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[06:19:27] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[06:19:27] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[06:19:27] [Server thread/INFO]: PLAYER_JOIN
+[06:19:27] [Server thread/INFO]: add_player wand
+[06:19:27] [Server thread/INFO]: config sent
+[06:19:27] [Server thread/INFO]: Updating all forceload tickets for e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95
+[06:19:29] [Netty Epoll Server IO #7/INFO]: Receiving client config
+[06:19:30] [Netty Epoll Server IO #7/INFO]: Channel update: VadniesHael -> default
+[06:19:30] [Netty Epoll Server IO #7/INFO]: Priority overwritten for player VadniesHael. Claiming: GRAVE / Robbing: INVENTORY
+[06:19:38] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[06:20:17] [Server thread/INFO]: VadniesHael lost connection: Disconnected
+[06:20:17] [Server thread/INFO]: VadniesHael left the game
+[06:20:17] [Server thread/INFO]: remove player wand
+[06:20:17] [Server thread/INFO]: Updating all forceload tickets for e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95
+[06:24:14] [Server thread/INFO]: [Handshake] Sending channel query
+[06:24:14] [Netty Epoll Server IO #2/INFO]: [Handshake] Receiving client channels
+[06:24:14] [Netty Epoll Server IO #2/INFO]: [Handshake] Handshake completed successfully
+[06:24:14] [Server thread/INFO]: VadniesHael[/127.146.157.221:42117] logged in with entity id 45467 at (148.35909161462402, 16.0, 179.32714565213323)
+[06:24:14] [Server thread/INFO]: Sending server config values to client
+[06:24:14] [Server thread/INFO]: Syncing config to VadniesHael (e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95)
+[06:24:15] [Server thread/INFO]: Loading config from file...
+[06:24:15] [Server thread/INFO]: [STDOUT]: Splitting recipes into 10 packets
+[06:24:15] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[06:24:15] [Server thread/INFO]: VadniesHael joined the game
+[06:24:15] [Server thread/INFO]: Loading Configs for Sortilege
+[06:24:15] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[06:24:15] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[06:24:15] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[06:24:15] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[06:24:15] [Server thread/INFO]: PLAYER_JOIN
+[06:24:15] [Server thread/INFO]: add_player wand
+[06:24:15] [Server thread/INFO]: config sent
+[06:24:15] [Server thread/INFO]: Updating all forceload tickets for e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95
+[06:24:16] [Netty Epoll Server IO #2/INFO]: Receiving client config
+[06:24:20] [Netty Epoll Server IO #2/INFO]: Channel update: VadniesHael -> default
+[06:24:20] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player VadniesHael. Claiming: GRAVE / Robbing: INVENTORY
+[06:24:22] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[06:25:31] [Server thread/INFO]: [VadniesHael: Teleported Taza_free to VadniesHael]

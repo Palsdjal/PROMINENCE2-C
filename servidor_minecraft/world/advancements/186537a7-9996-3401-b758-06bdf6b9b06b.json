@@ -21474,5 +21474,35 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:recipes/levitation_block": {
+    "criteria": {
+      "has_blazing_eye": "2025-08-16 06:17:23 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/blast_amplifier": {
+    "criteria": {
+      "has_blazing_eye": "2025-08-16 06:17:23 +0000"
+    },
+    "done": true
+  },
+  "mythicupgrades:recipes/food/sapphire_potion": {
+    "criteria": {
+      "has_sapphire_crystal_shard": "2025-08-16 06:24:16 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/small_dust/pyrite_small_dust_from_dust": {
+    "criteria": {
+      "has_pyrite_dust": "2025-08-16 06:21:13 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_electrolyzer/pyrite_dust": {
+    "criteria": {
+      "has_pyrite_dust": "2025-08-16 06:21:13 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
