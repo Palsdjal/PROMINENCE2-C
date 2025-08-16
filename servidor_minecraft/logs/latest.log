@@ -2354,3 +2354,5 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
 [04:52:40] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to 166.500000, 22.000000, 174.500000]
+[05:00:46] [Server thread/INFO]: [VadniesHael: Set own game mode to Creative Mode]
+[05:02:22] [Server thread/INFO]: [VadniesHael: Set own game mode to Survival Mode]
