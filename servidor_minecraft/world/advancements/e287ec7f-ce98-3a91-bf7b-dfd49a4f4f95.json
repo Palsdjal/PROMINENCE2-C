@@ -17947,6 +17947,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-08-16 02:35:54 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-08-16 02:22:01 +0000"
@@ -17974,6 +17980,12 @@
   "stoneworks:recipes/building_blocks/sandstone_tiles_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-08-16 02:22:01 +0000"
+    },
+    "done": true
+  },
+  "netherdepthsupgrade:main/root": {
+    "criteria": {
+      "entered_nether": "2025-08-16 02:35:54 +0000"
     },
     "done": true
   },
@@ -18211,6 +18223,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-08-16 02:35:54 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/vacuum_freezer/packed_ice": {
     "criteria": {
       "has_ice": "2025-08-16 01:46:51 +0000"
@@ -18319,6 +18337,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-08-16 02:35:54 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/sandstone": {
     "criteria": {
       "has_sandstone": "2025-08-16 02:22:01 +0000"
@@ -18394,6 +18418,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2025-08-16 02:22:01 +0000"
+    },
+    "done": true
+  },
+  "betternether:enter_nether": {
+    "criteria": {
+      "entered_nether": "2025-08-16 02:35:54 +0000"
     },
     "done": true
   },
