@@ -2210,3 +2210,23 @@ BCLib - Nether BiomeSource (711c0119)
 [03:36:05] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to Taza_free]
 [03:36:31] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to Taza_free]
 [03:36:55] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[03:37:35] [Server thread/INFO]: Taza_free has made the advancement [A Terrible Fortress]
+[03:38:50] [Server thread/INFO]: Taza_free has made the advancement [Into Fire]
+[03:40:36] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[03:40:37] [Server thread/INFO]: VadniesHael has made the advancement [A Terrible Fortress]
+[03:42:29] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[03:44:00] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[03:44:03] [Server thread/INFO]: VadniesHael burned to death
+[03:44:03] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.redstone_16.08.2025-03.44.03.dat
+[03:44:05] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[03:44:11] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[03:44:11] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[03:44:16] [Server thread/INFO]: VadniesHael claimed a grave belonging to VadniesHael at 106, 63, 102, minecraft:the_nether
+[03:45:56] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[03:46:23] [Server thread/WARN]: Couldn't set damage of loot item 1 golden_horse_armor
+[03:46:28] [Server thread/INFO]: VadniesHael was slain by Wither Skeleton
+[03:46:28] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.redstone_16.08.2025-03.46.28.dat
+[03:46:30] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[03:46:34] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[03:46:34] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[03:46:51] [Server thread/INFO]: VadniesHael claimed a grave belonging to VadniesHael at 110, 89, 111, minecraft:the_nether
