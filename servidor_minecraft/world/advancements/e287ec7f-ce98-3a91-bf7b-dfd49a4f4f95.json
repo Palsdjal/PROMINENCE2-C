@@ -17953,6 +17953,24 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/phantom_armor_leggings": {
+    "criteria": {
+      "has_phantom_skin": "2025-08-16 02:01:17 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/phantom_armor_helmet": {
+    "criteria": {
+      "has_phantom_bones": "2025-08-16 02:01:17 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/phantom_armor_boots": {
+    "criteria": {
+      "has_phantom_skin": "2025-08-16 02:01:17 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/silver_ingot_from_helmet": {
     "criteria": {
       "has_silver_helmet": "2025-08-16 01:51:07 +0000"
@@ -17977,6 +17995,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/phantom_armor_chestplate": {
+    "criteria": {
+      "has_phantom_bones": "2025-08-16 02:01:17 +0000"
+    },
+    "done": true
+  },
   "bosses_of_mass_destruction:recipes/charged_ender_pearl": {
     "criteria": {
       "has_ancient_anima": "2025-08-16 01:29:15 +0000"
@@ -17998,6 +18022,12 @@
   "mcda:recipes/base_armors/climbing_gear_chestplate": {
     "criteria": {
       "has_leather_chestplate": "2025-08-16 00:53:43 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/phantom_bones_to_bonemeal": {
+    "criteria": {
+      "has_phantom_bones": "2025-08-16 02:01:17 +0000"
     },
     "done": true
   },
