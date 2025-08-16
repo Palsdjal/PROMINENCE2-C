@@ -2294,3 +2294,10 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 [00:27:37] [Server thread/INFO]: Taza_free has made the advancement [Exploration]
 [00:29:11] [Worker-Main-3/WARN]: Ignoring unknown attribute 'obscure_api:magic_damage'
 [00:30:54] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=-7983, y=0, z=-3420}
+[00:33:39] [Server thread/INFO]: [VadniesHael: Set own game mode to Survival Mode]
+[00:35:06] [Server thread/INFO]: VadniesHael was slain by Skeleton
+[00:35:06] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.redstone_16.08.2025-00.35.06.dat
+[00:35:07] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[00:35:48] [Server thread/INFO]: VadniesHael claimed a grave belonging to VadniesHael at -7601, 65, -3196, minecraft:overworld
+[00:37:13] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[00:40:25] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to Taza_free]
