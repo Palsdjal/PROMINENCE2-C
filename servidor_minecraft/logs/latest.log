@@ -2358,3 +2358,9 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 [05:02:22] [Server thread/INFO]: [VadniesHael: Set own game mode to Survival Mode]
 [05:06:26] [Server thread/INFO]: [VadniesHael: Set Taza_free's game mode to Survival Mode]
 [05:08:18] [Server thread/INFO]: [VadniesHael: Set Taza_free's game mode to Creative Mode]
+[05:24:27] [Server thread/INFO]: VadniesHael tried to swim in lava
+[05:24:27] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.redstone_16.08.2025-05.24.27.dat
+[05:24:28] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[05:24:32] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[05:24:32] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[05:24:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2139ms or 42 ticks behind
