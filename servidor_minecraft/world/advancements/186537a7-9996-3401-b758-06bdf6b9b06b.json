@@ -19337,6 +19337,30 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/crimson_boat": {
+    "criteria": {
+      "has_crimson_planks": "2025-08-16 01:49:20 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_side_table": {
+    "criteria": {
+      "has_crimson_side_table": "2025-08-16 01:49:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-08-16 01:48:00 +0000"
+    },
+    "done": false
+  },
+  "stoneworks:recipes/building_blocks/cracked_netherrack_bricks_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-08-16 01:48:56 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/grinder/steel_dust": {
     "criteria": {
       "has_tag_c_steel_ingots": "2025-08-16 00:27:53 +0000"
@@ -19346,6 +19370,72 @@
   "mcda:recipes/base_armors/goat_gear_boots": {
     "criteria": {
       "has_leather_boots": "2025-08-16 00:53:38 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/netherrack_brick_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-08-16 01:48:56 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_crimson": {
+    "criteria": {
+      "has_item": "2025-08-16 01:49:20 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_fire_bowl": {
+    "criteria": {
+      "has_netherrack": "2025-08-16 01:48:56 +0000"
+    },
+    "done": true
+  },
+  "netherdepthsupgrade:main/root": {
+    "criteria": {
+      "entered_nether": "2025-08-16 01:47:54 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_corner_trim": {
+    "criteria": {
+      "has_crimson_corner_trim": "2025-08-16 01:49:20 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_cupboard": {
+    "criteria": {
+      "has_crimson_cupboard": "2025-08-16 01:49:20 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/living_vines_armor_boots": {
+    "criteria": {
+      "has_weeping_vines": "2025-08-16 01:48:12 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_blaze": {
+    "criteria": {
+      "has_item": "2025-08-16 01:49:10 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_dining_bench": {
+    "criteria": {
+      "has_crimson_dining_bench": "2025-08-16 01:49:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2025-08-16 01:49:20 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_netherrack_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-08-16 01:48:56 +0000"
     },
     "done": true
   },
@@ -19361,6 +19451,24 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/nether_quartz_axe": {
+    "criteria": {
+      "has_nether_quartz": "2025-08-16 01:49:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-08-16 01:49:10 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_netherrack_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-08-16 01:48:56 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/unique_armors/archers_boots": {
     "criteria": {
       "has_leather_boots": "2025-08-16 00:53:38 +0000"
@@ -19373,9 +19481,51 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/netherrack_with_water": {
+    "criteria": {
+      "has_netherrack": "2025-08-16 01:48:56 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/steel_plate": {
     "criteria": {
       "has_tag_c_steel_ingots": "2025-08-16 00:27:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-08-16 01:48:12 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/crimson_chest": {
+    "criteria": {
+      "has_crimson_planks": "2025-08-16 01:49:20 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_nightstand": {
+    "criteria": {
+      "has_crimson_nightstand": "2025-08-16 01:49:20 +0000"
+    },
+    "done": true
+  },
+  "quartzelv:recipes/building_blocks/quartz_elevator": {
+    "criteria": {
+      "has_quartz": "2025-08-16 01:49:10 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-08-16 01:48:56 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/living_vines_armor_leggings": {
+    "criteria": {
+      "has_weeping_vines": "2025-08-16 01:48:12 +0000"
     },
     "done": true
   },
@@ -19391,9 +19541,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-08-16 01:48:12 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_couch": {
+    "criteria": {
+      "has_crimson_couch": "2025-08-16 01:49:20 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_pillar_trim": {
+    "criteria": {
+      "has_crimson_pillar_trim": "2025-08-16 01:49:20 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_bricks_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-08-16 01:48:56 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/grinder/aluminum_dust": {
     "criteria": {
       "has_tag_c_aluminum_ingots": "2025-08-16 00:27:46 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/living_vines_armor_chestplate": {
+    "criteria": {
+      "has_weeping_vines": "2025-08-16 01:48:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-08-16 01:49:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-08-16 01:49:10 +0000"
     },
     "done": true
   },
@@ -19409,9 +19601,69 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/living_vines_armor_helmet": {
+    "criteria": {
+      "has_weeping_vines": "2025-08-16 01:48:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_netherrack_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-08-16 01:48:56 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-08-16 01:48:56 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_pickaxe": {
+    "criteria": {
+      "has_nether_quartz": "2025-08-16 01:49:10 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/crimson_support": {
+    "criteria": {
+      "has_plank": "2025-08-16 01:49:20 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_fancy_bed": {
+    "criteria": {
+      "has_crimson_fancy_bed": "2025-08-16 01:49:20 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_counter": {
+    "criteria": {
+      "has_crimson_counter": "2025-08-16 01:49:20 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/decorated_blackstone_bricks/weeping_polished_blackstone_bricks": {
+    "criteria": {
+      "has_item": "2025-08-16 01:48:12 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_drawer": {
+    "criteria": {
+      "has_crimson_drawer": "2025-08-16 01:49:20 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/parts/diamond_grinding_head": {
     "criteria": {
       "has_steel_ingot": "2025-08-16 00:27:53 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-08-16 01:48:56 +0000"
     },
     "done": true
   },
@@ -19421,9 +19673,57 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-08-16 01:48:56 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_shelf": {
+    "criteria": {
+      "has_crimson_shelf": "2025-08-16 01:49:20 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_wrench": {
+    "criteria": {
+      "has_nether_quartz": "2025-08-16 01:49:10 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-08-16 01:48:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-16 01:49:20 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/aluminum_plate": {
     "criteria": {
       "has_tag_c_aluminum_ingots": "2025-08-16 00:27:46 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/crimson_table": {
+    "criteria": {
+      "has_bamboo": "2025-08-16 01:49:20 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-08-16 01:48:56 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_chair": {
+    "criteria": {
+      "has_crimson_chair": "2025-08-16 01:49:20 +0000"
     },
     "done": true
   },
@@ -19433,9 +19733,21 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-08-16 01:47:54 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/vacuum_freezer/packed_ice": {
     "criteria": {
       "has_ice": "2025-08-16 00:44:19 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bloodstone/bloodstone": {
+    "criteria": {
+      "has_item": "2025-08-16 01:49:10 +0000"
     },
     "done": true
   },
@@ -19457,9 +19769,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-16 01:49:20 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/armor/steel_boots": {
     "criteria": {
       "has_steel_ingot": "2025-08-16 00:27:53 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/gemstone_white": {
+    "criteria": {
+      "has_quartz": "2025-08-16 01:49:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crimson_window": {
+    "criteria": {
+      "has_ingredient": "2025-08-16 01:49:20 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-08-16 01:48:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-08-16 01:49:10 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/netherrack_brick_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-08-16 01:48:56 +0000"
     },
     "done": true
   },
@@ -19469,9 +19817,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-08-16 01:48:56 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/scale_mail_boots": {
     "criteria": {
       "has_leather_boots": "2025-08-16 00:53:38 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/netherrack_brick_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-08-16 01:48:56 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-08-16 01:48:56 +0000"
     },
     "done": true
   },
@@ -19481,9 +19847,51 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-08-16 01:47:54 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/crimson_palisade": {
+    "criteria": {
+      "has_log": "2025-08-16 01:48:12 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_cutting_knife": {
+    "criteria": {
+      "has_nether_quartz": "2025-08-16 01:49:10 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/snow": {
     "criteria": {
       "has_snowball": "2025-08-16 00:45:27 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_table": {
+    "criteria": {
+      "has_crimson_table": "2025-08-16 01:49:20 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_desk": {
+    "criteria": {
+      "has_crimson_desk": "2025-08-16 01:49:20 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/crimson_crafting_table": {
+    "criteria": {
+      "has_crimson_planks": "2025-08-16 01:49:20 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_spade": {
+    "criteria": {
+      "has_nether_quartz": "2025-08-16 01:49:10 +0000"
     },
     "done": true
   },
@@ -19502,6 +19910,12 @@
   "aquamirae:recipes/sea_stew": {
     "criteria": {
       "has_item": "2025-08-16 00:26:44 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/quartz_glass_smelting": {
+    "criteria": {
+      "has_item.minecraft.quartz": "2025-08-16 01:49:10 +0000"
     },
     "done": true
   },
@@ -19535,6 +19949,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/crimson_seat": {
+    "criteria": {
+      "has_plank": "2025-08-16 01:49:20 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/spruce_shrub": {
     "criteria": {
       "has_spruce_sapling": "2025-08-16 00:37:34 +0000"
@@ -19547,9 +19967,57 @@
     },
     "done": true
   },
+  "botania:recipes/misc/quartz_lavender": {
+    "criteria": {
+      "has_item": "2025-08-16 01:49:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2025-08-16 00:45:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2025-08-16 01:49:20 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_weeping_vine_bow": {
+    "criteria": {
+      "has_weeping_vines": "2025-08-16 01:48:12 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/paper_lanterns/crimson_roots_paper_lantern": {
+    "criteria": {
+      "has_item": "2025-08-16 01:49:14 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/bn_red_mushroom": {
+    "criteria": {
+      "has_wall_mushroom_red": "2025-08-16 01:48:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2025-08-16 01:49:20 +0000"
+    },
+    "done": true
+  },
+  "betternether:nether_wood": {
+    "criteria": {
+      "got_crimson": "2025-08-16 01:48:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-08-16 01:49:10 +0000"
     },
     "done": true
   },
@@ -19565,9 +20033,45 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/crimson_barrel": {
+    "criteria": {
+      "has_crimson_planks": "2025-08-16 01:49:20 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_netherrack_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-08-16 01:48:56 +0000"
+    },
+    "done": true
+  },
+  "betternether:enter_nether": {
+    "criteria": {
+      "entered_nether": "2025-08-16 01:47:54 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/armor/steel_chestplate": {
     "criteria": {
       "has_steel_ingot": "2025-08-16 00:27:53 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/quartz": {
+    "criteria": {
+      "has_quartz": "2025-08-16 01:49:10 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/netherrack_furnace": {
+    "criteria": {
+      "has_netherrack": "2025-08-16 01:48:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2025-08-16 01:49:20 +0000"
     },
     "done": true
   },
@@ -19577,15 +20081,93 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-08-16 01:48:56 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-08-16 01:48:56 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_hoe": {
+    "criteria": {
+      "has_nether_quartz": "2025-08-16 01:49:10 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_dark": {
+    "criteria": {
+      "has_item": "2025-08-16 01:49:10 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/phantom_trophy": {
     "criteria": {
       "has_phantom_trophy": "2025-08-16 00:34:51 +0000"
     },
     "done": true
   },
+  "betternether:recipes/decorations/bricks_fire_bowl": {
+    "criteria": {
+      "has_netherrack": "2025-08-16 01:48:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2025-08-16 01:49:20 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_red": {
+    "criteria": {
+      "has_item": "2025-08-16 01:49:10 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_sunny": {
+    "criteria": {
+      "has_item": "2025-08-16 01:49:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-16 01:49:20 +0000"
+    },
+    "done": true
+  },
   "bosses_of_mass_destruction:adventure/night_lich_defeat": {
     "criteria": {
       "bosses_of_mass_destruction:lich": "2025-08-16 01:28:09 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_sword": {
+    "criteria": {
+      "has_nether_quartz": "2025-08-16 01:49:10 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/schist/schist": {
+    "criteria": {
+      "has_item": "2025-08-16 01:49:10 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite": {
+    "criteria": {
+      "has_item": "2025-08-16 01:49:10 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherrack": "2025-08-16 01:48:56 +0000"
     },
     "done": true
   },
@@ -19598,6 +20180,36 @@
   "minecraft:recipes/building_blocks/packed_ice": {
     "criteria": {
       "has_ice": "2025-08-16 00:44:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-08-16 01:49:10 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_bench": {
+    "criteria": {
+      "has_crimson_bench": "2025-08-16 01:49:20 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-08-16 01:48:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-16 01:49:20 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/netherrack_bricks_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-08-16 01:48:56 +0000"
     },
     "done": true
   },

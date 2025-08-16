@@ -2576,3 +2576,41 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 [01:40:02] [Server thread/INFO]: Named entity class_1646['Malcolm'/67003, l='ServerLevel[world]', x=1732.58, y=105.00, z=1935.46] died: Malcolm was slain by Zombie
 [01:41:00] [Server thread/WARN]: VadniesHael moved wrongly!
 [01:43:35] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to -7319.500000, 63.500000, -3200.500000]
+[01:43:47] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-7141, y=32, z=-3374}
+[01:43:48] [Server thread/INFO]: [VadniesHael: Set own game mode to Creative Mode]
+[01:44:32] [Server thread/WARN]: Taza_free moved wrongly!
+[01:44:36] [Server thread/WARN]: Taza_free moved wrongly!
+[01:44:37] [Server thread/WARN]: Taza_free moved wrongly!
+[01:44:38] [Server thread/WARN]: Taza_free moved wrongly!
+[01:44:39] [Server thread/WARN]: Taza_free moved wrongly!
+[01:44:39] [Server thread/WARN]: Taza_free moved wrongly!
+[01:44:40] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to 1214.500000, -29.500000, 2001.500000]
+[01:45:06] [Server thread/INFO]: Locating element bosses_of_mass_destruction:lich_tower took 4 ms
+[01:45:09] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to -3071.500000, -40.000000, 384.500000]
+[01:45:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6981ms or 139 ticks behind
+[01:45:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2467ms or 49 ticks behind
+[01:45:42] [Server thread/WARN]: Taza_free moved wrongly!
+[01:45:43] [Server thread/WARN]: Taza_free moved wrongly!
+[01:45:45] [Server thread/WARN]: Taza_free moved wrongly!
+[01:46:16] [Server thread/WARN]: Taza_free moved wrongly!
+[01:46:18] [Server thread/WARN]: Taza_free moved wrongly!
+[01:47:42] [Server thread/INFO]: [VadniesHael: Set own game mode to Spectator Mode]
+[01:47:47] [Server thread/INFO]: [VadniesHael: Set own game mode to Survival Mode]
+[01:47:49] [Server thread/INFO]: No return portal found
+[01:47:49] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[01:47:50] [Worker-Main-1/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[01:47:51] [Worker-Main-3/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseOreBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[01:47:51] [Worker-Main-3/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseOreBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[01:47:52] [Worker-Main-3/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseOreBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[01:47:52] [Worker-Main-1/WARN]: Lithium Class Analysis Error: Class org.betterx.betternether.blocks.RedstoneOreBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[01:47:54] [Server thread/INFO]: Taza_free has made the advancement [Time for a Sweat]
+[01:47:54] [Server thread/INFO]: Taza_free has made the advancement [We Need to Go Deeper]
+[01:47:54] [Server thread/INFO]: Taza_free has made the advancement [Nether Depths Upgrade]
+[01:47:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10450ms or 209 ticks behind
+[01:48:01] [Server thread/INFO]: [VadniesHael: Set own game mode to Creative Mode]
+[01:48:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[01:48:43] [Server thread/INFO]: [VadniesHael: Set own game mode to Survival Mode]
+[01:48:49] [Worker-Main-3/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/74776, l='ServerLevel[world]', x=388.00, y=31.00, z=239.00] as it would cause deadlock
+[01:48:49] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/74782, l='ServerLevel[world]', x=388.00, y=31.00, z=239.00] as it would cause deadlock
+[01:48:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2128ms or 42 ticks behind
+[01:50:52] [Server thread/INFO]: [VadniesHael: Set own game mode to Creative Mode]

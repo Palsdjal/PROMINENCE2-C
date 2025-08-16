@@ -17977,6 +17977,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/vacuum_freezer/packed_ice": {
+    "criteria": {
+      "has_ice": "2025-08-16 01:46:51 +0000"
+    },
+    "done": true
+  },
   "immersive_armors:recipes/misc/warrior": {
     "criteria": {
       "has_item": "2025-08-16 00:53:43 +0000"
@@ -18013,9 +18019,21 @@
     },
     "done": true
   },
+  "frostiful:recipes/decorations/ice_pane": {
+    "criteria": {
+      "has_ice": "2025-08-16 01:46:51 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/phantom_trophy": {
     "criteria": {
       "has_phantom_trophy": "2025-08-16 00:34:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2025-08-16 01:46:51 +0000"
     },
     "done": true
   },
