@@ -2691,3 +2691,73 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 [02:10:14] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.redstone_16.08.2025-02.10.14.dat
 [02:10:16] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
 [02:10:22] [Server thread/INFO]: VadniesHael claimed a grave belonging to VadniesHael at -3140, 63, 307, minecraft:overworld
+[02:14:38] [Server thread/INFO]: VadniesHael was slain by Phantom
+[02:14:38] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.redstone_16.08.2025-02.14.38.dat
+[02:14:40] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[02:14:51] [Server thread/INFO]: VadniesHael claimed a grave belonging to VadniesHael at -3128, 64, 300, minecraft:overworld
+[02:14:56] [Server thread/INFO]: Taza_free was pummeled by Night Lich
+[02:14:56] [Server thread/INFO]: Created new backpack backup file for Taza_free with unique ID travelersbackpack.ocelot_16.08.2025-02.14.56.dat
+[02:14:58] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[02:15:00] [Server thread/INFO]: Taza_free claimed a grave belonging to Taza_free at -3151, 62, 305, minecraft:overworld
+[02:15:58] [Server thread/INFO]: Taza_free was slain by Phantom
+[02:15:58] [Server thread/INFO]: Created new backpack backup file for Taza_free with unique ID travelersbackpack.ocelot_16.08.2025-02.15.58.dat
+[02:15:59] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[02:16:02] [Server thread/INFO]: Taza_free claimed a grave belonging to Taza_free at -3154, 63, 316, minecraft:overworld
+[02:16:03] [Server thread/INFO]: Taza_free was slain by Phantom
+[02:16:03] [Server thread/INFO]: Created new backpack backup file for Taza_free with unique ID travelersbackpack.ocelot_16.08.2025-02.16.03.dat
+[02:16:05] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[02:16:15] [Server thread/INFO]: Taza_free claimed a grave belonging to Taza_free at -3150, 64, 317, minecraft:overworld
+[02:17:13] [Server thread/INFO]: VadniesHael was slain by Phantom
+[02:17:13] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.redstone_16.08.2025-02.17.13.dat
+[02:17:15] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[02:17:26] [Server thread/INFO]: VadniesHael was slain by Phantom
+[02:17:27] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[02:17:32] [Server thread/INFO]: VadniesHael claimed a grave belonging to VadniesHael at -3172, 63, 333, minecraft:overworld
+[02:19:02] [Server thread/INFO]: VadniesHael was blown up by Night Lich
+[02:19:02] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.redstone_16.08.2025-02.19.02.dat
+[02:19:03] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[02:19:29] [Server thread/INFO]: VadniesHael claimed a grave belonging to VadniesHael at -3139, 63, 261, minecraft:overworld
+[02:19:52] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[02:21:15] [Server thread/INFO]: VadniesHael was blown up by Night Lich
+[02:21:15] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.redstone_16.08.2025-02.21.15.dat
+[02:21:16] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[02:21:22] [Server thread/INFO]: VadniesHael claimed a grave belonging to VadniesHael at -3145, 63, 333, minecraft:overworld
+[02:21:52] [Server thread/INFO]: VadniesHael was slain by Phantom
+[02:21:52] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.redstone_16.08.2025-02.21.52.dat
+[02:21:53] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[02:22:07] [Server thread/INFO]: VadniesHael claimed a grave belonging to VadniesHael at -3140, 62, 347, minecraft:overworld
+[02:22:31] [Server thread/INFO]: Taza_free was slain by Phantom
+[02:22:31] [Server thread/INFO]: Created new backpack backup file for Taza_free with unique ID travelersbackpack.ocelot_16.08.2025-02.22.31.dat
+[02:22:33] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[02:22:43] [Server thread/INFO]: Taza_free claimed a grave belonging to Taza_free at -3170, 64, 274, minecraft:overworld
+[02:23:27] [Server thread/INFO]: VadniesHael was blown up by Night Lich
+[02:23:27] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.redstone_16.08.2025-02.23.27.dat
+[02:23:29] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[02:23:36] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to -3159.500000, 61.500000, 250.500000]
+[02:23:39] [Server thread/INFO]: VadniesHael claimed a grave belonging to VadniesHael at -3162, 63, 250, minecraft:overworld
+[02:24:07] [Server thread/INFO]: Taza_free was blown up by Night Lich
+[02:24:07] [Server thread/INFO]: Created new backpack backup file for Taza_free with unique ID travelersbackpack.ocelot_16.08.2025-02.24.07.dat
+[02:24:09] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[02:24:15] [Server thread/INFO]: Taza_free was pummeled by Night Lich
+[02:24:15] [Server thread/INFO]: Created new backpack backup file for Taza_free with unique ID travelersbackpack.ocelot_16.08.2025-02.24.15.dat
+[02:24:16] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[02:24:25] [Server thread/INFO]: Taza_free claimed a grave belonging to Taza_free at -3131, 63, 272, minecraft:overworld
+[02:24:26] [Server thread/INFO]: VadniesHael was slain by Phantom
+[02:24:26] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.redstone_16.08.2025-02.24.26.dat
+[02:24:26] [Server thread/WARN]: VadniesHael moved wrongly!
+[02:24:27] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[02:24:28] [Server thread/INFO]: Taza_free claimed a grave belonging to Taza_free at -3147, 64, 278, minecraft:overworld
+[02:24:29] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to -3119.500000, 63.500000, 269.500000]
+[02:24:31] [Server thread/INFO]: VadniesHael claimed a grave belonging to VadniesHael at -3121, 63, 268, minecraft:overworld
+[02:24:32] [Server thread/INFO]: Taza_free was slain by Phantom
+[02:24:32] [Server thread/INFO]: Created new backpack backup file for Taza_free with unique ID travelersbackpack.ocelot_16.08.2025-02.24.32.dat
+[02:24:32] [Netty Epoll Server IO #2/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[02:24:32] [Netty Epoll Server IO #2/ERROR]: Combo count: 0 is dual wielding: false
+[02:24:32] [Netty Epoll Server IO #2/ERROR]: Main-hand stack: 0 air
+[02:24:32] [Netty Epoll Server IO #2/ERROR]: Off-hand stack: 0 air
+[02:24:32] [Netty Epoll Server IO #2/ERROR]: Selected slot server: 2 | client: 2
+[02:24:34] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[02:24:42] [Server thread/INFO]: Taza_free was slain by Phantom
+[02:24:42] [Server thread/INFO]: Created new backpack backup file for Taza_free with unique ID travelersbackpack.ocelot_16.08.2025-02.24.42.dat
+[02:24:44] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[02:24:51] [Server thread/INFO]: Taza_free claimed a grave belonging to Taza_free at -3155, 64, 279, minecraft:overworld
