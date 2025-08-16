@@ -554,6 +554,7 @@
       "minecraft:jungle": "2025-08-10 22:38:27 +0000",
       "minecraft:ocean": "2025-08-10 22:39:25 +0000",
       "minecraft:snowy_beach": "2025-08-12 05:41:28 +0000",
+      "minecraft:warm_ocean": "2025-08-16 06:11:47 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-08-14 06:13:13 +0000",
       "minecraft:flower_forest": "2025-08-15 05:12:34 +0000",
       "minecraft:frozen_peaks": "2025-08-13 01:25:23 +0000",
@@ -21269,6 +21270,24 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/misc/smelt_withered_demon_heart": {
+    "criteria": {
+      "has_item": "2025-08-16 05:31:05 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/withered_chest": {
+    "criteria": {
+      "has_item": "2025-08-16 05:31:05 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:end_of_reigns": {
+    "criteria": {
+      "condition_0": "2025-08-16 05:35:45 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/glaive_of_hodir": {
     "criteria": {
       "has_item": "2025-08-16 05:36:22 +0000"
@@ -21359,12 +21378,6 @@
     },
     "done": true
   },
-  "soulsweapons:end_of_reigns": {
-    "criteria": {
-      "condition_0": "2025-08-16 05:35:45 +0000"
-    },
-    "done": true
-  },
   "soulsweapons:recipes/combat/kraken_slayer": {
     "criteria": {
       "has_item": "2025-08-16 05:36:22 +0000"
@@ -21374,12 +21387,6 @@
   "soulsweapons:recipes/combat/lich_bane": {
     "criteria": {
       "has_item": "2025-08-16 05:36:22 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/misc/smelt_withered_demon_heart": {
-    "criteria": {
-      "has_item": "2025-08-16 05:31:05 +0000"
     },
     "done": true
   },
@@ -21422,12 +21429,6 @@
   "soulsweapons:recipes/combat/excalibur": {
     "criteria": {
       "has_item": "2025-08-16 05:36:22 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/withered_chest": {
-    "criteria": {
-      "has_item": "2025-08-16 05:31:05 +0000"
     },
     "done": true
   },
