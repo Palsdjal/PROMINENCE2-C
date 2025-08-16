@@ -2479,3 +2479,84 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 [01:22:08] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to -7236.500000, 63.500000, -2974.500000]
 [01:22:10] [Server thread/INFO]: VadniesHael claimed a grave belonging to VadniesHael at -7239, 64, -2973, minecraft:overworld
 [01:22:38] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[01:23:34] [Server thread/INFO]: VadniesHael was slain by Phantom
+[01:23:34] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.redstone_16.08.2025-01.23.34.dat
+[01:23:36] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[01:23:40] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to -7382.500000, 63.500000, -3042.500000]
+[01:23:44] [Server thread/INFO]: VadniesHael claimed a grave belonging to VadniesHael at -7380, 63, -3045, minecraft:overworld
+[01:24:10] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[01:24:20] [Server thread/INFO]: VadniesHael was slain by Phantom
+[01:24:20] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.redstone_16.08.2025-01.24.20.dat
+[01:24:21] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[01:24:28] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to -7436.500000, 63.500000, -3069.500000]
+[01:24:32] [Server thread/INFO]: VadniesHael claimed a grave belonging to VadniesHael at -7438, 64, -3055, minecraft:overworld
+[01:25:42] [Server thread/INFO]: VadniesHael was slain by Phantom
+[01:25:42] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.redstone_16.08.2025-01.25.42.dat
+[01:25:43] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[01:25:48] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to -7457.500000, 63.500000, -3077.500000]
+[01:25:51] [Server thread/INFO]: VadniesHael claimed a grave belonging to VadniesHael at -7458, 63, -3074, minecraft:overworld
+[01:26:02] [Server thread/INFO]: Taza_free was blown up by Night Lich
+[01:26:02] [Server thread/INFO]: Created new backpack backup file for Taza_free with unique ID travelersbackpack.ocelot_16.08.2025-01.26.02.dat
+[01:26:05] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[01:27:03] [Netty Epoll Server IO #1/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.network.LegacyQueryHandler.channelRead(LegacyQueryHandler.java:95) ~[server-intermediary.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.network.NetworkState$PacketHandler.createPacket(NetworkState.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.network.NetworkState.getPacketHandler(NetworkState.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.network.DecoderHandler.redirect$cog000$connectivity$checkDecodingError(DecoderHandler.java:570) ~[server-intermediary.jar:?]
+	at net.minecraft.network.DecoderHandler.decode(DecoderHandler.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 29 more
+[01:27:14] [Server thread/INFO]: Taza_free claimed a grave belonging to Taza_free at -7501, 75, -3079, minecraft:overworld
+[01:27:34] [Server thread/INFO]: VadniesHael was slain by Phantom
+[01:27:34] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.redstone_16.08.2025-01.27.34.dat
+[01:27:36] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[01:27:41] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to -7457.500000, 63.500000, -3075.500000]
+[01:27:43] [Server thread/INFO]: VadniesHael claimed a grave belonging to VadniesHael at -7459, 63, -3073, minecraft:overworld
+[01:28:09] [Server thread/INFO]: Taza_free has completed the challenge [Expansion Unlock: Void's Invasion]
+[01:28:09] [Server thread/INFO]: Taza_free has completed the challenge [Night Vanquisher]
+[01:28:09] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
+[01:28:09] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
+[01:28:35] [Server thread/INFO]: VadniesHael was shot by Mutant Skeleton
+[01:28:35] [Server thread/INFO]: Created new backpack backup file for VadniesHael with unique ID travelersbackpack.redstone_16.08.2025-01.28.35.dat
+[01:28:36] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[01:28:45] [Server thread/INFO]: [VadniesHael: Set the time to 1000]
+[01:28:50] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to -7424.500000, 63.500000, -3076.500000]
+[01:28:54] [Server thread/INFO]: VadniesHael claimed a grave belonging to VadniesHael at -7425, 64, -3075, minecraft:overworld
+[01:30:26] [Server thread/INFO]: [VadniesHael: Set own game mode to Creative Mode]

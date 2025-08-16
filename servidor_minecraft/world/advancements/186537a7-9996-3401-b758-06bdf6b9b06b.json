@@ -19379,6 +19379,12 @@
     },
     "done": true
   },
+  "prominent:level_10": {
+    "criteria": {
+      "requirement": "2025-08-16 01:28:09 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/grinder/aluminum_dust": {
     "criteria": {
       "has_tag_c_aluminum_ingots": "2025-08-16 00:27:46 +0000"
@@ -19568,6 +19574,12 @@
   "handcrafted:recipes/misc/phantom_trophy": {
     "criteria": {
       "has_phantom_trophy": "2025-08-16 00:34:51 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:adventure/night_lich_defeat": {
+    "criteria": {
+      "bosses_of_mass_destruction:lich": "2025-08-16 01:28:09 +0000"
     },
     "done": true
   },
