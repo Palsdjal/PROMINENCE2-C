@@ -21158,5 +21158,17 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_leggings": {
+    "criteria": {
+      "has_golden_leggings": "2025-08-16 06:27:53 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/snout_armor_trim_smithing_template": {
+    "criteria": {
+      "has_chiseled_polished_blackstone": "2025-08-16 06:29:47 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
