@@ -17897,6 +17897,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/paper_from_written_book": {
+    "criteria": {
+      "has_written_book": "2025-08-15 16:42:12 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/yoghurt": {
     "criteria": {
       "has_strawberry": "2025-08-15 17:02:05 +0000"
@@ -17936,12 +17942,6 @@
   "frostiful:adventure/kill_frostologer": {
     "criteria": {
       "frostologer": "2025-08-15 17:15:19 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/extractor/paper_from_written_book": {
-    "criteria": {
-      "has_written_book": "2025-08-15 16:42:12 +0000"
     },
     "done": true
   },

@@ -522,6 +522,7 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-08-11 07:09:37 +0000",
       "minecraft:old_growth_pine_taiga": "2025-08-10 22:54:29 +0000",
+      "minecraft:mushroom_fields": "2025-08-16 00:20:20 +0000",
       "minecraft:taiga": "2025-08-12 03:14:16 +0000",
       "minecraft:deep_ocean": "2025-08-10 22:39:34 +0000",
       "minecraft:frozen_river": "2025-08-12 03:19:47 +0000",
@@ -549,6 +550,7 @@
       "minecraft:frozen_ocean": "2025-08-12 04:45:44 +0000",
       "minecraft:desert": "2025-08-10 20:54:38 +0000",
       "minecraft:windswept_forest": "2025-08-15 03:17:51 +0000",
+      "minecraft:deep_frozen_ocean": "2025-08-16 00:19:27 +0000",
       "minecraft:jungle": "2025-08-10 22:38:27 +0000",
       "minecraft:ocean": "2025-08-10 22:39:25 +0000",
       "minecraft:snowy_beach": "2025-08-12 05:41:28 +0000",
@@ -19332,6 +19334,126 @@
   "graveyard:graveyard/giant_mushroom": {
     "criteria": {
       "giant_mushroom": "2025-08-15 06:05:43 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/steel_dust": {
+    "criteria": {
+      "has_tag_c_steel_ingots": "2025-08-16 00:27:53 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/steel_plate": {
+    "criteria": {
+      "has_tag_c_steel_ingots": "2025-08-16 00:27:53 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/aluminum_dust": {
+    "criteria": {
+      "has_tag_c_aluminum_ingots": "2025-08-16 00:27:46 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/aluminum_nugget": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-08-16 00:27:46 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/diamond_grinding_head": {
+    "criteria": {
+      "has_steel_ingot": "2025-08-16 00:27:53 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/steel_storage_block": {
+    "criteria": {
+      "has_steel_ingot": "2025-08-16 00:27:53 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/aluminum_plate": {
+    "criteria": {
+      "has_tag_c_aluminum_ingots": "2025-08-16 00:27:46 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/steel_boots": {
+    "criteria": {
+      "has_steel_ingot": "2025-08-16 00:27:53 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/steel_helmet": {
+    "criteria": {
+      "has_steel_ingot": "2025-08-16 00:27:53 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/find_ice_maze": {
+    "criteria": {
+      "deep_frozen_ocean": "2025-08-16 00:19:27 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/aluminum_storage_block": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-08-16 00:27:46 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/sea_stew": {
+    "criteria": {
+      "has_item": "2025-08-16 00:26:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/steel_nugget": {
+    "criteria": {
+      "has_steel_ingot": "2025-08-16 00:27:53 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/steel_leggings": {
+    "criteria": {
+      "has_steel_ingot": "2025-08-16 00:27:53 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_shell_horn": {
+    "criteria": {
+      "shell_horn": "2025-08-16 00:27:37 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/diamond_saw_blade": {
+    "criteria": {
+      "has_steel_ingot": "2025-08-16 00:27:53 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/steel_block": {
+    "criteria": {
+      "has_steel_block": "2025-08-16 00:27:53 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/compressing/compressing/steel_plate_from_compressing_steel_ingots": {
+    "criteria": {
+      "has_item": "2025-08-16 00:27:53 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/steel_chestplate": {
+    "criteria": {
+      "has_steel_ingot": "2025-08-16 00:27:53 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/pirate_pouch": {
+    "criteria": {
+      "has_item": "2025-08-16 00:26:10 +0000"
     },
     "done": true
   },

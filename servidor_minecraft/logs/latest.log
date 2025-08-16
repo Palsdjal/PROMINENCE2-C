@@ -2212,3 +2212,85 @@ java.util.ConcurrentModificationException: ThreadLocalRandom accessed from a dif
 [00:19:27] [Server thread/INFO]: Taza_free has made the advancement [Ice Maze]
 [00:20:43] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=-8441, y=-23, z=-2702}
 [00:20:49] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=-8455, y=-3, z=-2629}
+[00:20:51] [Server thread/WARN]: Tried to add entity aquamirae:pillagers_patrol but it was marked as removed already
+[00:21:02] [Server thread/INFO]: [Handshake] Sending channel query
+[00:21:02] [Netty Epoll Server IO #7/INFO]: [Handshake] Receiving client channels
+[00:21:02] [Netty Epoll Server IO #7/INFO]: [Handshake] Handshake completed successfully
+[00:21:02] [Server thread/INFO]: VadniesHael[/127.146.157.221:55147] logged in with entity id 15220 at (-7601.1245120118865, 65.0, -3202.2630471447574)
+[00:21:02] [Server thread/INFO]: Sending server config values to client
+[00:21:02] [Server thread/INFO]: Syncing config to VadniesHael (e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95)
+[00:21:02] [Server thread/INFO]: Loading config from file...
+[00:21:03] [Server thread/INFO]: [STDOUT]: Splitting recipes into 10 packets
+[00:21:03] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[00:21:03] [Server thread/INFO]: VadniesHael joined the game
+[00:21:03] [Server thread/INFO]: Loading Configs for Sortilege
+[00:21:03] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[00:21:03] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[00:21:03] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[00:21:03] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[00:21:03] [Server thread/INFO]: PLAYER_JOIN
+[00:21:03] [Server thread/INFO]: add_player wand
+[00:21:03] [Server thread/INFO]: config sent
+[00:21:03] [Server thread/INFO]: Updating all forceload tickets for e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95
+[00:21:05] [Netty Epoll Server IO #7/INFO]: Receiving client config
+[00:21:10] [Netty Epoll Server IO #7/INFO]: Channel update: VadniesHael -> default
+[00:21:10] [Netty Epoll Server IO #7/INFO]: Priority overwritten for player VadniesHael. Claiming: GRAVE / Robbing: INVENTORY
+[00:21:12] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
+[00:21:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2168ms or 43 ticks behind
+[00:21:35] [Server thread/WARN]: Tried to add entity aquamirae:pillagers_patrol but it was marked as removed already
+[00:21:36] [Worker-Main-3/INFO]: [STDOUT]: Distance from spawn is: 9075
+[00:21:39] [Server thread/WARN]: Tried to add entity aquamirae:pillagers_patrol but it was marked as removed already
+[00:22:29] [Server thread/INFO]: [STDOUT]: Finalizing energy item registration
+[00:22:51] [Netty Epoll Server IO #1/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.network.LegacyQueryHandler.channelRead(LegacyQueryHandler.java:95) ~[server-intermediary.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.network.NetworkState$PacketHandler.createPacket(NetworkState.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.network.NetworkState.getPacketHandler(NetworkState.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.network.DecoderHandler.redirect$cog000$connectivity$checkDecodingError(DecoderHandler.java:570) ~[server-intermediary.jar:?]
+	at net.minecraft.network.DecoderHandler.decode(DecoderHandler.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 29 more
+[00:22:53] [Server thread/INFO]: <VadniesHael> XD
+[00:22:55] [Server thread/INFO]: <Taza_free> XD
+[00:23:15] [Server thread/INFO]: [STDOUT]: Finalizing fluid block registration
+[00:23:15] [Server thread/INFO]: [STDOUT]: Finalizing energy block registration
+[00:23:53] [Server thread/INFO]: [VadniesHael: Set own game mode to Creative Mode]
+[00:27:37] [Server thread/INFO]: Taza_free has made the advancement [Exploration]
+[00:29:11] [Worker-Main-3/WARN]: Ignoring unknown attribute 'obscure_api:magic_damage'
+[00:30:54] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=-7983, y=0, z=-3420}
