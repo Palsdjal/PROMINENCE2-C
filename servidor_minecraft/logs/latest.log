@@ -2560,3 +2560,19 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 [01:28:50] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to -7424.500000, 63.500000, -3076.500000]
 [01:28:54] [Server thread/INFO]: VadniesHael claimed a grave belonging to VadniesHael at -7425, 64, -3075, minecraft:overworld
 [01:30:26] [Server thread/INFO]: [VadniesHael: Set own game mode to Creative Mode]
+[01:35:15] [Server thread/INFO]: VadniesHael has made the advancement [Well prepared]
+[01:35:23] [Server thread/INFO]: [VadniesHael: Set own game mode to Survival Mode]
+[01:35:30] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[01:37:17] [Server thread/WARN]: VadniesHael moved wrongly!
+[01:37:20] [Server thread/WARN]: VadniesHael moved wrongly!
+[01:37:23] [Server thread/WARN]: VadniesHael moved wrongly!
+[01:37:25] [Server thread/WARN]: VadniesHael moved wrongly!
+[01:37:26] [Server thread/WARN]: VadniesHael moved wrongly!
+[01:37:27] [Server thread/WARN]: VadniesHael moved wrongly!
+[01:37:27] [Server thread/WARN]: VadniesHael moved wrongly!
+[01:37:41] [Server thread/WARN]: VadniesHael moved wrongly!
+[01:38:21] [Server thread/INFO]: Taza_free has made the advancement [Beach Beats]
+[01:40:02] [Server thread/INFO]: Villager class_1646['Malcolm'/67003, l='ServerLevel[world]', x=1732.58, y=105.00, z=1935.46] died, message: 'Malcolm was slain by Zombie'
+[01:40:02] [Server thread/INFO]: Named entity class_1646['Malcolm'/67003, l='ServerLevel[world]', x=1732.58, y=105.00, z=1935.46] died: Malcolm was slain by Zombie
+[01:41:00] [Server thread/WARN]: VadniesHael moved wrongly!
+[01:43:35] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to -7319.500000, 63.500000, -3200.500000]

@@ -604,6 +604,7 @@
       "minecraft:piglin": "2025-08-13 01:07:26 +0000",
       "minecraft:silverfish": "2025-08-12 01:27:21 +0000",
       "minecraft:stray": "2025-08-14 04:52:27 +0000",
+      "minecraft:enderman": "2025-08-16 01:30:00 +0000",
       "minecraft:vex": "2025-08-12 21:50:48 +0000",
       "minecraft:zombie": "2025-08-10 17:49:44 +0000",
       "minecraft:drowned": "2025-08-14 04:26:43 +0000",
@@ -17946,9 +17947,33 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:recipes/levitation_block": {
+    "criteria": {
+      "has_ancient_anima": "2025-08-16 01:29:15 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/craft_coffin": {
+    "criteria": {
+      "coffin": "2025-08-16 01:35:15 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/mob_ward": {
+    "criteria": {
+      "has_ancient_anima": "2025-08-16 01:29:15 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/goat_gear_chestplate": {
     "criteria": {
       "has_leather_chestplate": "2025-08-16 00:53:43 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/charged_ender_pearl": {
+    "criteria": {
+      "has_ancient_anima": "2025-08-16 01:29:15 +0000"
     },
     "done": true
   },
