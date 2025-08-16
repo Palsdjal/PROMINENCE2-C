@@ -2364,3 +2364,32 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 [05:24:32] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to Taza_free]
 [05:24:32] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of VadniesHael accepted server config.
 [05:24:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2139ms or 42 ticks behind
+[05:25:31] [Server thread/INFO]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[05:25:50] [Server thread/INFO]: VadniesHael claimed a grave belonging to VadniesHael at 156, 33, 178, minecraft:the_nether
+[05:27:21] [Server thread/INFO]: [VadniesHael: Set Taza_free's game mode to Survival Mode]
+[05:27:51] [Server thread/INFO]: [VadniesHael: Set own game mode to Creative Mode]
+[05:29:00] [Server thread/INFO]: [VadniesHael: Set own game mode to Survival Mode]
+[05:29:47] [Server thread/INFO]: Taza_free was obliterated by The Decaying King
+[05:29:47] [Server thread/INFO]: Created new backpack backup file for Taza_free with unique ID travelersbackpack.ocelot_16.08.2025-05.29.47.dat
+[05:29:49] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[05:30:02] [Server thread/INFO]: [VadniesHael: Teleported Taza_free to VadniesHael]
+[05:30:02] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[05:30:25] [Server thread/INFO]: Taza_free claimed a grave belonging to Taza_free at 158, 17, 180, minecraft:the_nether
+[05:30:29] [Server thread/INFO]: Taza_free was slain by The Decaying King
+[05:30:29] [Server thread/INFO]: Created new backpack backup file for Taza_free with unique ID travelersbackpack.ocelot_16.08.2025-05.30.29.dat
+[05:30:31] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[05:30:46] [Server thread/INFO]: [VadniesHael: Teleported Taza_free to VadniesHael]
+[05:30:46] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[05:31:00] [Server thread/INFO]: Taza_free claimed a grave belonging to Taza_free at 155, 17, 182, minecraft:the_nether
+[05:32:00] [Server thread/INFO]: [VadniesHael: Set own game mode to Creative Mode]
+[05:32:56] [Server thread/INFO]: [VadniesHael: Set own game mode to Survival Mode]
+[05:33:56] [Server thread/INFO]: Taza_free was slain by The Decaying King
+[05:33:56] [Server thread/INFO]: Created new backpack backup file for Taza_free with unique ID travelersbackpack.ocelot_16.08.2025-05.33.56.dat
+[05:33:59] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[05:34:08] [Server thread/INFO]: [VadniesHael: Teleported Taza_free to VadniesHael]
+[05:34:09] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[05:34:29] [Server thread/INFO]: Taza_free was slain by The Decaying King
+[05:34:29] [Server thread/INFO]: Created new backpack backup file for Taza_free with unique ID travelersbackpack.ocelot_16.08.2025-05.34.29.dat
+[05:34:31] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
+[05:34:46] [Server thread/INFO]: [VadniesHael: Teleported Taza_free to VadniesHael]
+[05:34:46] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Taza_free accepted server config.
